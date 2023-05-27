@@ -1,0 +1,171 @@
+## Comparison for the theater0 profile, rvn: [137](https://github.com/PRO100KatYT/FortniteProfileRevisions/tree/main/profiles/theater0/137%20theater0.json)-[139](https://github.com/PRO100KatYT/FortniteProfileRevisions/tree/main/profiles/theater0/139%20theater0.json)
+
+Object player_loadout in the profile's stats has been changed from:
+
+```
+{
+  "bPlayerIsNew": false,
+  "primaryQuickBarRecord": {
+    "slots": [
+      {
+        "items": []
+      },
+      {
+        "items": [
+          "2DCDA17EAFDA40309641294EBBA3E4A4"
+        ]
+      },
+      {
+        "items": [
+          "581178CF0C694A53BF5D86C79F6F5482"
+        ]
+      },
+      {
+        "items": [
+          "2F98F3089E58460181D8DD7DD22B7ABE"
+        ]
+      },
+      {
+        "items": []
+      },
+      {
+        "items": []
+      },
+      {
+        "items": []
+      },
+      {
+        "items": []
+      },
+      {
+        "items": []
+      },
+      {
+        "items": []
+      }
+    ]
+  },
+  "secondaryQuickBarRecord": {
+    "slots": [
+      {
+        "items": [
+          "D3D57DBB04094AA7BC350B00077806B7"
+        ]
+      },
+      {
+        "items": [
+          "AA66B43285964EA89CB85F388078416D"
+        ]
+      },
+      {
+        "items": [
+          "305244CA39464F73A8BC810FA1383763"
+        ]
+      },
+      {
+        "items": [
+          "D7F02D23FDEB43B3B3F4E80CAB2C2896"
+        ]
+      },
+      {
+        "items": [
+          "6F04C7E7C0DA42A9A0C566A94A14902F"
+        ]
+      },
+      {
+        "items": []
+      },
+      {
+        "items": []
+      }
+    ]
+  },
+  "zonesCompleted": 11
+}
+```
+
+to:
+
+```
+{
+  "bPlayerIsNew": false,
+  "primaryQuickBarRecord": {
+    "slots": [
+      {
+        "items": []
+      },
+      {
+        "items": [
+          "2DCDA17EAFDA40309641294EBBA3E4A4"
+        ]
+      },
+      {
+        "items": [
+          "581178CF0C694A53BF5D86C79F6F5482"
+        ]
+      },
+      {
+        "items": [
+          "2F98F3089E58460181D8DD7DD22B7ABE"
+        ]
+      },
+      {
+        "items": []
+      },
+      {
+        "items": []
+      },
+      {
+        "items": []
+      },
+      {
+        "items": []
+      },
+      {
+        "items": []
+      },
+      {
+        "items": []
+      }
+    ]
+  },
+  "secondaryQuickBarRecord": {
+    "slots": [
+      {
+        "items": [
+          "D3D57DBB04094AA7BC350B00077806B7"
+        ]
+      },
+      {
+        "items": [
+          "AA66B43285964EA89CB85F388078416D"
+        ]
+      },
+      {
+        "items": [
+          "305244CA39464F73A8BC810FA1383763"
+        ]
+      },
+      {
+        "items": [
+          "D7F02D23FDEB43B3B3F4E80CAB2C2896"
+        ]
+      },
+      {
+        "items": [
+          "6F04C7E7C0DA42A9A0C566A94A14902F"
+        ]
+      },
+      {
+        "items": []
+      },
+      {
+        "items": []
+      }
+    ]
+  },
+  "zonesCompleted": 12
+}
+```
+
+<br><br>

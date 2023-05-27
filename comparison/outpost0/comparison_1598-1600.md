@@ -1,0 +1,3 @@
+## Comparison for the outpost0 profile, rvn: [1598](https://github.com/PRO100KatYT/FortniteProfileRevisions/tree/main/profiles/outpost0/1598%20outpost0.json)-[1600](https://github.com/PRO100KatYT/FortniteProfileRevisions/tree/main/profiles/outpost0/1600%20outpost0.json)
+
+No changes
