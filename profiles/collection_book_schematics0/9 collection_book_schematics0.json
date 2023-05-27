@@ -1,0 +1,156 @@
+{
+  "_id": "7f1f608b887f4ea58fa929ca33d11c6a",
+  "created": "2023-04-08T15:16:36.498Z",
+  "updated": "2023-04-10T04:59:51.675Z",
+  "rvn": 9,
+  "wipeNumber": 9,
+  "accountId": "929ccb6c363e437d9a356f4d89fd66c9",
+  "profileId": "collection_book_schematics0",
+  "version": "refund_plasmacannon_december_2022",
+  "items": {
+    "d02a2178-b45a-4872-87fa-bb92713fcbaf": {
+      "templateId": "CollectionBookPage:pagetraps_floor",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 1
+    },
+    "0139da46-d710-49ef-8a8d-f6fabe37810e": {
+      "templateId": "CollectionBookPage:pagespecial_weapons_spy",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "f954a62d-021b-4e84-a930-8d0e0057b7bf": {
+      "templateId": "CollectionBookPage:pageranged_explosive_weapons",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 1
+    },
+    "275c436c-11bd-4204-97cc-1c0e13238d13": {
+      "templateId": "CollectionBookPage:pagemelee_scythes_weapons",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 1
+    },
+    "2bc8179b-11d9-4f3c-ab60-89477abf89bc": {
+      "templateId": "CollectionBookPage:pagemelee_axes_weapons",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 1
+    },
+    "6e4b277c-8cc8-43f9-9e51-c54e3d1bfc0b": {
+      "templateId": "CollectionBookPage:pagespecial_weapons_vindertech",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "bdc98ffd-3dce-43cf-b102-e419d3a4e45d": {
+      "templateId": "CollectionBookPage:pageranged_snipers_weapons",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 1
+    },
+    "0ba5a1d0-86b3-44a3-9d8a-2dfeb16a96cd": {
+      "templateId": "CollectionBookPage:page_ranged_pistols_weapons",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 1
+    },
+    "eeb77471-d81e-48b1-9ee6-64462cf17078": {
+      "templateId": "CollectionBookPage:pagetraps_ceiling",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 1
+    },
+    "af25bf18-933d-4043-92ab-13dcfa1ec2e7": {
+      "templateId": "CollectionBookPage:pagemelee_swords_weapons",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 1
+    },
+    "17fd0f6a-bc14-4c48-9c94-63b6f7856aed": {
+      "templateId": "CollectionBookPage:pagemelee_tools_weapons",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 1
+    },
+    "e81e3165-0c40-4de2-bd8e-97d29a1731d0": {
+      "templateId": "CollectionBookPage:pagemelee_spears_weapons",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 1
+    },
+    "e6f80025-006c-4eca-8719-f4e6f402cbdc": {
+      "templateId": "CollectionBookPage:page_ranged_smgs_weapons",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "f89ec7c4-6ad7-4f6a-ac1e-c9813e6a8ea9": {
+      "templateId": "CollectionBookPage:pageranged_assault_weapons",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 1
+    },
+    "5cdd7b4f-32c8-43a5-bcd6-fbf1aad79306": {
+      "templateId": "CollectionBookPage:pagespecial_hydraulic",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "0b9cb362-1d19-42c0-9802-7e84f42cab73": {
+      "templateId": "CollectionBookPage:pagespecial_weapons_vacuumtube",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "5ea8c373-0dd1-4268-9597-339d168e63cf": {
+      "templateId": "CollectionBookPage:pagemelee_clubs_weapons",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 1
+    },
+    "8f9c50e0-4710-48a1-bdfa-69cd0f6a5c89": {
+      "templateId": "CollectionBookPage:pagespecial_weapons_neon",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "1dcd8e2d-9e53-4214-851c-8ee35f79edfa": {
+      "templateId": "CollectionBookPage:pagetraps_wall",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 1
+    },
+    "ccfbfb71-2597-45dd-8f46-600f92d2e0be": {
+      "templateId": "CollectionBookPage:pageranged_shotgun_weapons",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 1
+    }
+  },
+  "stats": {
+    "attributes": {}
+  },
+  "commandRevision": 3
+}

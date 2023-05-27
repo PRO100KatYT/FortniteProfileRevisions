@@ -1,0 +1,15 @@
+{
+  "_id": "87469968aa9b400a981710c4fe67b0e4",
+  "created": "2023-04-08T15:16:36.539Z",
+  "updated": "2023-04-08T15:16:36.539Z",
+  "rvn": 1,
+  "wipeNumber": 9,
+  "accountId": "929ccb6c363e437d9a356f4d89fd66c9",
+  "profileId": "theater2",
+  "version": "fixup_missing_build_tools_mar_2023",
+  "items": {},
+  "stats": {
+    "attributes": {}
+  },
+  "commandRevision": 0
+}

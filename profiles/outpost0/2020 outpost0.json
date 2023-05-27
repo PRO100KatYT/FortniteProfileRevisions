@@ -1,0 +1,499 @@
+{
+  "_id": "3612821a4f0f4312bbdc57f1ce794096",
+  "created": "2023-04-08T15:16:36.522Z",
+  "updated": "2023-04-22T08:09:16.574Z",
+  "rvn": 2020,
+  "wipeNumber": 9,
+  "accountId": "929ccb6c363e437d9a356f4d89fd66c9",
+  "profileId": "outpost0",
+  "version": "remove_bars_from_profile_mar_2022",
+  "items": {
+    "54f14dde-c19c-4014-8e51-87c3f3f75263": {
+      "templateId": "WorldItem:metalitemdata",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": ""
+      },
+      "quantity": 4000
+    },
+    "bdba3c32-d464-4688-b29f-a2fa10292bb0": {
+      "templateId": "Ingredient:ingredient_ore_silver",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::AI"
+      },
+      "quantity": 2
+    },
+    "d93c3ef0-2f9c-4afb-8ab3-ba7356a2d191": {
+      "templateId": "Ingredient:ingredient_twine_t04",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Destruction"
+      },
+      "quantity": 1
+    },
+    "e918948b-3dfe-489a-919b-278e9b4790a1": {
+      "templateId": "Ingredient:ingredient_powder_t05",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Destruction"
+      },
+      "quantity": 3
+    },
+    "b42f53d9-0682-44dc-875f-0b70ebd09d33": {
+      "templateId": "WorldItem:metalitemdata",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": ""
+      },
+      "quantity": 4000
+    },
+    "c6565e5a-263b-477b-b325-e2db73d88bbd": {
+      "templateId": "Ingredient:ingredient_duct_tape",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Container"
+      },
+      "quantity": 27
+    },
+    "cfcf7985-834f-4225-b2c1-a2a49a18bfaa": {
+      "templateId": "Ingredient:ingredient_rare_mechanism",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Container"
+      },
+      "quantity": 15
+    },
+    "c7038652-48db-448d-8342-e25b13ab9b32": {
+      "templateId": "Ingredient:ingredient_mechanical_parts_t01",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Destruction"
+      },
+      "quantity": 210
+    },
+    "a84f2470-c17b-43af-b7d1-8a5e3f21ff3f": {
+      "templateId": "Ingredient:ingredient_nuts_bolts",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Destruction"
+      },
+      "quantity": 617
+    },
+    "01007929-9e9a-4a5c-b0cc-49e0ab489cac": {
+      "templateId": "WorldItem:metalitemdata",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": ""
+      },
+      "quantity": 4000
+    },
+    "81849bed-732f-451b-abdf-ade7365b0983": {
+      "templateId": "WorldItem:metalitemdata",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1
+      },
+      "quantity": 4000
+    },
+    "40ebb464-5fac-42c5-b048-ea7067ce8081": {
+      "templateId": "WorldItem:metalitemdata",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": ""
+      },
+      "quantity": 674
+    },
+    "c1fc6f73-9a37-4d31-93e7-1831267d86a9": {
+      "templateId": "Ingredient:ingredient_crystal_sunbeam",
+      "attributes": {},
+      "quantity": 9
+    },
+    "3302dc8f-9dde-4d00-b8a6-5be80c6d899b": {
+      "templateId": "Ingredient:ingredient_mechanical_parts_t02",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "None"
+      },
+      "quantity": 29
+    },
+    "0ca393a2-ed16-4aec-b2df-77fb660d2446": {
+      "templateId": "Ingredient:ingredient_twine_t03",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Destruction"
+      },
+      "quantity": 1
+    },
+    "7f1a2883-18a8-4546-93a9-6ba7d1c1ae8c": {
+      "templateId": "Ingredient:ingredient_batteries",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Destruction"
+      },
+      "quantity": 99
+    },
+    "4b64abff-db6e-49d3-9c9b-f2aee10c6c05": {
+      "templateId": "Ingredient:ingredient_twine_t02",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "None"
+      },
+      "quantity": 31
+    },
+    "872b809e-e196-41bb-af9d-6b2a92aed122": {
+      "templateId": "Ingredient:ingredient_ore_copper",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Container"
+      },
+      "quantity": 63
+    },
+    "a76e7c60-46ca-4220-97af-2f6fe1d5d8e3": {
+      "templateId": "Ingredient:ingredient_bacon",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Container"
+      },
+      "quantity": 45
+    },
+    "33ba2969-ba35-411f-b60c-a6dbddb9909d": {
+      "templateId": "Ingredient:ingredient_resin",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Destruction"
+      },
+      "quantity": 75
+    },
+    "7b0df2d1-7a23-4b5f-a339-adbd15605fb1": {
+      "templateId": "WorldItem:metalitemdata",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1
+      },
+      "quantity": 4000
+    },
+    "3f6ae254-1ec0-47db-ab4c-47beee26cf40": {
+      "templateId": "Ingredient:ingredient_powder_t02",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Destruction"
+      },
+      "quantity": 19
+    },
+    "8e9dff21-bfe9-4662-ba62-558a02082dfa": {
+      "templateId": "Ingredient:ingredient_twine_t01",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Destruction"
+      },
+      "quantity": 247
+    },
+    "7d0fdb9d-39d2-4a8d-ab1a-1492378f85bb": {
+      "templateId": "Ingredient:ingredient_herbs",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::AI, EFortPickupSourceTypeFlag::Tossed: EFortPickupSpawnSource::BotElimination"
+      },
+      "quantity": 223
+    },
+    "c86a4605-89f4-4bde-aa73-b8a106fba07f": {
+      "templateId": "Ingredient:ingredient_blastpowder",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": ""
+      },
+      "quantity": 32
+    },
+    "78d4eba5-b816-41f2-be85-b3d80a98e07a": {
+      "templateId": "WorldItem:metalitemdata",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": ""
+      },
+      "quantity": 4000
+    },
+    "83b6724b-9cab-4c98-a7a8-6b2d5eaba998": {
+      "templateId": "WorldItem:metalitemdata",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": ""
+      },
+      "quantity": 4000
+    },
+    "b14695aa-588e-4e59-a0a7-47e2c7cd1a04": {
+      "templateId": "Ingredient:ingredient_crystal_quartz",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "None"
+      },
+      "quantity": 22
+    },
+    "5e785256-3ce6-4434-b653-33d24b9c1a47": {
+      "templateId": "WorldItem:metalitemdata",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": ""
+      },
+      "quantity": 4000
+    },
+    "fa5ef005-0fa0-45ca-9f5f-d18076784332": {
+      "templateId": "WorldItem:stoneitemdata",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1
+      },
+      "quantity": 1934
+    },
+    "ab666b19-ab84-4f10-9413-7d591dd6ab4a": {
+      "templateId": "Ingredient:ingredient_ore_coal",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::AI"
+      },
+      "quantity": 20
+    },
+    "6cddeaad-2c6c-4975-bbca-835001c63d3c": {
+      "templateId": "WorldItem:metalitemdata",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": ""
+      },
+      "quantity": 4000
+    },
+    "01fce166-e027-4052-9285-74283922b408": {
+      "templateId": "WorldItem:metalitemdata",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": ""
+      },
+      "quantity": 4000
+    },
+    "53c44a59-6e72-448d-87a6-ea9ad4680f64": {
+      "templateId": "Ingredient:ingredient_powder_t01",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "None"
+      },
+      "quantity": 103
+    },
+    "b3edea43-c5db-4be5-bb6e-bf691d134e15": {
+      "templateId": "Ingredient:ingredient_planks",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Destruction"
+      },
+      "quantity": 670
+    },
+    "0b72cece-2e75-43a2-8262-47bc5924ac91": {
+      "templateId": "Ingredient:ingredient_rare_powercell",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "None"
+      },
+      "quantity": 23
+    },
+    "d290373f-bc2e-4b4a-980f-b3566b446361": {
+      "templateId": "WorldItem:wooditemdata",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1
+      },
+      "quantity": 2675
+    },
+    "840b7bf7-2c4e-4285-b090-01983afe941f": {
+      "templateId": "WorldItem:metalitemdata",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Player, EFortPickupSourceTypeFlag::Tossed"
+      },
+      "quantity": 4000
+    },
+    "e366d56d-6983-4929-915a-5e652276b3f9": {
+      "templateId": "WorldItem:stoneitemdata",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": ""
+      },
+      "quantity": 154
+    },
+    "3e49bbc9-2f46-4faf-bdcb-10d2172635a1": {
+      "templateId": "Ingredient:ingredient_flowers",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Container"
+      },
+      "quantity": 106
+    },
+    "a04d1968-6426-43ba-9375-fe62c48eac4e": {
+      "templateId": "Ingredient:ingredient_ore_alloy",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Container"
+      },
+      "quantity": 259
+    }
+  },
+  "stats": {
+    "attributes": {}
+  },
+  "profileLockCode": "F36070047CA34C3BA59948A064E349FC",
+  "profileLockExpiration": "2023-04-22T08:14:46.566Z",
+  "commandRevision": 107
+}

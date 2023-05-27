@@ -1,0 +1,3825 @@
+{
+  "_id": "2426782b3d0f488da60e5cd44b9f786b",
+  "created": "2023-04-08T15:16:36.493Z",
+  "updated": "2023-04-09T06:00:46.651Z",
+  "rvn": 236,
+  "wipeNumber": 9,
+  "accountId": "929ccb6c363e437d9a356f4d89fd66c9",
+  "profileId": "campaign",
+  "version": "cleanup_quest_completion_stat_data_bloat_march_2023",
+  "items": {
+    "a59f6662-8e32-4bc5-b426-0c50f0ccef42": {
+      "templateId": "Quest:piratequest_2019_fetch_seebots",
+      "attributes": {
+        "creation_time": "2023-04-08T18:52:02.196Z",
+        "quest_state": "Claimed",
+        "last_state_change_time": "2023-04-09T05:57:25.939Z",
+        "level": -1,
+        "item_seen": true,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1,
+        "completion_piratequest_2019_fetch_seebots": 5
+      },
+      "quantity": 1
+    },
+    "9430879a-a47e-44bb-a2d6-5b5850b0150a": {
+      "templateId": "Schematic:sid_assault_semiauto_uc_ore_t01",
+      "attributes": {
+        "level": 1,
+        "alterations": [
+          "Alteration:aid_att_damage_t01",
+          "Alteration:aid_att_stability_t01",
+          "Alteration:aid_ele_nature_t03",
+          "Alteration:aid_att_damage_t02",
+          "Alteration:aid_conditional_boss_dmgbonus_t03",
+          "Alteration:aid_g_standstill_stackbuff_damagevsmist"
+        ]
+      },
+      "quantity": 1
+    },
+    "94538fe4-0f28-4f92-8413-dba1ed4790fc": {
+      "templateId": "Quest:starlightquest_daily_complete_d4",
+      "attributes": {
+        "creation_time": "2023-04-09T05:57:19.584Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-09T05:57:19.584Z",
+        "level": -1,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1,
+        "quest_pool": "starlightdailyquest_01"
+      },
+      "quantity": 1
+    },
+    "b9c5f894-d48c-441e-a0bc-0a404164c1ca": {
+      "templateId": "HomebaseNode:questreward_newfollower3_slot",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "d6c836af-3873-4db0-8bfb-081bc46a25d4": {
+      "templateId": "CollectedResource:Token_collectionresource_nodegatetoken01",
+      "attributes": {
+        "last_updated": "2023-04-08T19:09:08.672Z",
+        "stored_value": 0.0
+      },
+      "quantity": 1
+    },
+    "eb0b5c3f-170d-44f4-a5b2-e416faa5eb67": {
+      "templateId": "ConditionalAction:generic_instance",
+      "attributes": {
+        "alt_profile_types": [
+          "athena"
+        ],
+        "_private": true,
+        "devName": "MAJOR: Spring - Yarrr One - Quests",
+        "conditions": {
+          "event": {
+            "instanceId": "q6b6squ521f9r3hpa5pfm7ra84[0]0",
+            "eventName": "CalendarEvent_Spring2019QuestsPhase2",
+            "eventStart": "2023-04-06T00:00:00.000Z",
+            "eventEnd": "2023-05-18T00:00:00.000Z",
+            "startActions": {
+              "hasRun": true,
+              "conversions": [],
+              "itemsToGrant": [
+                {
+                  "templateId": "Quest:piratequest_2019_fetch_seebots",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:piratequest_2019_hidden_watchvideo",
+                  "quantity": 1
+                }
+              ],
+              "questsToUnpause": []
+            },
+            "endActions": {
+              "hasRun": false,
+              "conversions": [],
+              "itemsToRemove": [
+                {
+                  "templateId": "Quest:piratequest_2019_fetch_seebots",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:piratequest_2019_landmark_island",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:piratequest_2019_killcollect_mistmonsters",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:piratequest_2019_fetch_statues",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:piratequest_2019_gathercollect_grillparts",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:piratequest_2019_fetch_mounds",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:piratequest_2019_fetch_lighthouses",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:piratequest_2019_fetch_treasure",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:piratequest_2019_gathercollect_swings",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:piratequest_2019_fetch_shanties",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:piratequest_2019_fetch_banners",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:piratequest_2019_killcollect_melee",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:piratequest_2019_gathercollect_chairs",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:piratequest_2019_landmark_walktheplank",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:piratequest_2019_fetch_bottles",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:piratequest_2019_hidden_watchvideo",
+                  "quantity": 1
+                }
+              ],
+              "questsToPause": []
+            },
+            "metaData": {}
+          }
+        }
+      },
+      "quantity": 1
+    },
+    "56e42e66-97dd-488d-96fd-7d789b703c0d": {
+      "templateId": "PrerollData:preroll_basic",
+      "attributes": {
+        "fulfillmentId": "OfferId:4D64CBE3618D41FBB5CAD0E472F4610A",
+        "expended_streakbreakers": {},
+        "level": 1,
+        "highest_rarity": 0,
+        "offerId": "4D64CBE3618D41FBB5CAD0E472F4610A",
+        "expiration": "2023-04-09T00:00:00.000Z",
+        "items": [
+          {
+            "itemType": "AccountResource:heroxp",
+            "attributes": {},
+            "quantity": 800
+          },
+          {
+            "itemType": "Hero:hid_constructor_hammertank_uc_t01",
+            "attributes": {},
+            "quantity": 1
+          },
+          {
+            "itemType": "Worker:workerbasic_r_t01",
+            "attributes": {
+              "personality": "Homebase.Worker.Personality.IsDependable",
+              "gender": "2",
+              "portrait": "WorkerPortrait:IconDef-WorkerPortrait-Dependable-F03",
+              "set_bonus": "Homebase.Worker.SetBonus.IsMeleeDamageLow"
+            },
+            "quantity": 1
+          },
+          {
+            "itemType": "Schematic:sid_launcher_rocket_r_ore_t01",
+            "attributes": {
+              "Alteration": {
+                "LootTierGroup": "AlterationTG.Ranged.Launcher.R",
+                "Tier": 0
+              },
+              "alterations": [
+                "Alteration:aid_att_reloadspeed_ranged_t01",
+                "Alteration:aid_att_reloadspeed_ranged_t01",
+                "Alteration:aid_ele_nature_t02",
+                "Alteration:aid_att_damage_t03",
+                "Alteration:aid_conditional_afflicted_dmgbonus_t03",
+                "Alteration:aid_g_onimpactbreak_dealdamage"
+              ]
+            },
+            "quantity": 1
+          },
+          {
+            "itemType": "AccountResource:eventcurrency_adventure",
+            "attributes": {},
+            "quantity": 50
+          },
+          {
+            "itemType": "Schematic:sid_blunt_club_light_vr_ore_t01",
+            "attributes": {
+              "alterations": [
+                "Alteration:aid_att_critchance_t01",
+                "Alteration:aid_att_maxdurability_t01",
+                "Alteration:aid_ele_water_t02",
+                "Alteration:aid_att_firerate_melee_t02",
+                "Alteration:aid_conditional_boss_dmgbonus_t03",
+                "Alteration:aid_g_weapon_ondmg_applysnare_v2"
+              ]
+            },
+            "quantity": 1
+          }
+        ]
+      },
+      "quantity": 1
+    },
+    "aa4e3c7a-2bb8-4478-94cd-08850186211c": {
+      "templateId": "TeamPerk:tpid_longarmofthelaw",
+      "attributes": {},
+      "quantity": 1
+    },
+    "0adad579-d676-4a48-baf7-61f793f046cd": {
+      "templateId": "Hero:hid_constructor_rushbase_uc_t01",
+      "attributes": {
+        "hero_name": "DefaultHeroName",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "building_slot_used": -1
+      },
+      "quantity": 1
+    },
+    "5c8666d2-a975-4b04-8942-df21fd392264": {
+      "templateId": "Quest:stonewoodquest_fetch_trashcans",
+      "attributes": {
+        "creation_time": "2023-04-08T20:10:05.148Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T20:10:05.148Z",
+        "level": -1,
+        "item_seen": true,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "6e42bf7e-8be5-4dea-b0a9-4c40681d6fe0": {
+      "templateId": "HomebaseNode:questreward_stonewood_squad_ssd1",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "ae22c15e-962b-4878-b0c4-9e3dd19c140f": {
+      "templateId": "Hero:hid_commando_grenadegun_uc_t01",
+      "attributes": {
+        "hero_name": "DefaultHeroName",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "building_slot_used": -1
+      },
+      "quantity": 1
+    },
+    "48b45b76-2aeb-47d7-8722-58a20c6fb7da": {
+      "templateId": "Schematic:sid_edged_sword_medium_c_ore_t00",
+      "attributes": {
+        "level": 1,
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "0ddab4e9-13f7-4bca-b9bc-547a48d84b49": {
+      "templateId": "Quest:bbpromoquest_2019_reactive_kylecabinet",
+      "attributes": {
+        "creation_time": "2023-04-08T18:53:17.935Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T18:53:17.935Z",
+        "completion_bbpromoquest_2019_reactive_kylecabinet_obj0": 1,
+        "level": -1,
+        "item_seen": true,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "b68e9aea-200c-4883-b082-9b22d73c3ba5": {
+      "templateId": "Quest:challenge_missionaccomplished_1",
+      "attributes": {
+        "creation_time": "2023-04-08T18:53:17.935Z",
+        "quest_state": "Claimed",
+        "last_state_change_time": "2023-04-08T19:47:38.285Z",
+        "level": -1,
+        "completion_complete_primary": 3,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "75a0432f-4572-42ba-9ef2-c55ff54ecbdb": {
+      "templateId": "ConditionalAction:generic_instance",
+      "attributes": {
+        "alt_profile_types": [
+          "athena"
+        ],
+        "_private": true,
+        "devName": "MAJOR: Spring - Dungeons - Quests - The Lab",
+        "conditions": {
+          "event": {
+            "instanceId": "cba2egoa0lj451h0uf58ic7t1s[0]0",
+            "eventName": "CalendarEvent_Starlight2021_Quests_D5Science",
+            "eventStart": "2023-04-06T00:00:00.000Z",
+            "eventEnd": "2023-06-22T00:00:00.000Z",
+            "startActions": {
+              "hasRun": true,
+              "conversions": [],
+              "itemsToGrant": [],
+              "questsToUnpause": []
+            },
+            "endActions": {
+              "hasRun": false,
+              "conversions": [],
+              "itemsToRemove": [
+                {
+                  "templateId": "Quest:starlightquest_complete_d5science_a",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:starlightquest_complete_d5science_b",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:starlightquest_complete_d5science_c",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:starlightquest_complete_d5science_hard",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:starlightquest_daily_complete_d5science",
+                  "quantity": 1
+                }
+              ],
+              "questsToPause": []
+            },
+            "metaData": {}
+          }
+        }
+      },
+      "quantity": 1
+    },
+    "871e5e9f-372b-4de4-9a72-e7910d98b80f": {
+      "templateId": "Quest:starlightquest_complete_dailies_2",
+      "attributes": {
+        "creation_time": "2023-04-08T17:19:52.590Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T17:19:52.590Z",
+        "level": -1,
+        "item_seen": true,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "18f30e26-7f1a-492d-ba6a-25576a00a991": {
+      "templateId": "HomebaseNode:questreward_feature_traplevelup",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "99d77e47-0613-4e67-87e5-015258aaf6fc": {
+      "templateId": "Quest:stonewoodquest_closegate_d1",
+      "attributes": {
+        "creation_time": "2023-04-08T17:20:06.170Z",
+        "quest_state": "Claimed",
+        "last_state_change_time": "2023-04-08T17:38:35.109Z",
+        "level": -1,
+        "item_seen": true,
+        "completion_complete_gate_1": 1,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "72b55e14-d765-4f7b-8ed4-2787c699046c": {
+      "templateId": "Quest:stonewoodquest_landmark_buildoff",
+      "attributes": {
+        "creation_time": "2023-04-08T19:09:08.676Z",
+        "quest_state": "Claimed",
+        "last_state_change_time": "2023-04-08T19:29:01.300Z",
+        "level": -1,
+        "item_seen": true,
+        "completion_stonewoodquest_landmark_buildoff": 1,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "27174eac-4d9d-464e-8d3d-4472032e5678": {
+      "templateId": "AccountResource:eventcurrency_adventure",
+      "attributes": {
+        "level": 1,
+        "item_seen": true
+      },
+      "quantity": 468
+    },
+    "177208c9-9fe1-45f6-a263-33344e93e5f0": {
+      "templateId": "Schematic:ingredient_duct_tape",
+      "attributes": {
+        "level": 1
+      },
+      "quantity": 1
+    },
+    "59a993d3-ab2b-4948-bf7d-34864bd34078": {
+      "templateId": "Schematic:sid_floor_spikes_wood_uc_t01",
+      "attributes": {
+        "level": 1,
+        "alterations": [
+          "Alteration:aid_att_damage_physical_t01",
+          "Alteration:aid_att_damage_t02",
+          "Alteration:aid_att_damage_t03",
+          "Alteration:aid_att_maxdurability_trap_t03",
+          "Alteration:aid_att_damage_t02",
+          "Alteration:aid_att_buildingmaxhealth_t03"
+        ]
+      },
+      "quantity": 1
+    },
+    "49ce5a85-5b17-4856-9979-5ef9c62b9f3d": {
+      "templateId": "HomebaseNode:questreward_feature_defenderlevelup",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "09cf107f-38cf-4b27-b4a7-67cf696e65cf": {
+      "templateId": "Quest:stonewoodquest_hidden_hasitems",
+      "attributes": {
+        "creation_time": "2023-04-08T17:10:32.197Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T17:10:32.197Z",
+        "completion_stonewoodquest_hidden_hasitems": 39,
+        "level": -1,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "4c1dd56d-75b6-4511-a5ae-609bb8ec4611": {
+      "templateId": "Quest:heroquest_outlander_1",
+      "attributes": {
+        "creation_time": "2023-04-08T19:29:01.305Z",
+        "quest_state": "Claimed",
+        "last_state_change_time": "2023-04-08T19:47:31.881Z",
+        "level": -1,
+        "completion_complete_exploration_1_diff2": 1,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "5612df10-7287-4cae-b4d5-3352e036d617": {
+      "templateId": "Quest:tutorial_loadout_preset1",
+      "attributes": {
+        "creation_time": "2023-04-08T19:47:34.953Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T19:47:34.953Z",
+        "level": -1,
+        "completion_heroloadout_preset_guardscreen1": 1,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "4910cd77-6582-4b74-b100-3ea84463b0ed": {
+      "templateId": "ConditionalAction:generic_instance",
+      "attributes": {
+        "alt_profile_types": [
+          "athena"
+        ],
+        "_private": true,
+        "devName": "MAJOR: Spring - Dungeons - Quests Phase 4",
+        "conditions": {
+          "event": {
+            "instanceId": "37qfg7nf0tevqro2effll7kg3r[0]0",
+            "eventName": "CalendarEvent_Starlight2019_Quests_Phase4",
+            "eventStart": "2023-04-06T00:00:00.000Z",
+            "eventEnd": "2023-06-22T00:00:00.000Z",
+            "startActions": {
+              "hasRun": true,
+              "conversions": [],
+              "itemsToGrant": [],
+              "questsToUnpause": []
+            },
+            "endActions": {
+              "hasRun": false,
+              "conversions": [],
+              "itemsToRemove": [
+                {
+                  "templateId": "Quest:starlightquest_daily_complete_d4",
+                  "quantity": 1
+                }
+              ],
+              "questsToPause": []
+            },
+            "metaData": {}
+          }
+        }
+      },
+      "quantity": 1
+    },
+    "45f1b154-007b-40f5-9057-dde25d093d3e": {
+      "templateId": "Quota:restxp",
+      "attributes": {
+        "max_quota": 23005398,
+        "level": 1,
+        "units_per_minute_recharge": 19171,
+        "recharge_delay_minutes": 360,
+        "last_mod_time": "2023-04-08T20:07:08.819Z",
+        "current_value": 0.0
+      },
+      "quantity": 1
+    },
+    "0422a38b-8e72-4543-9960-3b9d34eee854": {
+      "templateId": "PrerollData:preroll_basic",
+      "attributes": {
+        "linked_offer": "OfferId:4D64CBE3618D41FBB5CAD0E472F4610A",
+        "fulfillmentId": "OfferId:D2E08EFA731D437B85B7340EB51A5E1D",
+        "level": 1,
+        "highest_rarity": 0,
+        "offerId": "D2E08EFA731D437B85B7340EB51A5E1D",
+        "expiration": "2023-04-09T00:00:00.000Z",
+        "items": [
+          {
+            "itemType": "AccountResource:heroxp",
+            "attributes": {},
+            "quantity": 800
+          },
+          {
+            "itemType": "Hero:hid_constructor_hammertank_uc_t01",
+            "attributes": {},
+            "quantity": 1
+          },
+          {
+            "itemType": "Worker:workerbasic_r_t01",
+            "attributes": {
+              "personality": "Homebase.Worker.Personality.IsDependable",
+              "gender": "2",
+              "portrait": "WorkerPortrait:IconDef-WorkerPortrait-Dependable-F03",
+              "set_bonus": "Homebase.Worker.SetBonus.IsMeleeDamageLow"
+            },
+            "quantity": 1
+          },
+          {
+            "itemType": "Schematic:sid_launcher_rocket_r_ore_t01",
+            "attributes": {
+              "Alteration": {
+                "LootTierGroup": "AlterationTG.Ranged.Launcher.R",
+                "Tier": 0
+              },
+              "alterations": [
+                "Alteration:aid_att_reloadspeed_ranged_t01",
+                "Alteration:aid_att_reloadspeed_ranged_t01",
+                "Alteration:aid_ele_nature_t02",
+                "Alteration:aid_att_damage_t03",
+                "Alteration:aid_conditional_afflicted_dmgbonus_t03",
+                "Alteration:aid_g_onimpactbreak_dealdamage"
+              ]
+            },
+            "quantity": 1
+          },
+          {
+            "itemType": "AccountResource:eventcurrency_adventure",
+            "attributes": {},
+            "quantity": 50
+          },
+          {
+            "itemType": "Schematic:sid_blunt_club_light_vr_ore_t01",
+            "attributes": {
+              "alterations": [
+                "Alteration:aid_att_critchance_t01",
+                "Alteration:aid_att_maxdurability_t01",
+                "Alteration:aid_ele_water_t02",
+                "Alteration:aid_att_firerate_melee_t02",
+                "Alteration:aid_conditional_boss_dmgbonus_t03",
+                "Alteration:aid_g_weapon_ondmg_applysnare_v2"
+              ]
+            },
+            "quantity": 1
+          }
+        ]
+      },
+      "quantity": 1
+    },
+    "9d1b6c73-4a1b-418e-acbf-ef579953e34f": {
+      "templateId": "Quest:reactivequest_copperore",
+      "attributes": {
+        "creation_time": "2023-04-08T17:10:32.197Z",
+        "quest_state": "Claimed",
+        "last_state_change_time": "2023-04-08T17:38:07.869Z",
+        "completion_quest_reactive_copperore": 1,
+        "level": -1,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "aaaa8508-12ec-4409-892f-9114d35a3eb6": {
+      "templateId": "Quest:stwstarterbundle13_03",
+      "attributes": {
+        "creation_time": "2023-04-08T18:54:27.165Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T18:54:27.165Z",
+        "level": -1,
+        "item_seen": true,
+        "quest_rarity": "legendary",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "f3d3512b-0e19-4652-ad63-0e4233b3531c": {
+      "templateId": "Quest:adventure_seasonal_weapon_01",
+      "attributes": {
+        "creation_time": "2023-04-08T18:52:02.196Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T18:52:02.196Z",
+        "level": -1,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "ee701110-13fc-4280-ae58-fcb2aa9237fe": {
+      "templateId": "Quest:homebasequest_slotmissiondefender",
+      "attributes": {
+        "creation_time": "2023-04-08T17:10:32.197Z",
+        "quest_state": "Claimed",
+        "last_state_change_time": "2023-04-08T19:47:17.663Z",
+        "level": -1,
+        "quest_rarity": "uncommon",
+        "completion_questcomplete_stonewoodquest_filler_1_d3": 1,
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "50f0e604-7bc0-4991-83b3-90202353f146": {
+      "templateId": "Quest:starlightquest_complete_d1_a",
+      "attributes": {
+        "creation_time": "2023-04-08T17:19:52.590Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T17:19:52.590Z",
+        "level": -1,
+        "item_seen": true,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "ac561c10-8973-48c7-b33a-fd7eac2eceb3": {
+      "templateId": "Quest:stonewoodquest_fetch_researchcrates",
+      "attributes": {
+        "creation_time": "2023-04-08T18:53:17.935Z",
+        "quest_state": "Claimed",
+        "last_state_change_time": "2023-04-08T19:09:08.672Z",
+        "level": -1,
+        "item_seen": true,
+        "completion_stonewoodquest_fetch_researchcrates": 5,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "92427821-7d2c-4d55-af68-8672d6837cde": {
+      "templateId": "Schematic:sid_edged_sword_light_uc_ore_t01",
+      "attributes": {
+        "level": 1,
+        "item_seen": true,
+        "alterations": [
+          "Alteration:aid_att_firerate_melee_t01",
+          "Alteration:aid_att_damage_t01",
+          "Alteration:aid_att_damage_physical_t02",
+          "Alteration:aid_att_critchance_t03",
+          "Alteration:aid_conditional_afflicted_dmgbonus_t03",
+          "Alteration:aid_g_affliction_v2"
+        ]
+      },
+      "quantity": 1
+    },
+    "b25dec57-27a7-432a-abe2-9892f2f4abfc": {
+      "templateId": "Quest:starlightquest_kill_mimics",
+      "attributes": {
+        "creation_time": "2023-04-08T17:19:52.590Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T17:19:52.590Z",
+        "level": -1,
+        "item_seen": true,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "60e07e47-15d1-47af-94d8-2be00edc07b3": {
+      "templateId": "Quest:stonewoodquest_side_1_d3",
+      "attributes": {
+        "creation_time": "2023-04-08T19:47:34.952Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T19:47:34.952Z",
+        "level": -1,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "e4325329-d473-4c84-8c0d-fb72d43389b6": {
+      "templateId": "AccountResource:eventcurrency_scaling",
+      "attributes": {
+        "level": 1,
+        "item_seen": true
+      },
+      "quantity": 482
+    },
+    "0cad1f55-172d-4d81-9f10-f8e6b5efd219": {
+      "templateId": "Stat:resistance",
+      "attributes": {
+        "level": 1
+      },
+      "quantity": 3
+    },
+    "487e9d5b-790a-4cd3-945c-23b21da9c81d": {
+      "templateId": "ConditionalAction:generic_instance",
+      "attributes": {
+        "alt_profile_types": [
+          "athena"
+        ],
+        "_private": true,
+        "devName": "STORE: Spring - Event - Campaign Currency",
+        "conditions": {
+          "event": {
+            "instanceId": "pfl4nvop92r8fa801837fl1k1m[0]0",
+            "eventName": "CalendarEvent_Persistent_Pirate_EventCurrency",
+            "eventStart": "2023-04-06T00:00:00.000Z",
+            "eventEnd": "2023-06-22T00:00:00.000Z",
+            "startActions": {
+              "hasRun": true,
+              "conversions": [],
+              "itemsToGrant": [],
+              "questsToUnpause": [],
+              "eventCurrencyToSet": {
+                "templateId": "AccountResource:eventcurrency_adventure",
+                "cf": 1.0
+              }
+            },
+            "endActions": {
+              "hasRun": false,
+              "conversions": [
+                {
+                  "recipe": {
+                    "static_results": [
+                      {
+                        "templateId": "CardPack:cardpack_event_persistent_pirate",
+                        "quantity": 1
+                      }
+                    ],
+                    "static_costs": [
+                      {
+                        "templateId": "AccountResource:eventcurrency_adventure",
+                        "quantity": 500
+                      }
+                    ],
+                    "static_catalysts": []
+                  },
+                  "quantity": -1,
+                  "convert_remainder_up": true
+                }
+              ],
+              "itemsToRemove": [],
+              "questsToPause": [],
+              "eventCurrencyToUnset": "AccountResource:eventcurrency_adventure"
+            },
+            "metaData": {}
+          }
+        }
+      },
+      "quantity": 1
+    },
+    "c61a881f-80ee-46a2-bf3a-308bca3e4c63": {
+      "templateId": "Quest:wargames_completedailyquest",
+      "attributes": {
+        "creation_time": "2023-04-09T05:57:19.583Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-09T05:57:19.583Z",
+        "level": -1,
+        "quest_rarity": "legendary",
+        "xp_reward_scalar": 1,
+        "quest_pool": "dailywargameschallenge_01"
+      },
+      "quantity": 1
+    },
+    "cd7fd52c-b67a-4ba8-aad3-a4296bd4629e": {
+      "templateId": "Schematic:sid_floor_health_c_t00",
+      "attributes": {
+        "level": 1,
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "47bb5bc2-1975-4e75-a970-5b099e527a15": {
+      "templateId": "Quest:wargames_dailyquest_anomaly_with_explode_stonewood",
+      "attributes": {
+        "creation_time": "2023-04-09T05:57:19.584Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-09T05:57:19.584Z",
+        "level": -1,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1,
+        "quest_pool": "dailywargamesstonewood_01"
+      },
+      "quantity": 1
+    },
+    "d73b7d91-7aee-42a4-bd95-4e5147466307": {
+      "templateId": "Quest:pickaxequest_stw007_basic",
+      "attributes": {
+        "creation_time": "2023-04-08T17:20:10.338Z",
+        "quest_state": "Claimed",
+        "last_state_change_time": "2023-04-08T17:38:38.388Z",
+        "level": -1,
+        "item_seen": true,
+        "completion_questcomplete_stonewoodquest_closegate_d1": 1,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "75d81517-998f-4664-aca4-20537160b3d8": {
+      "templateId": "Quest:heroquest_constructor_1",
+      "attributes": {
+        "creation_time": "2023-04-08T19:29:01.305Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T19:29:01.305Z",
+        "level": -1,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "480d6689-0229-4092-8732-6b00a49107e6": {
+      "templateId": "Quest:challenge_missionaccomplished_2",
+      "attributes": {
+        "creation_time": "2023-04-08T19:47:38.285Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T19:47:38.285Z",
+        "level": -1,
+        "completion_complete_primary": 1,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "4cc30217-6208-4a2e-9e5b-dd5f51e95f51": {
+      "templateId": "Token:collectionresource_nodegatetoken01",
+      "attributes": {
+        "level": 1
+      },
+      "quantity": 200
+    },
+    "2a698f24-2c45-4a74-8de8-265cd0ee9b8f": {
+      "templateId": "AccountResource:heroxp",
+      "attributes": {
+        "level": 1,
+        "item_seen": true
+      },
+      "quantity": 18180
+    },
+    "be784e20-deab-4257-a336-18568a67584f": {
+      "templateId": "Schematic:sid_shotgun_standard_r_ore_t01",
+      "attributes": {
+        "level": 1,
+        "item_seen": true,
+        "alterations": [
+          "Alteration:aid_att_critdamage_t01",
+          "Alteration:aid_att_maxdurability_t02",
+          "Alteration:aid_att_damage_physical_t02",
+          "Alteration:aid_att_damage_t03",
+          "Alteration:aid_conditional_boss_dmgbonus_t03",
+          "Alteration:aid_g_weapon_ondmg_applysnare_v2"
+        ]
+      },
+      "quantity": 1
+    },
+    "9c2eb081-1d2f-4dbf-84db-988a4700eb23": {
+      "templateId": "Quest:starlightquest_complete_all_hard",
+      "attributes": {
+        "creation_time": "2023-04-08T17:19:52.590Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T17:19:52.590Z",
+        "level": -1,
+        "item_seen": true,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "2e3b3555-828f-46f2-9180-7d5a83b712e5": {
+      "templateId": "ConditionalAction:generic_instance",
+      "attributes": {
+        "alt_profile_types": [
+          "athena"
+        ],
+        "_private": true,
+        "devName": "MAJOR: Spring - Repeatable Quests",
+        "conditions": {
+          "event": {
+            "instanceId": "5gphgj76i7kcbnliloneu1ni1p[0]0",
+            "eventName": "CalendarEvent_Persistent_EventRepeatables",
+            "eventStart": "2023-04-06T00:00:00.000Z",
+            "eventEnd": "2023-06-22T00:00:00.000Z",
+            "startActions": {
+              "hasRun": true,
+              "conversions": [],
+              "itemsToGrant": [
+                {
+                  "templateId": "Quest:genericquest_completestormzones_repeatable",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:genericquest_killmistmonsters_repeatable",
+                  "quantity": 1
+                }
+              ],
+              "questsToUnpause": []
+            },
+            "endActions": {
+              "hasRun": false,
+              "conversions": [],
+              "itemsToRemove": [
+                {
+                  "templateId": "Quest:genericquest_completestormzones_repeatable",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:genericquest_killmistmonsters_repeatable",
+                  "quantity": 1
+                }
+              ],
+              "questsToPause": []
+            },
+            "metaData": {}
+          }
+        }
+      },
+      "quantity": 1
+    },
+    "44b984a2-3316-429e-8d2f-8526d041dfe9": {
+      "templateId": "PrerollData:preroll_basic",
+      "attributes": {
+        "fulfillmentId": "63BE689248CAF1251C84B4B3574F90EF",
+        "level": 1,
+        "highest_rarity": 0,
+        "offerId": "B9B0CE758A5049F898773C1A47A69ED4",
+        "expiration": "2023-04-09T00:00:00.000Z",
+        "items": [
+          {
+            "itemType": "Worker:workerbasic_c_t01",
+            "attributes": {
+              "personality": "Homebase.Worker.Personality.IsDreamer",
+              "gender": "1",
+              "portrait": "WorkerPortrait:IconDef-WorkerPortrait-Dreamer-M02",
+              "set_bonus": "Homebase.Worker.SetBonus.IsAbilityDamageLow"
+            },
+            "quantity": 1
+          },
+          {
+            "itemType": "Hero:hid_ninja_starsassassin_uc_t01",
+            "attributes": {},
+            "quantity": 1
+          },
+          {
+            "itemType": "Worker:workerbasic_uc_t01",
+            "attributes": {
+              "personality": "Homebase.Worker.Personality.IsDreamer",
+              "gender": "1",
+              "portrait": "WorkerPortrait:IconDef-WorkerPortrait-Dreamer-M02",
+              "set_bonus": "Homebase.Worker.SetBonus.IsFortitudeLow"
+            },
+            "quantity": 1
+          },
+          {
+            "itemType": "Schematic:sid_wall_darts_r_t01",
+            "attributes": {
+              "Alteration": {
+                "LootTierGroup": "AlterationTG.Trap.R",
+                "Tier": 0
+              },
+              "alterations": [
+                "Alteration:aid_att_damage_physical_t01",
+                "Alteration:aid_att_maxdurability_trap_t01",
+                "Alteration:aid_att_reloadspeed_trap_t03",
+                "Alteration:aid_att_critchance_t02",
+                "Alteration:aid_att_reloadspeed_trap_t03",
+                "Alteration:aid_att_buildingmaxhealth_t03"
+              ]
+            },
+            "quantity": 1
+          },
+          {
+            "itemType": "AccountResource:eventcurrency_adventure",
+            "attributes": {},
+            "quantity": 50
+          }
+        ]
+      },
+      "quantity": 1
+    },
+    "6b4ed7de-821e-4683-a846-3a027efd3853": {
+      "templateId": "HomebaseNode:skilltree_adrenalinerush",
+      "attributes": {},
+      "quantity": 1
+    },
+    "5a621265-78e7-4869-9dbb-600db6adbf12": {
+      "templateId": "Quest:weeklyquest_tiered_completemissionalerts_t03",
+      "attributes": {
+        "creation_time": "2023-04-08T18:49:22.609Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T18:49:22.609Z",
+        "level": -1,
+        "item_seen": true,
+        "completion_weeklyquest_tiered_completemissionalerts_t03": 1,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1,
+        "quest_pool": "weeklyquestroll_01"
+      },
+      "quantity": 1
+    },
+    "4452a10e-2907-4c14-a66e-1de53b9f62c2": {
+      "templateId": "Quest:daily_discovery_industriallocations",
+      "attributes": {
+        "creation_time": "2023-04-09T05:57:19.586Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-09T05:57:19.586Z",
+        "level": -1,
+        "item_seen": true,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "76c0abb0-2668-4be6-8de1-013889a3948d": {
+      "templateId": "ConditionalAction:generic_instance",
+      "attributes": {
+        "alt_profile_types": [
+          "athena"
+        ],
+        "_private": true,
+        "devName": "MAJOR: Spring - Dungeons",
+        "conditions": {
+          "event": {
+            "instanceId": "n1bri73jdplapat8jkakees1rd[0]0",
+            "eventName": "CalendarEvent_Starlight2019",
+            "eventStart": "2023-04-06T00:00:00.000Z",
+            "eventEnd": "2023-06-22T00:00:00.000Z",
+            "startActions": {
+              "hasRun": true,
+              "conversions": [],
+              "itemsToGrant": [
+                {
+                  "templateId": "Quest:starlightquest_destroy_urns",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:starlightquest_kill_minibosses",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:starlightquest_kill_mimics",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:starlightquest_destructiblespawners",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:starlightquest_finitespawners",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:starlightquest_traptrial",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:starlightquest_complete_dailies_1",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:starlightquest_complete_dailies_2",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:starlightquest_complete_dailies_3",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:starlightquest_complete_all",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:starlightquest_complete_all_hard",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:starlightquest_dungeoneer_soldier",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:starlightquest_complete_d1_a",
+                  "quantity": 1
+                }
+              ],
+              "questsToUnpause": []
+            },
+            "endActions": {
+              "hasRun": false,
+              "conversions": [],
+              "itemsToRemove": [
+                {
+                  "templateId": "Quest:starlightquest_destroy_urns",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:starlightquest_kill_minibosses",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:starlightquest_kill_mimics",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:starlightquest_destructiblespawners",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:starlightquest_finitespawners",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:starlightquest_traptrial",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:starlightquest_complete_dailies_1",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:starlightquest_complete_dailies_2",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:starlightquest_complete_dailies_3",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:starlightquest_complete_all",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:starlightquest_complete_all_hard",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:starlightquest_dungeoneer_soldier",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:starlightquest_complete_d1_a",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:starlightquest_complete_d1_b",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:starlightquest_complete_d1_c",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:starlightquest_complete_d2_a",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:starlightquest_complete_d2_b",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:starlightquest_complete_d2_c",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:starlightquest_complete_d3_a",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:starlightquest_complete_d3_b",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:starlightquest_complete_d3_c",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:starlightquest_complete_d4_a",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:starlightquest_complete_d4_b",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:starlightquest_complete_d4_c",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:starlightquest_dungeoneer_constructor",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:starlightquest_dungeoneer_outlander",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:starlightquest_dungeoneer_ninja",
+                  "quantity": 1
+                }
+              ],
+              "questsToPause": []
+            },
+            "metaData": {}
+          }
+        }
+      },
+      "quantity": 1
+    },
+    "fb9ebf96-a685-4db8-af6c-58c9d0577d40": {
+      "templateId": "Quest:heroquest_ninja_1",
+      "attributes": {
+        "creation_time": "2023-04-08T19:29:01.305Z",
+        "quest_state": "Claimed",
+        "last_state_change_time": "2023-04-08T20:10:10.978Z",
+        "level": -1,
+        "completion_kill_husk_melee": 20,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "5aead6bf-19e7-4d4f-b6f1-bde7b9063cfa": {
+      "templateId": "Quest:challenge_leavenoonebehind_2",
+      "attributes": {
+        "creation_time": "2023-04-08T19:47:40.927Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T19:47:40.927Z",
+        "level": -1,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "5832fb24-176c-4fbd-85dc-63a9f1e80105": {
+      "templateId": "AccountResource:voucher_cardpack_bronze",
+      "attributes": {
+        "level": 1,
+        "item_seen": true
+      },
+      "quantity": 2
+    },
+    "b20729d9-84e6-4e83-b556-547b22fd9e7a": {
+      "templateId": "Quest:stonewoodquest_tutorial_research",
+      "attributes": {
+        "creation_time": "2023-04-08T19:09:08.676Z",
+        "quest_state": "Claimed",
+        "last_state_change_time": "2023-04-08T19:09:51.904Z",
+        "level": -1,
+        "completion_research_highlight": 1,
+        "quest_rarity": "uncommon",
+        "completion_research_tabcallout": 1,
+        "completion_research_guard_command": 1,
+        "completion_research_intro": 1,
+        "xp_reward_scalar": 1,
+        "completion_research_guard_research": 1
+      },
+      "quantity": 1
+    },
+    "55b2fc79-5b0a-4df7-bde9-62c9e2a13fd1": {
+      "templateId": "Quest:starlightquest_finitespawners",
+      "attributes": {
+        "creation_time": "2023-04-08T17:19:52.590Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T17:19:52.590Z",
+        "level": -1,
+        "item_seen": true,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "cdeaa978-7db8-4584-81c1-0adc130ec843": {
+      "templateId": "Quest:challenge_holdthedoor_1",
+      "attributes": {
+        "creation_time": "2023-04-08T18:53:17.935Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T18:53:17.935Z",
+        "completion_complete_outpost": 1,
+        "level": -1,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "74a955eb-4c56-43fd-9926-5ece39eca2cf": {
+      "templateId": "Quest:stonewoodquest_filler_1_d3",
+      "attributes": {
+        "creation_time": "2023-04-08T19:29:01.305Z",
+        "quest_state": "Claimed",
+        "last_state_change_time": "2023-04-08T19:47:34.947Z",
+        "level": -1,
+        "item_seen": true,
+        "completion_complete_evacuate_1_diff3": 1,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "bb47e112-7303-47a9-8a21-ea865c52c097": {
+      "templateId": "Quest:achievement_savesurvivors",
+      "attributes": {
+        "creation_time": "2023-04-08T17:10:32.197Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T17:10:32.197Z",
+        "level": -1,
+        "item_seen": true,
+        "completion_questcollect_survivoritemdata": 43,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "d10d695d-8418-4573-81b8-200287c4883a": {
+      "templateId": "Quest:tutorial_loadout_support1",
+      "attributes": {
+        "creation_time": "2023-04-08T18:09:34.901Z",
+        "quest_state": "Claimed",
+        "last_state_change_time": "2023-04-08T19:10:47.146Z",
+        "completion_heroloadout_support1_intro": 1,
+        "level": -1,
+        "quest_rarity": "uncommon",
+        "completion_heroloadout_support1_guardscreen1": 1,
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "a1293b04-b575-4f39-a42f-3afae0962157": {
+      "templateId": "Quest:genericquest_completestormzones_repeatable",
+      "attributes": {
+        "creation_time": "2023-04-08T18:52:02.196Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T18:52:02.196Z",
+        "level": -1,
+        "item_seen": true,
+        "completion_complete_stormzone": 1,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "1e10f6d7-bb61-48e9-b68a-cdc1e804b8ef": {
+      "templateId": "TeamPerk:tpid_dimmak",
+      "attributes": {},
+      "quantity": 1
+    },
+    "2f575076-c6f9-4e26-b9be-fd35258c6398": {
+      "templateId": "Quest:stonewoodquest_tutorial_survivorsquads",
+      "attributes": {
+        "creation_time": "2023-04-08T17:20:06.170Z",
+        "completion_survivorsquads_changeherointro": 1,
+        "completion_survivorsquads_levelintro": 1,
+        "level": -1,
+        "completion_survivorsquads_squadsguard": 1,
+        "completion_survivorsquads_squadsintro": 1,
+        "completion_survivorsquads_squadtilesguard": 1,
+        "completion_survivorsquads_commandguardaccount": 1,
+        "xp_reward_scalar": 1,
+        "quest_state": "Claimed",
+        "last_state_change_time": "2023-04-08T17:21:32.600Z",
+        "completion_survivorsquads_changeheroguard": 1,
+        "completion_survivorsquads_powerintro": 1,
+        "completion_survivorsquads_squadshighlight": 1,
+        "completion_survivorsquads_tabcallout": 1,
+        "completion_survivorsquads_commandguardsquad": 1,
+        "completion_survivorsquads_survivorshighlight": 1,
+        "quest_rarity": "uncommon",
+        "completion_survivorsquads_commandguardintro": 1
+      },
+      "quantity": 1
+    },
+    "a7564829-d56a-4a5e-86d2-926efeba34ff": {
+      "templateId": "Schematic:ammo_bulletsmedium",
+      "attributes": {
+        "level": 1,
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "384b6443-66f3-470d-82b2-624e042b4e74": {
+      "templateId": "ConditionalAction:generic_instance",
+      "attributes": {
+        "alt_profile_types": [
+          "athena"
+        ],
+        "_private": true,
+        "devName": "MAJOR: Spring - Phoenix",
+        "conditions": {
+          "event": {
+            "instanceId": "5eaheh65uclrj0bkuscljchdec[0]0",
+            "eventName": "CalendarEvent_Persistent_Phoenix_Adventure",
+            "eventStart": "2023-04-06T00:00:00.000Z",
+            "eventEnd": "2023-06-22T00:00:00.000Z",
+            "startActions": {
+              "hasRun": true,
+              "conversions": [],
+              "itemsToGrant": [
+                {
+                  "templateId": "Weapon:wid_edged_sword_light_c_ore_t01",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Weapon:wid_pistol_sixshooter_c_ore_t01",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Ammo:ammodatabulletsmedium",
+                  "quantity": 40
+                }
+              ],
+              "questsToUnpause": []
+            },
+            "endActions": {
+              "hasRun": false,
+              "conversions": [],
+              "itemsToRemove": [
+                {
+                  "templateId": "AccountResource:phoenixxp",
+                  "quantity": 2147483647
+                },
+                {
+                  "templateId": "Stat:technology_phoenix",
+                  "quantity": 2147483647
+                },
+                {
+                  "templateId": "Stat:resistance_team_phoenix",
+                  "quantity": 2147483647
+                },
+                {
+                  "templateId": "Stat:fortitude_team_phoenix",
+                  "quantity": 2147483647
+                },
+                {
+                  "templateId": "Stat:offense_team_phoenix",
+                  "quantity": 2147483647
+                },
+                {
+                  "templateId": "Stat:technology_team_phoenix",
+                  "quantity": 2147483647
+                },
+                {
+                  "templateId": "Stat:fortitude_phoenix",
+                  "quantity": 2147483647
+                },
+                {
+                  "templateId": "Stat:offense_phoenix",
+                  "quantity": 2147483647
+                },
+                {
+                  "templateId": "Stat:resistance_phoenix",
+                  "quantity": 2147483647
+                }
+              ],
+              "questsToPause": []
+            },
+            "metaData": {
+              "grantTo": "theater2",
+              "phoenixEventType": "EventFlag.Phoenix.Adventure",
+              "endAction": "{\"actionClassName\":\"com.epicgames.fortnite.core.game.managers.calendareventactions.ResetSeasonalTheaterCalendarEventAction\",\"profile\":\"campaign\"}"
+            }
+          }
+        }
+      },
+      "quantity": 1
+    },
+    "7ad92fd9-75de-498f-8893-f86a86ce8fe4": {
+      "templateId": "Schematic:sid_ceiling_gas_uc_t01",
+      "attributes": {
+        "level": 1,
+        "item_seen": true,
+        "alterations": [
+          "Alteration:aid_att_damage_physical_t01",
+          "Alteration:aid_att_critchance_t02",
+          "Alteration:aid_att_damage_t02",
+          "Alteration:aid_att_maxdurability_trap_t02",
+          "Alteration:aid_att_critdamage_t03",
+          "Alteration:aid_att_maxdurability_trap_t03"
+        ]
+      },
+      "quantity": 1
+    },
+    "b85f4dfe-2f69-4d42-822c-bd6400a51c44": {
+      "templateId": "Quest:challenge_leavenoonebehind_1",
+      "attributes": {
+        "creation_time": "2023-04-08T18:53:17.935Z",
+        "quest_state": "Claimed",
+        "last_state_change_time": "2023-04-08T19:47:40.923Z",
+        "level": -1,
+        "completion_questcollect_survivoritemdata": 20,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "44062f0b-cd49-4cfa-b4fe-b6d3358e20e3": {
+      "templateId": "HomebaseNode:questreward_pickaxe",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "89fa700d-9006-45f1-98ec-27e8b6ab0c60": {
+      "templateId": "Quest:achievement_explorezones",
+      "attributes": {
+        "creation_time": "2023-04-08T17:10:32.197Z",
+        "completion_complete_exploration_1": 3,
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T17:10:32.197Z",
+        "level": -1,
+        "item_seen": true,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "fde1d0f8-4ca4-4dc8-884e-a82ee4811cf2": {
+      "templateId": "Quest:stonewoodquest_tutorial_levelup_hero",
+      "attributes": {
+        "creation_time": "2023-04-08T18:24:48.727Z",
+        "completion_heroupgrade_tabcallout": 1,
+        "quest_state": "Claimed",
+        "last_state_change_time": "2023-04-08T18:25:30.797Z",
+        "level": -1,
+        "quest_rarity": "uncommon",
+        "completion_heroupgrade_guard_command": 1,
+        "completion_heroupgrade_guard_heroes": 1,
+        "xp_reward_scalar": 1,
+        "completion_heroupgrade_highlight_heroes_button": 1
+      },
+      "quantity": 1
+    },
+    "2c7903e1-b985-4b2f-82d7-b244575307ab": {
+      "templateId": "Quest:homebaseonboarding",
+      "attributes": {
+        "creation_time": "2023-04-08T15:16:36.488Z",
+        "quest_state": "Claimed",
+        "last_state_change_time": "2023-04-08T17:10:32.189Z",
+        "completion_hbonboarding_namehomebase": 1,
+        "level": -1,
+        "completion_hbonboarding_completezone": 1,
+        "completion_hbonboarding_watchsatellitecine": 1,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "082700e5-18e4-4235-8383-1a394900f4de": {
+      "templateId": "Stat:fortitude",
+      "attributes": {
+        "level": 1
+      },
+      "quantity": 4
+    },
+    "30fb8724-05eb-402f-8597-415f0d647278": {
+      "templateId": "AccountResource:reagent_c_t02",
+      "attributes": {
+        "level": 1,
+        "item_seen": true
+      },
+      "quantity": 25
+    },
+    "7ea22471-5f32-464b-bd86-e65a7b4294ab": {
+      "templateId": "Schematic:sid_assault_semiauto_uc_ore_t01",
+      "attributes": {
+        "level": 1,
+        "item_seen": true,
+        "alterations": [
+          "Alteration:aid_att_critdamage_t01",
+          "Alteration:aid_att_reloadspeed_ranged_t02",
+          "Alteration:aid_ele_nature_t03",
+          "Alteration:aid_att_damage_t02",
+          "Alteration:aid_conditional_stunned_dmgbonus_t03",
+          "Alteration:aid_g_affliction_v2"
+        ]
+      },
+      "quantity": 1
+    },
+    "dc9151df-0ab4-4dfc-b77c-6f9956dcc9e4": {
+      "templateId": "Quest:bbpromoquest_2019_reactive_jesscabinet",
+      "attributes": {
+        "creation_time": "2023-04-08T18:53:17.935Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T18:53:17.935Z",
+        "level": -1,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "a8e7810d-5134-4287-aeb9-693127664a05": {
+      "templateId": "HomebaseNode:questreward_teamperk_slot1",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "41a7cf5b-ed23-4187-9ec8-e2780c4343ed": {
+      "templateId": "CosmeticLocker:cosmeticlocker_stw",
+      "attributes": {
+        "locker_slots_data": {
+          "slots": {
+            "Pickaxe": {
+              "items": [
+                "AthenaPickaxe:pickaxe_looper"
+              ],
+              "activeVariants": [
+                null
+              ]
+            },
+            "Dance": {
+              "items": [
+                "AthenaDance:eid_dancemoves",
+                null,
+                null,
+                null,
+                null,
+                null
+              ],
+              "activeVariants": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+              ]
+            },
+            "MusicPack": {
+              "items": [
+                "AthenaMusicPack:musicpack_000_stw_default"
+              ]
+            },
+            "Character": {
+              "items": [
+                "AthenaCharacter:character_looper"
+              ],
+              "activeVariants": [
+                null
+              ]
+            },
+            "Backpack": {
+              "items": [
+                "AthenaBackpack:backpack_looper"
+              ],
+              "activeVariants": [
+                null
+              ]
+            }
+          }
+        }
+      },
+      "quantity": 1
+    },
+    "d9421f3c-3666-4a90-9102-f4e44b58be3e": {
+      "templateId": "Worker:managerexplorer_c_t01",
+      "attributes": {
+        "personality": "Homebase.Worker.Personality.IsDreamer",
+        "gender": "2",
+        "squad_id": "squad_attribute_scavenging_scoutingparty",
+        "level": 1,
+        "squad_slot_idx": 0,
+        "item_seen": true,
+        "managerSynergy": "Homebase.Manager.IsExplorer",
+        "portrait": "WorkerPortrait:IconDef-ManagerPortrait-Explorer-F01",
+        "building_slot_used": -1
+      },
+      "quantity": 1
+    },
+    "3bd65a29-0341-4792-8e17-4f22c6c4153e": {
+      "templateId": "ConditionalAction:generic_instance",
+      "attributes": {
+        "alt_profile_types": [
+          "athena"
+        ],
+        "_private": true,
+        "devName": "MAJOR: Spring - Mission Alerts",
+        "conditions": {
+          "event": {
+            "instanceId": "1j64vfd63js2n8himl7jhr28bb[0]0",
+            "eventName": "CalendarEvent_Persistent_EventMissionAlerts",
+            "eventStart": "2023-04-06T00:00:00.000Z",
+            "eventEnd": "2023-06-22T00:00:00.000Z",
+            "startActions": {
+              "hasRun": true,
+              "conversions": [],
+              "itemsToGrant": [],
+              "questsToUnpause": []
+            },
+            "endActions": {
+              "hasRun": false,
+              "conversions": [],
+              "itemsToRemove": [],
+              "questsToPause": []
+            },
+            "metaData": {}
+          }
+        }
+      },
+      "quantity": 1
+    },
+    "6ef3a833-30dd-481c-a179-4372c63cc5a1": {
+      "templateId": "HomebaseNode:questreward_stonewood_squad_ssd2",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "a0de3609-5f77-457a-92bd-a8ecb62a70d7": {
+      "templateId": "Quest:stwstarterbundle13_01",
+      "attributes": {
+        "creation_time": "2023-04-08T18:54:27.165Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T18:54:27.165Z",
+        "level": -1,
+        "item_seen": true,
+        "quest_rarity": "legendary",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "22b23c42-a683-4c10-9242-a577e3fc6ad5": {
+      "templateId": "Quest:heroquest_soldier_1",
+      "attributes": {
+        "creation_time": "2023-04-08T19:29:01.305Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T19:29:01.305Z",
+        "level": -1,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "010407b5-cb85-4caf-9f2d-e3de2e5e37bf": {
+      "templateId": "Quest:starlightquest_destructiblespawners",
+      "attributes": {
+        "creation_time": "2023-04-08T17:19:52.590Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T17:19:52.590Z",
+        "level": -1,
+        "item_seen": true,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "b7717045-2281-44b5-9e25-162b8296bd3e": {
+      "templateId": "Schematic:sid_floor_defender",
+      "attributes": {
+        "level": 1
+      },
+      "quantity": 1
+    },
+    "a61c98fe-2dcd-4d85-8bb3-38d42de15a07": {
+      "templateId": "Quest:challenge_eldritchabominations_1",
+      "attributes": {
+        "creation_time": "2023-04-08T20:10:05.147Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T20:10:05.147Z",
+        "level": -1,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "fd165fa5-7d43-4f31-b17c-b6b5ac60a9bf": {
+      "templateId": "Worker:workerbasic_c_t01",
+      "attributes": {
+        "personality": "Homebase.Worker.Personality.IsAdventurous",
+        "gender": "2",
+        "squad_id": "squad_attribute_arms_fireteamalpha",
+        "level": 1,
+        "squad_slot_idx": 3,
+        "item_seen": true,
+        "portrait": "WorkerPortrait:IconDef-WorkerPortrait-Adventurous-F03",
+        "building_slot_used": -1,
+        "set_bonus": "Homebase.Worker.SetBonus.IsMeleeDamageLow"
+      },
+      "quantity": 1
+    },
+    "afd15973-c170-48da-9e3f-b53f6fec5873": {
+      "templateId": "TeamPerk:tpid_recycling",
+      "attributes": {},
+      "quantity": 1
+    },
+    "16045795-d647-4e37-93d2-64e2bdb167c6": {
+      "templateId": "Quest:stonewoodquest_filler_1_d2",
+      "attributes": {
+        "creation_time": "2023-04-08T18:09:34.901Z",
+        "quest_state": "Claimed",
+        "last_state_change_time": "2023-04-08T18:24:48.727Z",
+        "completion_complete_pve01_diff2": 1,
+        "level": -1,
+        "item_seen": true,
+        "completion_questcollect_survivoritemdata": 3,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "ad9c11b1-fc64-4a5e-a51c-3cae9c41160d": {
+      "templateId": "Hero:hid_outlander_punchphase_uc_t01",
+      "attributes": {
+        "hero_name": "DefaultHeroName",
+        "level": 1,
+        "squad_slot_idx": -1,
+        "building_slot_used": -1
+      },
+      "quantity": 1
+    },
+    "819d12f6-def3-4b41-8eb4-2168dcaea7f8": {
+      "templateId": "Schematic:sid_pistol_semiauto_c_ore_t00",
+      "attributes": {
+        "level": 1,
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "174a84c9-6cb6-4105-bd25-2614e673d84a": {
+      "templateId": "Quest:heroquest_outlanderleadership",
+      "attributes": {
+        "creation_time": "2023-04-08T17:10:32.197Z",
+        "quest_state": "Claimed",
+        "last_state_change_time": "2023-04-08T17:22:28.245Z",
+        "level": -1,
+        "completion_has_item_outlander": 1,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "6b0e5f11-9e11-432d-a52a-1972d52bd8fa": {
+      "templateId": "Schematic:sid_assault_semiauto_c_ore_t00",
+      "attributes": {
+        "level": 1,
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "40995428-d97b-405f-9f45-b15a132da378": {
+      "templateId": "Quest:reactivequest_shielders",
+      "attributes": {
+        "creation_time": "2023-04-08T18:53:17.935Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T18:53:17.935Z",
+        "level": -1,
+        "completion_quest_reactive_shielders": 1,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "1015ed5e-b1fc-48f1-bfd7-439200374e39": {
+      "templateId": "CampaignHeroLoadout:defaultloadout",
+      "attributes": {
+        "crew_members": {
+          "followerslot5": "",
+          "followerslot4": "",
+          "followerslot3": "",
+          "followerslot2": "",
+          "followerslot1": "",
+          "commanderslot": "b391b16d-c8f7-4bdc-8dfe-a89b092de818"
+        },
+        "loadout_index": 1
+      },
+      "quantity": 1
+    },
+    "b19a5c23-cc1e-44aa-acbf-63e0c5b3770d": {
+      "templateId": "Schematic:sid_pistol_autoheavy_r_ore_t01",
+      "attributes": {
+        "level": 1,
+        "item_seen": true,
+        "alterations": [
+          "Alteration:aid_att_reloadspeed_ranged_t02",
+          "Alteration:aid_att_reloadspeed_ranged_t01",
+          "Alteration:aid_att_damage_physical_t02",
+          "Alteration:aid_att_critchance_t02",
+          "Alteration:aid_conditional_boss_dmgbonus_t03",
+          "Alteration:aid_g_weapon_ondmg_applysnare_v2"
+        ]
+      },
+      "quantity": 1
+    },
+    "69efee8b-ea9d-44d9-81c5-07de692358c2": {
+      "templateId": "Quest:achievement_craftfirstweapon",
+      "attributes": {
+        "creation_time": "2023-04-08T15:16:36.488Z",
+        "quest_state": "Claimed",
+        "last_state_change_time": "2023-04-08T17:09:55.523Z",
+        "completion_custom_craftfirstweapon": 1,
+        "level": -1,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "b7680072-1ad8-46bc-b446-ea996bb33240": {
+      "templateId": "Quest:achievement_protectthesurvivors",
+      "attributes": {
+        "creation_time": "2023-04-08T15:16:36.488Z",
+        "quest_state": "Claimed",
+        "last_state_change_time": "2023-04-08T17:09:55.523Z",
+        "level": -1,
+        "completion_custom_protectthesurvivors": 1,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "1a1efa78-e2bf-4c50-8c06-506c37942685": {
+      "templateId": "Schematic:sid_wall_darts_uc_t01",
+      "attributes": {
+        "level": 1,
+        "item_seen": true,
+        "alterations": [
+          "Alteration:aid_att_damage_physical_t01",
+          "Alteration:aid_att_maxdurability_trap_t01",
+          "Alteration:aid_att_damage_t02",
+          "Alteration:aid_att_damage_t03",
+          "Alteration:aid_att_reloadspeed_trap_t03",
+          "Alteration:aid_att_buildingmaxhealth_t03"
+        ]
+      },
+      "quantity": 1
+    },
+    "7034c5e1-adf4-4156-bd97-a0fc60675f03": {
+      "templateId": "Quest:stonewoodquest_tutorial_upgrade",
+      "attributes": {
+        "creation_time": "2023-04-08T18:53:17.935Z",
+        "quest_state": "Claimed",
+        "last_state_change_time": "2023-04-08T19:09:59.786Z",
+        "completion_upgrades_highlight": 1,
+        "completion_upgrades_guard_command": 1,
+        "completion_upgrades_intro": 1,
+        "level": -1,
+        "completion_upgrades_guard_upgrades": 1,
+        "quest_rarity": "uncommon",
+        "completion_upgrades_tabcallout": 1,
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "91206211-92cc-4e06-920b-b4fcaafcbca3": {
+      "templateId": "Quest:stwstarterbundle13_05",
+      "attributes": {
+        "creation_time": "2023-04-08T18:54:27.165Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T18:54:27.165Z",
+        "level": -1,
+        "item_seen": true,
+        "quest_rarity": "legendary",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "0a483227-3d51-4fa1-8217-b5089637e68c": {
+      "templateId": "Stat:fortitude_team",
+      "attributes": {
+        "level": 1
+      },
+      "quantity": 3
+    },
+    "c49ab4d6-3235-4fc8-8810-a1a795fb33aa": {
+      "templateId": "Schematic:sid_assault_auto_c_ore_t00",
+      "attributes": {
+        "level": 1,
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "887781ea-65df-4c60-8ee8-45a56ae69bcb": {
+      "templateId": "Quest:outpostquest_t1_l1",
+      "attributes": {
+        "creation_time": "2023-04-08T17:10:32.197Z",
+        "quest_state": "Claimed",
+        "last_state_change_time": "2023-04-08T17:20:06.169Z",
+        "level": -1,
+        "completion_complete_outpost_1_1": 1,
+        "completion_custom_supplydropreceived": 1,
+        "item_seen": true,
+        "completion_custom_deployoutpost": 1,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "69dc1c6b-d75b-4b16-b8db-8c65029bf439": {
+      "templateId": "Quest:heroquest_ninja_2",
+      "attributes": {
+        "creation_time": "2023-04-08T20:10:10.979Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T20:10:10.979Z",
+        "level": -1,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "01bc0a90-7fee-4772-a93b-e8762c9404c1": {
+      "templateId": "Schematic:sid_wall_wood_spikes_uc_t01",
+      "attributes": {
+        "level": 1,
+        "alterations": [
+          "Alteration:aid_att_damage_physical_t01",
+          "Alteration:aid_att_damage_t02",
+          "Alteration:aid_att_critdamage_t03",
+          "Alteration:aid_att_critchance_t03",
+          "Alteration:aid_att_maxdurability_trap_t03",
+          "Alteration:aid_att_buildingheal_t03"
+        ]
+      },
+      "quantity": 1
+    },
+    "12d8ccdc-1051-4ad8-8762-a4ed2f31482c": {
+      "templateId": "Quest:tutorial_loadout_commander",
+      "attributes": {
+        "creation_time": "2023-04-08T17:10:32.197Z",
+        "quest_state": "Claimed",
+        "last_state_change_time": "2023-04-08T19:10:48.060Z",
+        "level": -1,
+        "completion_heroloadout_commander_guardscreen1": 1,
+        "completion_heroloadout_commander_highlight": 1,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "f69cb275-6343-4184-8d77-a2ec23f7a324": {
+      "templateId": "HomebaseNode:startnode_commandcenter",
+      "attributes": {},
+      "quantity": 1
+    },
+    "5894b97f-7361-4156-a91a-1852878c676d": {
+      "templateId": "Quest:phoenixquest_tutorial_theater",
+      "attributes": {
+        "creation_time": "2023-04-08T18:53:17.935Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T18:53:17.935Z",
+        "level": -1,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "59a1c9a5-46d3-42b1-8975-506f5fdacc99": {
+      "templateId": "Worker:workerbasic_uc_t01",
+      "attributes": {
+        "gender": "1",
+        "personality": "Homebase.Worker.Personality.IsDependable",
+        "squad_id": "squad_attribute_arms_fireteamalpha",
+        "level": 1,
+        "squad_slot_idx": 2,
+        "item_seen": true,
+        "portrait": "WorkerPortrait:IconDef-WorkerPortrait-Dependable-M02",
+        "building_slot_used": -1,
+        "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
+      },
+      "quantity": 1
+    },
+    "a35da4c5-891e-4042-875a-3ce1410711bf": {
+      "templateId": "Hero:hid_ninja_009_vr_t01",
+      "attributes": {
+        "hero_name": "DefaultHeroName",
+        "level": 1,
+        "squad_slot_idx": -1,
+        "building_slot_used": -1
+      },
+      "quantity": 1
+    },
+    "d636366d-3169-416c-902c-f426dab45bd6": {
+      "templateId": "AccountResource:reagent_c_t01",
+      "attributes": {
+        "level": 1
+      },
+      "quantity": 8
+    },
+    "223ea4bd-f6bc-46b9-9a76-53e0b999f4bc": {
+      "templateId": "AccountResource:schematicxp",
+      "attributes": {
+        "level": 1,
+        "item_seen": true
+      },
+      "quantity": 2605
+    },
+    "0e95c111-b328-46ea-8235-aec4947acda2": {
+      "templateId": "Quest:challenge_herotraining_1",
+      "attributes": {
+        "creation_time": "2023-04-08T18:24:48.727Z",
+        "completion_upgrade_any_hero": 1,
+        "quest_state": "Claimed",
+        "last_state_change_time": "2023-04-08T19:11:15.312Z",
+        "level": -1,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "e107e46b-fc75-4cf5-9f80-1453a77a450b": {
+      "templateId": "Quest:challenge_defendertraining_1",
+      "attributes": {
+        "creation_time": "2023-04-08T19:47:34.952Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T19:47:34.952Z",
+        "level": -1,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "0c2727c2-ac84-4e53-afcf-0d4f2e8e0335": {
+      "templateId": "Schematic:ammo_shells",
+      "attributes": {
+        "level": 1,
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "1e5200c9-7b10-4591-890b-9b1a20518816": {
+      "templateId": "Quest:weeklyquest_tiered_completemissionalerts_t04",
+      "attributes": {
+        "creation_time": "2023-04-09T05:57:19.584Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-09T05:57:19.584Z",
+        "level": -1,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1,
+        "quest_pool": "weeklyquestroll_02"
+      },
+      "quantity": 1
+    },
+    "89eeb3d3-2374-400d-9334-46cb975ad527": {
+      "templateId": "Quest:stonewoodquest_tutorial_levelup_defender",
+      "attributes": {
+        "creation_time": "2023-04-08T19:47:34.952Z",
+        "quest_state": "Claimed",
+        "last_state_change_time": "2023-04-08T19:47:55.072Z",
+        "completion_defenderupgrade_guard_heroes": 1,
+        "completion_defenderupgrade_tabcallout": 1,
+        "level": -1,
+        "completion_defenderupgrade_intro_defenders": 1,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1,
+        "completion_defenderupgrade_guard_command": 1,
+        "completion_defenderupgrade_highlight_command": 1
+      },
+      "quantity": 1
+    },
+    "ff414f6b-af60-4732-8fc4-b5545b38a969": {
+      "templateId": "Quest:genericquest_killmistmonsters_repeatable",
+      "attributes": {
+        "creation_time": "2023-04-08T18:52:02.196Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T18:52:02.196Z",
+        "level": -1,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "165cf104-0441-4a00-90aa-7b15c6156839": {
+      "templateId": "ConditionalAction:generic_instance",
+      "attributes": {
+        "alt_profile_types": [
+          "athena"
+        ],
+        "_private": true,
+        "devName": "MAJOR: Spring - Dungeons - Quests Phase 3",
+        "conditions": {
+          "event": {
+            "instanceId": "5n7scse511qe7kk0e57qdjsu90[0]0",
+            "eventName": "CalendarEvent_Starlight2019_Quests_Phase3",
+            "eventStart": "2023-04-06T00:00:00.000Z",
+            "eventEnd": "2023-06-22T00:00:00.000Z",
+            "startActions": {
+              "hasRun": true,
+              "conversions": [],
+              "itemsToGrant": [],
+              "questsToUnpause": []
+            },
+            "endActions": {
+              "hasRun": false,
+              "conversions": [],
+              "itemsToRemove": [
+                {
+                  "templateId": "Quest:starlightquest_daily_complete_d3",
+                  "quantity": 1
+                }
+              ],
+              "questsToPause": []
+            },
+            "metaData": {}
+          }
+        }
+      },
+      "quantity": 1
+    },
+    "bf679835-7327-424d-a1d7-11a67e6493cb": {
+      "templateId": "Quest:piratequest_2019_landmark_island",
+      "attributes": {
+        "creation_time": "2023-04-09T05:57:25.939Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-09T05:57:25.939Z",
+        "level": -1,
+        "item_seen": true,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "c5dab426-2155-4c78-8a8e-949af9111706": {
+      "templateId": "Schematic:ingredient_blastpowder",
+      "attributes": {
+        "level": 1
+      },
+      "quantity": 1
+    },
+    "eed9f0b3-d2fe-42c0-b13c-f6eae9f0e961": {
+      "templateId": "Quest:starlightquest_complete_dailies_1",
+      "attributes": {
+        "creation_time": "2023-04-08T17:19:52.590Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T17:19:52.590Z",
+        "level": -1,
+        "item_seen": true,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "cc1b2f4c-4cda-4a84-9f32-b4bf91559533": {
+      "templateId": "Stat:technology",
+      "attributes": {
+        "level": 1
+      },
+      "quantity": 3
+    },
+    "410dda9d-3426-4747-bbc3-746a51f9c894": {
+      "templateId": "Quest:adventure_seasonal_mission_01",
+      "attributes": {
+        "creation_time": "2023-04-08T18:52:02.196Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T18:52:02.196Z",
+        "level": -1,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "c21b5376-bf8c-4d7a-9872-71f7bc3c9bdb": {
+      "templateId": "Quest:outpostquest_t1_l3",
+      "attributes": {
+        "creation_time": "2023-04-08T18:37:45.052Z",
+        "quest_state": "Claimed",
+        "last_state_change_time": "2023-04-08T18:53:17.935Z",
+        "level": -1,
+        "item_seen": true,
+        "completion_complete_outpost_1_3": 1,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "c2704c39-502f-4092-b1e5-daf4d216fa05": {
+      "templateId": "Worker:managerexplorer_c_t01",
+      "attributes": {
+        "gender": "1",
+        "personality": "Homebase.Worker.Personality.IsCooperative",
+        "squad_id": "squad_attribute_arms_fireteamalpha",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "managerSynergy": "Homebase.Manager.IsExplorer",
+        "portrait": "WorkerPortrait:IconDef-ManagerPortrait-Explorer-M01",
+        "building_slot_used": -1
+      },
+      "quantity": 1
+    },
+    "4286e0fe-dd29-4054-956e-f32927b4dc3b": {
+      "templateId": "Quest:stonewoodquest_tutorial_levelup_weapon",
+      "attributes": {
+        "creation_time": "2023-04-08T18:37:45.052Z",
+        "quest_state": "Claimed",
+        "last_state_change_time": "2023-04-08T18:38:06.099Z",
+        "level": -1,
+        "completion_schematicupgrade_armoryguard": 1,
+        "completion_schematicupgrade_tabcallout": 1,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "327968f2-9e90-4112-8355-fac5b4a821ee": {
+      "templateId": "Quest:starlightquest_traptrial",
+      "attributes": {
+        "creation_time": "2023-04-08T17:19:52.590Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T17:19:52.590Z",
+        "level": -1,
+        "item_seen": true,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "b50b2f30-537b-49d6-9881-dd45094acc10": {
+      "templateId": "Quest:starlightquest_kill_minibosses",
+      "attributes": {
+        "creation_time": "2023-04-08T17:19:52.590Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T17:19:52.590Z",
+        "level": -1,
+        "item_seen": true,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "759d13d3-4710-44d4-b11f-22b6451acbe6": {
+      "templateId": "HomebaseNode:questreward_stonewood_squad_ssd4",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "e047e81d-f37c-4445-bad0-6164dfdaf797": {
+      "templateId": "AccountResource:reagent_alteration_ele_nature",
+      "attributes": {
+        "level": 1,
+        "item_seen": true
+      },
+      "quantity": 220
+    },
+    "2bae0f60-4b6c-4328-af4b-54dacf90d4a3": {
+      "templateId": "Quest:homebaseonboardinggrantschematics",
+      "attributes": {
+        "creation_time": "2023-04-08T17:10:32.197Z",
+        "quest_state": "Claimed",
+        "last_state_change_time": "2023-04-08T17:19:52.592Z",
+        "level": -1,
+        "completion_questcomplete_outpostquest_t1_l1": 1,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "eb236659-467c-4c8e-ae41-b9f5078d057b": {
+      "templateId": "Schematic:ammo_bulletsheavy",
+      "attributes": {
+        "level": 1
+      },
+      "quantity": 1
+    },
+    "b391b16d-c8f7-4bdc-8dfe-a89b092de818": {
+      "templateId": "Hero:hid_outlander_punchphase_uc_t01",
+      "attributes": {
+        "hero_name": "DefaultHeroName",
+        "level": 10,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "building_slot_used": -1
+      },
+      "quantity": 1
+    },
+    "5c80560a-28d3-44cc-a852-638cde70544b": {
+      "templateId": "HomebaseNode:questreward_newfollower1_slot",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "837e562d-bb20-416f-aba0-9729d502bde8": {
+      "templateId": "Worker:workerbasic_vr_t01",
+      "attributes": {
+        "gender": "1",
+        "personality": "Homebase.Worker.Personality.IsDependable",
+        "squad_id": "squad_attribute_arms_fireteamalpha",
+        "level": 1,
+        "squad_slot_idx": 1,
+        "item_seen": true,
+        "portrait": "WorkerPortrait:IconDef-WorkerPortrait-Dependable-M02",
+        "building_slot_used": -1,
+        "set_bonus": "Homebase.Worker.SetBonus.IsRangedDamageLow"
+      },
+      "quantity": 1
+    },
+    "97ae3bd4-e2e6-48d8-8f48-f0a5814cee2c": {
+      "templateId": "Quest:stwstarterbundle13_04",
+      "attributes": {
+        "creation_time": "2023-04-08T18:54:27.165Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T18:54:27.165Z",
+        "level": -1,
+        "item_seen": true,
+        "quest_rarity": "legendary",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "5feaf12b-d494-496e-a6ab-5f26babde726": {
+      "templateId": "Quest:heroquest_outlander_2",
+      "attributes": {
+        "creation_time": "2023-04-08T19:47:31.882Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T19:47:31.882Z",
+        "level": -1,
+        "completion_complete_pve01_diff3_outlander": 1,
+        "completion_ability_outlander_fragment": 1,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "4bdb57b6-d95f-44e5-81ed-dcc4fe67b228": {
+      "templateId": "Quest:homebasequest_slotoutpostdefender",
+      "attributes": {
+        "creation_time": "2023-04-08T17:10:32.197Z",
+        "quest_state": "Claimed",
+        "last_state_change_time": "2023-04-08T19:47:17.663Z",
+        "level": -1,
+        "quest_rarity": "uncommon",
+        "completion_questcomplete_stonewoodquest_filler_1_d3": 1,
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "9395287e-7b1f-43f4-84f9-2170f065fdcc": {
+      "templateId": "HomebaseNode:questreward_feature_herolevelup",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "8d3bc010-124e-4107-90c5-986db0a72ea9": {
+      "templateId": "Quest:stwstarterbundle13_getrewards",
+      "attributes": {
+        "creation_time": "2023-04-08T16:09:06.504Z",
+        "quest_state": "Claimed",
+        "last_state_change_time": "2023-04-08T18:54:27.164Z",
+        "level": -1,
+        "item_seen": true,
+        "quest_rarity": "legendary",
+        "completion_stwstarterbundle13_getrewards": 1,
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "0b638c78-58df-4eaf-8317-87f472323db8": {
+      "templateId": "TeamPerk:tpid_keepout",
+      "attributes": {},
+      "quantity": 1
+    },
+    "553bb357-01ad-4c03-a6dc-2bb4c8591d3a": {
+      "templateId": "Quest:stonewoodquest_launchballoon_d1",
+      "attributes": {
+        "creation_time": "2023-04-08T17:38:35.113Z",
+        "quest_state": "Claimed",
+        "last_state_change_time": "2023-04-08T17:53:26.974Z",
+        "level": -1,
+        "item_seen": true,
+        "completion_complete_launchweatherballoon_1": 1,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "24acd036-3136-4201-a9a2-c55a09551e93": {
+      "templateId": "HomebaseNode:questreward_feature_researchsystem",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "36d76de6-2dda-40bb-9534-a08bb5095b6a": {
+      "templateId": "Token:stw_accolade_tracker",
+      "attributes": {
+        "last_reset": "2023-04-08T17:10:53.347Z",
+        "match_accolades": [
+          {
+            "matchmakingSessionId": "d1fa2ad1d9eb4afb8dcbc402040c5d73",
+            "totalSecondsInMatch": 1041,
+            "primaryMissionName": "MissionInfo_Outpost_PvE_01",
+            "partyEligibility": "User",
+            "accoladesToGrant": [
+              {
+                "templateToGrant": "Accolades:accoladeid_stw_ssd_t01_l04",
+                "numToGrant": 1,
+                "realXPGranted": 0,
+                "rawXPGranted": 33800
+              },
+              {
+                "templateToGrant": "Accolades:accoladeid_stw_ssd_t01_bonus",
+                "numToGrant": 1,
+                "realXPGranted": 0,
+                "rawXPGranted": 3900
+              },
+              {
+                "templateToGrant": "Accolades:accoladeid_stw_badge_combat_platinum",
+                "numToGrant": 1,
+                "realXPGranted": 0,
+                "rawXPGranted": 2600
+              },
+              {
+                "templateToGrant": "Accolades:accoladeid_stw_badge_building_platinum",
+                "numToGrant": 1,
+                "realXPGranted": 0,
+                "rawXPGranted": 2600
+              }
+            ],
+            "totalMissionXPEarnedInMatch": 0,
+            "totalQuestXPEarnedInMatch": 0,
+            "totalRestSpentInMatch": 0
+          }
+        ],
+        "level": 1,
+        "daily_xp": 391950,
+        "last_update": "2023-04-08T20:10:01.319Z"
+      },
+      "quantity": 1
+    },
+    "933abb94-150c-4295-9be6-2d2b74d36e88": {
+      "templateId": "AccountResource:currency_xrayllama",
+      "attributes": {
+        "level": 1,
+        "item_seen": true
+      },
+      "quantity": 550
+    },
+    "7bbbcbb0-68da-4aae-9c0b-434de3e5eab5": {
+      "templateId": "HomebaseNode:questreward_homebase_defender",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "d353f5a4-d33c-41e2-8be2-dfefc1bc37e2": {
+      "templateId": "ConditionalAction:generic_instance",
+      "attributes": {
+        "alt_profile_types": [
+          "athena"
+        ],
+        "_private": true,
+        "devName": "MAJOR: Spring - Lobby",
+        "conditions": {
+          "event": {
+            "instanceId": "h8f6km3ecc38jgl88ok8qs690q[0]0",
+            "eventName": "CalendarEvent_Persistent_LobbyStW_Adventure",
+            "eventStart": "2023-04-06T00:00:00.000Z",
+            "eventEnd": "2023-06-22T00:00:00.000Z",
+            "startActions": {
+              "hasRun": true,
+              "conversions": [],
+              "itemsToGrant": [],
+              "questsToUnpause": []
+            },
+            "endActions": {
+              "hasRun": false,
+              "conversions": [],
+              "itemsToRemove": [],
+              "questsToPause": []
+            },
+            "metaData": {}
+          }
+        }
+      },
+      "quantity": 1
+    },
+    "b20f6e55-decc-4f20-9d99-2b8e163a5172": {
+      "templateId": "Quest:pickaxequest_stw001_tier_1",
+      "attributes": {
+        "creation_time": "2023-04-08T17:10:32.197Z",
+        "quest_state": "Claimed",
+        "last_state_change_time": "2023-04-08T17:20:10.332Z",
+        "level": -1,
+        "completion_questcomplete_outpostquest_t1_l1": 1,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "941e3505-7069-4b41-b95f-44270f899142": {
+      "templateId": "HomebaseNode:questreward_mission_defender",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "83b60ef8-580e-497a-9137-d353540ae37a": {
+      "templateId": "Quest:tutorial_loadout_teamperkandsupport3",
+      "attributes": {
+        "creation_time": "2023-04-08T20:10:05.148Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T20:10:05.148Z",
+        "level": -1,
+        "completion_heroloadout_support3_intro": 1,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "b2ee6e8e-9a42-4929-8e01-c69e9aaa87ab": {
+      "templateId": "Quest:achievement_loottreasurechests",
+      "attributes": {
+        "creation_time": "2023-04-08T17:10:32.197Z",
+        "completion_interact_treasurechest": 4,
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T17:10:32.197Z",
+        "level": -1,
+        "item_seen": true,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "cfeb0a9d-e777-4a1e-83fd-c21b12a0581d": {
+      "templateId": "Quest:piratequest_2019_hidden_watchvideo",
+      "attributes": {
+        "creation_time": "2023-04-08T18:52:02.196Z",
+        "quest_state": "Claimed",
+        "last_state_change_time": "2023-04-08T18:52:10.402Z",
+        "level": -1,
+        "completion_piratequest_2019_hidden_watchvideo": 1,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "15ec94ee-0af7-4f31-80ab-586796e3a975": {
+      "templateId": "Schematic:sid_edged_axe_light_r_ore_t01",
+      "attributes": {
+        "level": 1,
+        "alterations": [
+          "Alteration:aid_att_critchance_t02",
+          "Alteration:aid_att_damage_t01",
+          "Alteration:aid_att_damage_physical_t02",
+          "Alteration:aid_att_heavyattackstaminacost_t03",
+          "Alteration:aid_conditional_afflicted_dmgbonus_t03",
+          "Alteration:aid_g_affliction_v2"
+        ]
+      },
+      "quantity": 1
+    },
+    "6fd4323f-1281-47c4-a69a-1b7cb1afea5e": {
+      "templateId": "HomebaseNode:questreward_stonewood_squad_ssd3",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "9ac41d4d-6a6b-40eb-905a-49ebf434efeb": {
+      "templateId": "ConditionalAction:generic_instance",
+      "attributes": {
+        "alt_profile_types": [
+          "athena"
+        ],
+        "_private": true,
+        "devName": "MAJOR: Spring - Dungeons - Quests Phase 1",
+        "conditions": {
+          "event": {
+            "instanceId": "3qc8r1q4a9oj6kkbicjvbf7n9i[0]0",
+            "eventName": "CalendarEvent_Starlight2019_Quests_Phase1",
+            "eventStart": "2023-04-06T00:00:00.000Z",
+            "eventEnd": "2023-06-22T00:00:00.000Z",
+            "startActions": {
+              "hasRun": true,
+              "conversions": [],
+              "itemsToGrant": [],
+              "questsToUnpause": []
+            },
+            "endActions": {
+              "hasRun": false,
+              "conversions": [],
+              "itemsToRemove": [
+                {
+                  "templateId": "Quest:starlightquest_daily_complete_d1",
+                  "quantity": 1
+                }
+              ],
+              "questsToPause": []
+            },
+            "metaData": {}
+          }
+        }
+      },
+      "quantity": 1
+    },
+    "5106249b-406f-4da1-bfc2-40ff6d96e02f": {
+      "templateId": "Quest:heroquest_ninjaleadership",
+      "attributes": {
+        "creation_time": "2023-04-08T17:10:32.197Z",
+        "quest_state": "Claimed",
+        "last_state_change_time": "2023-04-08T20:10:10.979Z",
+        "level": -1,
+        "completion_has_item_ninja": 1,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "650cb189-6f0d-4984-86a2-13f9ee346ef5": {
+      "templateId": "Schematic:ammo_explosive",
+      "attributes": {
+        "level": 1
+      },
+      "quantity": 1
+    },
+    "20719285-6d27-429d-b949-083f8dcac050": {
+      "templateId": "Quest:stwstarterbundle13_02",
+      "attributes": {
+        "creation_time": "2023-04-08T18:54:27.165Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T18:54:27.165Z",
+        "level": -1,
+        "item_seen": true,
+        "quest_rarity": "legendary",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "da44170b-8c47-44f1-ab2c-622a8b5dcd1d": {
+      "templateId": "Quest:achievement_buildstructures",
+      "attributes": {
+        "creation_time": "2023-04-08T17:10:32.197Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T17:10:32.197Z",
+        "completion_build_any_structure": 377,
+        "level": -1,
+        "item_seen": true,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "6af200d4-d881-4e6d-8da6-103693cfa036": {
+      "templateId": "Quest:starlightquest_complete_dailies_3",
+      "attributes": {
+        "creation_time": "2023-04-08T17:19:52.590Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T17:19:52.590Z",
+        "level": -1,
+        "item_seen": true,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "e698e54c-459f-4734-9e74-8c5152a9750c": {
+      "templateId": "HomebaseNode:questreward_buildingupgradelevel",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "7a79d00d-9411-4625-9250-1ad6dfd6f3d6": {
+      "templateId": "ConditionalAction:generic_instance",
+      "attributes": {
+        "alt_profile_types": [
+          "athena"
+        ],
+        "_private": true,
+        "devName": "MAJOR: Spring - Phoenix - Quests",
+        "conditions": {
+          "event": {
+            "instanceId": "5rts3gc3aakjpulbuno2bq678s[0]0",
+            "eventName": "CalendarEvent_Persistent_Phoenix_Adventure_Quests",
+            "eventStart": "2023-04-06T00:00:00.000Z",
+            "eventEnd": "2023-06-22T00:00:00.000Z",
+            "startActions": {
+              "hasRun": true,
+              "conversions": [],
+              "itemsToGrant": [
+                {
+                  "templateId": "Quest:adventure_seasonal_destroy_01",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:adventure_seasonal_locating_01",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:adventure_seasonal_mission_01",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:adventure_seasonal_monster_01",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:adventure_seasonal_weapon_01",
+                  "quantity": 1
+                }
+              ],
+              "questsToUnpause": []
+            },
+            "endActions": {
+              "hasRun": false,
+              "conversions": [],
+              "itemsToRemove": [
+                {
+                  "templateId": "Quest:adventure_seasonal_destroy_01",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:adventure_seasonal_destroy_02",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:adventure_seasonal_destroy_03",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:adventure_seasonal_destroy_04",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:adventure_seasonal_destroy_05",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:adventure_seasonal_destroy_06",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:adventure_seasonal_destroy_07",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:adventure_seasonal_destroy_08",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:adventure_seasonal_destroy_09",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:adventure_seasonal_destroy_10",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:adventure_seasonal_destroy_11",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:adventure_seasonal_destroy_12",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:adventure_seasonal_locating_01",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:adventure_seasonal_locating_02",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:adventure_seasonal_locating_03",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:adventure_seasonal_locating_04",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:adventure_seasonal_locating_05",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:adventure_seasonal_locating_06",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:adventure_seasonal_locating_07",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:adventure_seasonal_locating_08",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:adventure_seasonal_locating_09",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:adventure_seasonal_locating_10",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:adventure_seasonal_locating_11",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:adventure_seasonal_locating_12",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:adventure_seasonal_mission_01",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:adventure_seasonal_mission_02",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:adventure_seasonal_mission_03",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:adventure_seasonal_mission_04",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:adventure_seasonal_mission_05",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:adventure_seasonal_mission_06",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:adventure_seasonal_mission_07",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:adventure_seasonal_mission_08",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:adventure_seasonal_mission_09",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:adventure_seasonal_mission_10",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:adventure_seasonal_mission_11",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:adventure_seasonal_mission_12",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:adventure_seasonal_monster_01",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:adventure_seasonal_monster_02",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:adventure_seasonal_monster_03",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:adventure_seasonal_monster_04",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:adventure_seasonal_monster_05",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:adventure_seasonal_monster_06",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:adventure_seasonal_monster_07",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:adventure_seasonal_monster_08",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:adventure_seasonal_monster_09",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:adventure_seasonal_monster_10",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:adventure_seasonal_monster_11",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:adventure_seasonal_monster_12",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:adventure_seasonal_weapon_01",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:adventure_seasonal_weapon_02",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:adventure_seasonal_weapon_03",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:adventure_seasonal_weapon_04",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:adventure_seasonal_weapon_05",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:adventure_seasonal_weapon_06",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:adventure_seasonal_weapon_07",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:adventure_seasonal_weapon_08",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:adventure_seasonal_weapon_09",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:adventure_seasonal_weapon_10",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:adventure_seasonal_weapon_11",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:adventure_seasonal_weapon_12",
+                  "quantity": 1
+                }
+              ],
+              "questsToPause": []
+            },
+            "metaData": {}
+          }
+        }
+      },
+      "quantity": 1
+    },
+    "3edf2759-5435-4d8b-8823-304d600db183": {
+      "templateId": "Quest:starlightquest_destroy_urns",
+      "attributes": {
+        "creation_time": "2023-04-08T17:19:52.590Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T17:19:52.590Z",
+        "level": -1,
+        "item_seen": true,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "fcb380ed-3bbd-4518-8e67-6ba86618b8b0": {
+      "templateId": "Token:quests_stwstarterbundle13",
+      "attributes": {
+        "level": 1
+      },
+      "quantity": 1
+    },
+    "4b11f7b7-69a1-4790-aa69-6d9ca54ce5d2": {
+      "templateId": "AccountResource:voucher_basicpack",
+      "attributes": {
+        "level": 1,
+        "item_seen": true
+      },
+      "quantity": 10
+    },
+    "e356e265-60d7-405f-a4e5-d377822f028d": {
+      "templateId": "Worker:workerbasic_c_t01",
+      "attributes": {
+        "personality": "Homebase.Worker.Personality.IsAdventurous",
+        "gender": "2",
+        "squad_id": "squad_attribute_scavenging_scoutingparty",
+        "level": 1,
+        "squad_slot_idx": 1,
+        "item_seen": true,
+        "portrait": "WorkerPortrait:IconDef-WorkerPortrait-Adventurous-F01",
+        "building_slot_used": -1,
+        "set_bonus": "Homebase.Worker.SetBonus.IsShieldRegenLow"
+      },
+      "quantity": 1
+    },
+    "25f14ae6-d838-46bc-a7d2-2b435526361f": {
+      "templateId": "Quest:achievement_killmistmonsters",
+      "attributes": {
+        "creation_time": "2023-04-08T17:10:32.197Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T17:10:32.197Z",
+        "level": -1,
+        "item_seen": true,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "5edc33f9-bbc0-4b9b-9acf-ee55551cc712": {
+      "templateId": "Schematic:ammo_bulletslight",
+      "attributes": {
+        "level": 1
+      },
+      "quantity": 1
+    },
+    "e534d69d-fc1f-4ec3-87c4-d4947d610d9e": {
+      "templateId": "HomebaseNode:skilltree_airstrike",
+      "attributes": {},
+      "quantity": 1
+    },
+    "ede35bab-89ca-4f31-a5ac-8dca620dd12f": {
+      "templateId": "ConditionalAction:generic_instance",
+      "attributes": {
+        "alt_profile_types": [
+          "athena"
+        ],
+        "_private": true,
+        "devName": "MAJOR: Spring - Dungeons - Quests Phase 5",
+        "conditions": {
+          "event": {
+            "instanceId": "2qlmnjgs8sjobdi83q64468i3e[0]0",
+            "eventName": "CalendarEvent_Starlight2019_Quests_Phase5",
+            "eventStart": "2023-04-06T00:00:00.000Z",
+            "eventEnd": "2023-06-22T00:00:00.000Z",
+            "startActions": {
+              "hasRun": true,
+              "conversions": [],
+              "itemsToGrant": [],
+              "questsToUnpause": []
+            },
+            "endActions": {
+              "hasRun": false,
+              "conversions": [],
+              "itemsToRemove": [
+                {
+                  "templateId": "Quest:starlightquest_complete_melee_d1",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:starlightquest_complete_melee_timed_d1",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:starlightquest_complete_timed_d1",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:starlightquest_complete_timed_d2",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:starlightquest_complete_timed_d3",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "Quest:starlightquest_complete_timed_d4",
+                  "quantity": 1
+                }
+              ],
+              "questsToPause": []
+            },
+            "metaData": {}
+          }
+        }
+      },
+      "quantity": 1
+    },
+    "93d1ca6b-08c3-45d7-9e86-80e6bd742457": {
+      "templateId": "HomebaseNode:questreward_newfollower2_slot",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "3df6a6c7-4cf1-4bf2-8651-38493b7deef8": {
+      "templateId": "Quest:stonewoodquest_retrievedata_d1",
+      "attributes": {
+        "creation_time": "2023-04-08T18:24:48.727Z",
+        "quest_state": "Claimed",
+        "last_state_change_time": "2023-04-08T18:37:45.052Z",
+        "level": -1,
+        "item_seen": true,
+        "completion_complete_retrievedata_1": 1,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "92f1817f-2649-4413-876d-1468cecf35e8": {
+      "templateId": "Quest:tutorial_loadout_support2",
+      "attributes": {
+        "creation_time": "2023-04-08T19:29:01.305Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T19:29:01.305Z",
+        "level": -1,
+        "completion_heroloadout_support2_intro": 1,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "3ead9208-fe76-41b6-9446-89e1515d686e": {
+      "templateId": "Schematic:sid_pistol_auto_uc_ore_t01",
+      "attributes": {
+        "level": 1,
+        "item_seen": true,
+        "alterations": [
+          "Alteration:aid_att_firerate_ranged_t01",
+          "Alteration:aid_att_magazinesize_t02",
+          "Alteration:aid_att_damage_physical_t02",
+          "Alteration:aid_att_headshotdamage_t02",
+          "Alteration:aid_conditional_stunned_dmgbonus_t03",
+          "Alteration:aid_g_weapon_ondmg_applysnare_v2"
+        ]
+      },
+      "quantity": 1
+    },
+    "dea2e8a9-a029-4c18-8af1-0be2d0cc2867": {
+      "templateId": "Defender:did_defendermelee_basic_c_t01",
+      "attributes": {
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "alterations": [
+          "Alteration:aid_att_def_maxshield"
+        ]
+      },
+      "quantity": 1
+    },
+    "ead6b39f-9239-4589-a688-eb0fb26a1dc9": {
+      "templateId": "Quest:outpostquest_t1_l4",
+      "attributes": {
+        "creation_time": "2023-04-08T19:47:34.952Z",
+        "quest_state": "Claimed",
+        "last_state_change_time": "2023-04-08T20:10:05.147Z",
+        "level": -1,
+        "item_seen": true,
+        "completion_complete_outpost_1_4": 1,
+        "quest_rarity": "uncommon",
+        "completion_custom_defendersupplyreceived": 1,
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "2c8ff9c9-0937-4ace-9df9-defc12553faf": {
+      "templateId": "Quest:tutorial_loadout_gadgets",
+      "attributes": {
+        "creation_time": "2023-04-08T18:53:17.935Z",
+        "quest_state": "Claimed",
+        "last_state_change_time": "2023-04-08T19:10:49.008Z",
+        "completion_heroloadout_gadgets_guardscreen1": 1,
+        "level": -1,
+        "completion_heroloadout_gadgets_intro": 1,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "0f5e70c6-3b6c-4e72-87f3-f9fc8bac1cb9": {
+      "templateId": "AccountResource:personnelxp",
+      "attributes": {
+        "level": 1
+      },
+      "quantity": 1098495
+    },
+    "f041b34d-d24b-404f-837c-f125324a8eb7": {
+      "templateId": "ConditionalAction:generic_instance",
+      "attributes": {
+        "alt_profile_types": [
+          "athena"
+        ],
+        "_private": true,
+        "devName": "MAJOR: Spring - Dungeons - Quests Phase 2",
+        "conditions": {
+          "event": {
+            "instanceId": "iumgfrb1klgp6pml4rammiohmr[0]0",
+            "eventName": "CalendarEvent_Starlight2019_Quests_Phase2",
+            "eventStart": "2023-04-06T00:00:00.000Z",
+            "eventEnd": "2023-06-22T00:00:00.000Z",
+            "startActions": {
+              "hasRun": true,
+              "conversions": [],
+              "itemsToGrant": [],
+              "questsToUnpause": []
+            },
+            "endActions": {
+              "hasRun": false,
+              "conversions": [],
+              "itemsToRemove": [
+                {
+                  "templateId": "Quest:starlightquest_daily_complete_d2",
+                  "quantity": 1
+                }
+              ],
+              "questsToPause": []
+            },
+            "metaData": {}
+          }
+        }
+      },
+      "quantity": 1
+    },
+    "51e629c5-5486-4473-b1a4-e8aee12a7a87": {
+      "templateId": "Quest:adventure_seasonal_monster_01",
+      "attributes": {
+        "creation_time": "2023-04-08T18:52:02.196Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T18:52:02.196Z",
+        "level": -1,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "570a329a-036c-4594-97cf-561280f33c4f": {
+      "templateId": "Schematic:ammo_energycell",
+      "attributes": {
+        "level": 1
+      },
+      "quantity": 1
+    },
+    "7546b312-8e3b-4ec2-ae98-7cb1945237a1": {
+      "templateId": "Quest:achievement_playwithothers",
+      "attributes": {
+        "creation_time": "2023-04-08T17:10:32.197Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T17:10:32.197Z",
+        "level": -1,
+        "item_seen": true,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "4de94d45-829d-4a45-a0a3-25c3253d8efe": {
+      "templateId": "CampaignHeroLoadout:defaultloadout",
+      "attributes": {
+        "crew_members": {
+          "followerslot3": "ad9c11b1-fc64-4a5e-a51c-3cae9c41160d",
+          "followerslot2": "a35da4c5-891e-4042-875a-3ce1410711bf",
+          "followerslot1": "b391b16d-c8f7-4bdc-8dfe-a89b092de818",
+          "commanderslot": "ae22c15e-962b-4878-b0c4-9e3dd19c140f",
+          "followerslot5": "",
+          "followerslot4": ""
+        },
+        "loadout_index": 0,
+        "gadgets": [
+          {
+            "gadget": "Gadget:g_airstrike",
+            "slot_index": 0
+          },
+          {
+            "gadget": "Gadget:g_generic_adrenalinerush",
+            "slot_index": 1
+          }
+        ]
+      },
+      "quantity": 1
+    },
+    "85877ef7-8840-40c7-869c-6e044d3de738": {
+      "templateId": "Quest:daily_huskextermination_soldier",
+      "attributes": {
+        "creation_time": "2023-04-08T18:53:17.935Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T18:53:17.935Z",
+        "level": -1,
+        "item_seen": true,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "5cdaa77f-b367-4c30-bde6-b9e1bc10647b": {
+      "templateId": "Quest:adventure_seasonal_destroy_01",
+      "attributes": {
+        "creation_time": "2023-04-08T18:52:02.196Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T18:52:02.196Z",
+        "level": -1,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "62a729e6-c39f-448b-b7bd-e74e6644db40": {
+      "templateId": "Defender:did_defenderassault_basic_c_t00",
+      "attributes": {
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1
+      },
+      "quantity": 1
+    },
+    "42cae2dd-ed25-4986-9f83-36db0dfd0f1d": {
+      "templateId": "HomebaseNode:questreward_feature_skillsystem",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "e9ca47cd-f9ec-4664-9801-a0dd10ac4081": {
+      "templateId": "Quest:starlightquest_complete_all",
+      "attributes": {
+        "creation_time": "2023-04-08T17:19:52.590Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T17:19:52.590Z",
+        "level": -1,
+        "item_seen": true,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "158721c0-bf4f-4fbb-8a67-63b3b44ddbc0": {
+      "templateId": "Quest:starlightquest_dungeoneer_soldier",
+      "attributes": {
+        "creation_time": "2023-04-08T17:19:52.590Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T17:19:52.590Z",
+        "level": -1,
+        "item_seen": true,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "b766f179-5b61-4582-a23d-ef6202134758": {
+      "templateId": "Stat:offense",
+      "attributes": {
+        "level": 1
+      },
+      "quantity": 3
+    },
+    "09fb3454-6939-4c24-87b8-8bc4cfcb5146": {
+      "templateId": "Quest:outpostquest_t1_l2",
+      "attributes": {
+        "creation_time": "2023-04-08T17:53:26.975Z",
+        "quest_state": "Claimed",
+        "last_state_change_time": "2023-04-08T18:09:34.901Z",
+        "level": -1,
+        "item_seen": true,
+        "completion_complete_outpost_1_2": 1,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "e26a0826-9a0b-4e89-a2bf-f948188f5fc9": {
+      "templateId": "HomebaseNode:questreward_feature_weaponlevelup",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "18ca1456-edf8-4af0-ab6b-7a86d9f670a2": {
+      "templateId": "Quest:adventure_seasonal_locating_01",
+      "attributes": {
+        "creation_time": "2023-04-08T18:52:02.196Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T18:52:02.196Z",
+        "level": -1,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "3e754fe1-3b50-4a87-a79d-913f47c4d057": {
+      "templateId": "Quest:pickaxequest_stw002_tier_3",
+      "attributes": {
+        "creation_time": "2023-04-08T18:53:17.935Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T18:53:17.935Z",
+        "level": -1,
+        "item_seen": true,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "5018e9ba-3906-4dd2-a04c-08df5ff635a3": {
+      "templateId": "Quest:heroquest_constructorleadership",
+      "attributes": {
+        "creation_time": "2023-04-08T17:10:32.197Z",
+        "quest_state": "Claimed",
+        "last_state_change_time": "2023-04-08T17:20:06.170Z",
+        "completion_has_item_constructor": 1,
+        "level": -1,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "ae34705d-f0dc-4c72-8e95-7cb3f6408e9c": {
+      "templateId": "Schematic:sid_floor_spikes_wood_c_t01",
+      "attributes": {
+        "level": 1,
+        "item_seen": true,
+        "alterations": [
+          "Alteration:aid_att_damage_physical_t02",
+          "Alteration:aid_att_maxdurability_trap_t02",
+          "Alteration:aid_att_damage_t02",
+          "Alteration:aid_att_maxdurability_trap_t02",
+          "Alteration:aid_att_maxdurability_trap_t03",
+          "Alteration:aid_att_maxdurability_trap_t03"
+        ]
+      },
+      "quantity": 1
+    },
+    "66986fa4-1605-4a33-b2c3-d40e4e415c9b": {
+      "templateId": "PrerollData:preroll_basic",
+      "attributes": {
+        "fulfillmentId": "AF7F02ADB8274350A833A13B13EF5DEA",
+        "expended_streakbreakers": {},
+        "level": 1,
+        "highest_rarity": 2,
+        "offerId": "AF7F02ADB8274350A833A13B13EF5DEA",
+        "expiration": "2023-04-09T00:00:00.000Z",
+        "items": [
+          {
+            "itemType": "Worker:managerexplorer_uc_t01",
+            "attributes": {
+              "personality": "Homebase.Worker.Personality.IsCompetitive",
+              "gender": "2",
+              "portrait": "WorkerPortrait:IconDef-ManagerPortrait-Explorer-F01"
+            },
+            "quantity": 1
+          },
+          {
+            "itemType": "Worker:workerbasic_r_t01",
+            "attributes": {
+              "personality": "Homebase.Worker.Personality.IsDependable",
+              "gender": "2",
+              "portrait": "WorkerPortrait:IconDef-WorkerPortrait-Dependable-F03",
+              "set_bonus": "Homebase.Worker.SetBonus.IsResistanceLow"
+            },
+            "quantity": 1
+          },
+          {
+            "itemType": "Worker:workerbasic_r_t01",
+            "attributes": {
+              "personality": "Homebase.Worker.Personality.IsCooperative",
+              "gender": "1",
+              "portrait": "WorkerPortrait:IconDef-WorkerPortrait-Cooperative-M02",
+              "set_bonus": "Homebase.Worker.SetBonus.IsAbilityDamageLow"
+            },
+            "quantity": 1
+          },
+          {
+            "itemType": "Worker:workerbasic_r_t01",
+            "attributes": {
+              "personality": "Homebase.Worker.Personality.IsAdventurous",
+              "gender": "1",
+              "portrait": "WorkerPortrait:IconDef-WorkerPortrait-Adventurous-M01",
+              "set_bonus": "Homebase.Worker.SetBonus.IsFortitudeLow"
+            },
+            "quantity": 1
+          },
+          {
+            "itemType": "Worker:workerbasic_r_t01",
+            "attributes": {
+              "personality": "Homebase.Worker.Personality.IsCurious",
+              "gender": "2",
+              "portrait": "WorkerPortrait:IconDef-WorkerPortrait-Curious-F01",
+              "set_bonus": "Homebase.Worker.SetBonus.IsFortitudeLow"
+            },
+            "quantity": 1
+          },
+          {
+            "itemType": "Worker:workerbasic_vr_t01",
+            "attributes": {
+              "personality": "Homebase.Worker.Personality.IsPragmatic",
+              "gender": "2",
+              "portrait": "WorkerPortrait:IconDef-WorkerPortrait-Pragmatic-F03",
+              "set_bonus": "Homebase.Worker.SetBonus.IsTrapDamageLow"
+            },
+            "quantity": 1
+          },
+          {
+            "itemType": "Worker:managerexplorer_uc_t01",
+            "attributes": {
+              "personality": "Homebase.Worker.Personality.IsCooperative",
+              "gender": "1",
+              "portrait": "WorkerPortrait:IconDef-ManagerPortrait-Explorer-M01"
+            },
+            "quantity": 1
+          },
+          {
+            "itemType": "Worker:workerbasic_sr_t01",
+            "attributes": {
+              "personality": "Homebase.Worker.Personality.IsAdventurous",
+              "gender": "1",
+              "portrait": "WorkerPortrait:IconDef-WorkerPortrait-Adventurous-M01",
+              "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
+            },
+            "quantity": 1
+          },
+          {
+            "itemType": "Worker:managerexplorer_vr_t01",
+            "attributes": {
+              "personality": "Homebase.Worker.Personality.IsPragmatic",
+              "gender": "1",
+              "portrait": "WorkerPortrait:IconDef-ManagerPortrait-Explorer-M01"
+            },
+            "quantity": 1
+          },
+          {
+            "itemType": "AccountResource:eventcurrency_adventure",
+            "attributes": {},
+            "quantity": 1000
+          },
+          {
+            "itemType": "Hero:hid_constructor_hammertank_vr_t01",
+            "attributes": {},
+            "quantity": 1
+          },
+          {
+            "itemType": "Hero:hid_outlander_010_m_vr_t01",
+            "attributes": {},
+            "quantity": 1
+          }
+        ]
+      },
+      "quantity": 1
+    },
+    "b315b113-5eb7-4f4f-969c-993c24aaf570": {
+      "templateId": "Quest:challenge_weaponupgrade_1",
+      "attributes": {
+        "creation_time": "2023-04-08T18:37:45.052Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T18:37:45.052Z",
+        "level": -1,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "b179168e-2cb9-4b6c-90fa-27fe01a66ec3": {
+      "templateId": "Quest:achievement_destroygnomes",
+      "attributes": {
+        "creation_time": "2023-04-08T17:10:32.197Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T17:10:32.197Z",
+        "level": -1,
+        "item_seen": true,
+        "completion_destroy_gnome": 1,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    }
+  },
+  "stats": {
+    "attributes": {
+      "node_costs": {
+        "research_node_default_page": {
+          "Token:collectionresource_nodegatetoken01": 300
+        },
+        "homebase_node_default_page": {
+          "Token:homebasepoints": 2
+        }
+      },
+      "mission_alert_redemption_record": {
+        "claimData": [
+          {
+            "missionAlertId": "c783df0b-cb71-46c6-bd93-6f3e1d21daef",
+            "redemptionDateUtc": "2023-04-08T18:21:54.496Z",
+            "evictClaimDataAfterUtc": "2023-04-09T00:00:00.000Z"
+          },
+          {
+            "missionAlertId": "c413d370-2d91-45b6-af0b-d1eaf7a9282e",
+            "redemptionDateUtc": "2023-04-08T19:08:04.542Z",
+            "evictClaimDataAfterUtc": "2023-04-09T00:00:00.000Z"
+          }
+        ]
+      },
+      "research_levels": {
+        "fortitude": 1
+      },
+      "loadouts": [
+        "41a7cf5b-ed23-4187-9ec8-e2780c4343ed",
+        null
+      ],
+      "level": 11,
+      "selected_hero_loadout": "4de94d45-829d-4a45-a0a3-25c3253d8efe",
+      "quest_manager": {
+        "dailyLoginInterval": "2023-04-09T05:57:19.585Z",
+        "dailyQuestRerolls": 1,
+        "objectiveDeferral": {
+          "key": "bca076d5b46941a188a7164ebc875f24",
+          "instigationTime": "2023-04-09T06:00:46.651Z"
+        },
+        "questPoolStats": {
+          "poolStats": [
+            {
+              "poolName": "dailywargameschallenge_01",
+              "nextRefresh": "2023-04-10T05:57:19.582Z",
+              "rerollsRemaining": 1,
+              "questHistory": [
+                "Quest:wargames_completedailyquest"
+              ]
+            },
+            {
+              "poolName": "dailywargamesstonewood_01",
+              "nextRefresh": "2023-04-10T05:57:19.583Z",
+              "rerollsRemaining": 1,
+              "questHistory": []
+            },
+            {
+              "poolName": "weeklyquestroll_02",
+              "nextRefresh": "2023-04-13T00:00:00.000Z",
+              "rerollsRemaining": 1,
+              "questHistory": [
+                "Quest:weeklyquest_tiered_completemissionalerts_t04"
+              ]
+            },
+            {
+              "poolName": "starlightdailyquest_01",
+              "nextRefresh": "2023-04-10T05:57:19.584Z",
+              "rerollsRemaining": 1,
+              "questHistory": []
+            }
+          ],
+          "dailyLoginInterval": "2023-04-09T05:57:19.584Z",
+          "poolLockouts": {
+            "poolLockouts": [
+              {
+                "lockoutName": "Weekly"
+              }
+            ]
+          }
+        }
+      },
+      "gameplay_stats": [
+        {
+          "statName": "zonescompleted",
+          "statValue": 12
+        }
+      ],
+      "event_currency": {
+        "templateId": "AccountResource:eventcurrency_adventure",
+        "cf": 1.0
+      },
+      "matches_played": 12,
+      "last_applied_loadout": "d5140be1-634c-420c-8cbb-a4fc71fe838d",
+      "daily_rewards": {
+        "nextDefaultReward": 2,
+        "totalDaysLoggedIn": 2,
+        "lastClaimDate": "2023-04-09T05:57:29.630Z",
+        "additionalSchedules": {
+          "founderspackdailyrewardtoken": {
+            "rewardsClaimed": 0,
+            "claimedToday": false
+          }
+        }
+      },
+      "xp": 8955784,
+      "quest_completion_session_ids": {},
+      "packs_granted": 3
+    }
+  },
+  "commandRevision": 199
+}

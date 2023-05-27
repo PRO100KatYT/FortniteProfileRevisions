@@ -1,0 +1,5312 @@
+{
+  "_id": "5cf377387523411e81b583ece1b1b0fa",
+  "created": "2023-04-08T13:20:29.308Z",
+  "updated": "2023-04-21T13:58:38.337Z",
+  "rvn": 422,
+  "wipeNumber": 5,
+  "accountId": "929ccb6c363e437d9a356f4d89fd66c9",
+  "profileId": "athena",
+  "version": "season24_2420_ValueAdds_Mar_2023",
+  "items": {
+    "60524158-9f98-4df6-8310-a9c6aa2671a0": {
+      "templateId": "Quest:quest_s24_lf_q01",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:31.173Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:31.173Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "173831bd-2a42-49ce-bb5c-a14859496256",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "4b84f250-0c9e-4613-99f5-15affb2d4fb0": {
+      "templateId": "Quest:quest_s24_weeklycosmetics_nobp_b03_q04",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.323Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.323Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "a7936a65-b939-42a5-b8ce-381a1b93b7bc",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "99b270e7-1edd-4351-8a89-eab54e5eb43f": {
+      "templateId": "Token:athena_quest_completed_uncommon",
+      "attributes": {
+        "level": 1
+      },
+      "quantity": 4
+    },
+    "91fbf5fb-3171-47b9-bfed-5fde61635e1b": {
+      "templateId": "Quest:quest_s24_milestone_thankthebusdriver_q01",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.313Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.313Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "a8799936-e648-44e7-b644-37af112c3c1b": {
+      "templateId": "Quest:quest_s24_completeseason_45",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.317Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.317Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "3f3b92f7-3558-4cbd-9061-fad0c4e37949",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "89c18894-5f10-4102-b048-fcbf346825f5": {
+      "templateId": "Accolades:accoladeid_stw_starlight_d01_progress1",
+      "attributes": {
+        "earned_count": 4,
+        "last_earned_day": 31
+      },
+      "quantity": 1
+    },
+    "c7de42dd-b774-4920-b123-811a794469b2": {
+      "templateId": "Accolades:accoladeid_stw_ssd_t01_bonus",
+      "attributes": {
+        "earned_count": 8,
+        "last_earned_day": 31
+      },
+      "quantity": 1
+    },
+    "0780c859-05a4-470f-b9bf-1f0b29f92e67": {
+      "templateId": "Quest:quest_s24_completeseason_27",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.315Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.315Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "3f3b92f7-3558-4cbd-9061-fad0c4e37949",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "4b2d47ca-214b-4aa3-8449-fab3f94ec767": {
+      "templateId": "Quest:quest_s24_milestone_completequests_q15",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.313Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.313Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "eff64da4-a4b0-49ae-a22b-3ce173e10258",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "cfd19588-5a57-4f85-92d7-2221aa20f27d": {
+      "templateId": "ChallengeBundleCompletionToken:challengebundleprogresstracker",
+      "attributes": {
+        "completion_bits": [
+          1
+        ],
+        "bundle_template": "ChallengeBundle:questbundle_s24_limitedtime_week_06_timer",
+        "level": 1,
+        "bundle_id": "663de9a1-904a-4285-8aa1-a428054e0568"
+      },
+      "quantity": 1
+    },
+    "0cfa55ef-b3f1-44ff-a3ae-2320969f4787": {
+      "templateId": "Accolades:accoladeid_stw_mission_rts_victory",
+      "attributes": {
+        "earned_count": 6,
+        "last_earned_day": 36
+      },
+      "quantity": 1
+    },
+    "592edd6c-39c7-40e8-bb43-1710a7ee76b1": {
+      "templateId": "Accolades:accoladeid_stw_ssd_t02_l04",
+      "attributes": {
+        "earned_count": 1,
+        "last_earned_day": 32
+      },
+      "quantity": 1
+    },
+    "4c4729cd-1763-407f-8030-3a81ac5e1f58": {
+      "templateId": "Quest:quest_s24_completeseason_47",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.317Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.317Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "3f3b92f7-3558-4cbd-9061-fad0c4e37949",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "e9551f86-dfaa-4687-844f-c5c023f3b277": {
+      "templateId": "Accolades:accoladeid_stw_ssd_t01_l07",
+      "attributes": {
+        "earned_count": 1,
+        "last_earned_day": 31
+      },
+      "quantity": 1
+    },
+    "e3d8b483-4bd4-477d-bffe-3638438e596b": {
+      "templateId": "ChallengeBundle:questbundle_s24_weeklycosmetics_02",
+      "attributes": {
+        "num_granted_bundle_quests": 5,
+        "challenge_bundle_schedule_id": "be0874a9-3311-4c02-9b58-f313d71f0933",
+        "grantedquestinstanceids": [
+          "86c186fe-a297-4f13-a339-97289051c60f",
+          "ec8e5675-efb2-464d-a7bc-147b913fd213",
+          "e4842ae2-84bf-41d8-881a-b716ce02a994",
+          "0218c0fe-4f01-4af9-b971-3884eec1d5e8",
+          "9510b336-e705-40ff-93e0-48b107928ae9"
+        ]
+      },
+      "quantity": 1
+    },
+    "8c4b41c0-ad6a-4d38-94cc-559d96935f1d": {
+      "templateId": "Quest:quest_s24_limited_g2_q6",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.324Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.324Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "1a4d33e6-f721-46b5-bba0-7b20fa433a52",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "ff463dee-dfd3-438e-b38a-9bde12d0782d": {
+      "templateId": "ChallengeBundleSchedule:season24_schedule_sunburst",
+      "attributes": {
+        "unlock_epoch": "2023-04-20T13:00:00.000Z",
+        "level": 1,
+        "granted_bundles": [
+          "4d346a62-2d89-47ec-a38f-5cab74a4e6f1",
+          "3141b164-ef8f-4f29-b031-ce10fa0ab6fb"
+        ]
+      },
+      "quantity": 1
+    },
+    "38cc5211-33a4-45a2-9534-54759b4ffb74": {
+      "templateId": "AthenaCharacter:character_looper",
+      "attributes": {
+        "creation_time": "2023-04-08T16:09:06.509Z",
+        "level": 1,
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "fa049134-1b51-44a9-8c43-681316fb62d0": {
+      "templateId": "AthenaDance:eid_dancemoves",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.308Z",
+        "level": 1,
+        "item_seen": 1
+      },
+      "quantity": 1
+    },
+    "352b6d4d-51c0-4f2d-a6ef-a3e8acb92dd7": {
+      "templateId": "Accolades:accoladeid_stw_mission_bonus_speedrun3",
+      "attributes": {
+        "earned_count": 2,
+        "last_earned_day": 33
+      },
+      "quantity": 1
+    },
+    "d554b4d6-3eb9-47e3-af50-cf85e888eb24": {
+      "templateId": "Accolades:accoladeid_stw_ssd_t02_l03",
+      "attributes": {
+        "earned_count": 1,
+        "last_earned_day": 32
+      },
+      "quantity": 1
+    },
+    "cb522614-5c86-4718-bb9f-8310bb367533": {
+      "templateId": "Quest:quest_s24_milestone_completequests_q16",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.313Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.313Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "eff64da4-a4b0-49ae-a22b-3ce173e10258",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "eabe2e7d-24e0-4ff5-a168-064d611077b0": {
+      "templateId": "ConditionalAction:generic_instance",
+      "attributes": {
+        "alt_profile_types": [
+          "athena"
+        ],
+        "_private": true,
+        "devName": "Event_S24_TigerRoot",
+        "conditions": {
+          "event": {
+            "instanceId": "59d4mpovv10fpe5e3fsh72mqso[0]0",
+            "eventName": "CalendarEvent_S24_TigerRoot",
+            "eventStart": "2023-04-14T19:00:00.000Z",
+            "eventEnd": "2023-04-27T04:00:00.000Z",
+            "startActions": {
+              "hasRun": true,
+              "conversions": [],
+              "itemsToGrant": [
+                {
+                  "templateId": "ChallengeBundleSchedule:season24_schedule_tigerroot",
+                  "quantity": 1
+                }
+              ],
+              "questsToUnpause": []
+            },
+            "endActions": {
+              "hasRun": false,
+              "conversions": [],
+              "itemsToRemove": [
+                {
+                  "templateId": "ChallengeBundleSchedule:season24_schedule_tigerroot",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "ChallengeBundleSchedule:season24_schedule_epicenter",
+                  "quantity": 1
+                }
+              ],
+              "questsToPause": []
+            },
+            "metaData": {}
+          }
+        }
+      },
+      "quantity": 1
+    },
+    "1fd95789-6812-45ca-a5eb-c47fc9b7a1bd": {
+      "templateId": "AthenaMusicPack:musicpack_162_s23default",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.308Z",
+        "level": 1,
+        "item_seen": 1
+      },
+      "quantity": 1
+    },
+    "4424441a-ed5e-4635-bdcd-eb94fdadfd0d": {
+      "templateId": "Quest:quest_s24_milestone_completequests_q07",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.312Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.312Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "c6c5695c-2763-4e16-8138-8291124f8e77",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "1f4fd29f-10a6-4fb1-998e-fb94599bf689": {
+      "templateId": "Quest:quest_s24_boosterpack_q02",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.311Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.311Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "b8be17ff-c9b3-4f5e-aa4e-69f73fe0dacc",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "30f278b8-ad7b-416d-9244-2dc2a9e4f208": {
+      "templateId": "ChallengeBundle:questbundle_s24_narrative_part01",
+      "attributes": {
+        "num_granted_bundle_quests": 1,
+        "challenge_bundle_schedule_id": "0efc8824-afd3-400d-b77b-5a39b7fa79f4",
+        "grantedquestinstanceids": [
+          "cf560b09-5e47-4424-951e-bbbbaa451b19"
+        ]
+      },
+      "quantity": 1
+    },
+    "530485a1-9da3-4ab7-a3f6-88c1a9a0be91": {
+      "templateId": "Accolades:accoladeid_stw_quest_endurance_daily_w15",
+      "attributes": {
+        "earned_count": 3,
+        "last_earned_day": 41
+      },
+      "quantity": 1
+    },
+    "36dd585a-e166-46ad-8bde-12f2bf6e559f": {
+      "templateId": "Quest:quest_s24_weekly_w02_q03",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.319Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.319Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "1266a5f6-8215-49d6-b5da-b4263819ef52",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "35a12ce5-7bc9-42f7-a016-889d803620de": {
+      "templateId": "Quest:quest_s24_limited_g6_timer_quest",
+      "attributes": {
+        "creation_time": "2023-04-18T18:26:30.239Z",
+        "quest_state": "Claimed",
+        "last_state_change_time": "2023-04-18T18:26:30.241Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "663de9a1-904a-4285-8aa1-a428054e0568",
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "7383b40e-9214-49c7-9a3b-dbec58bb6dc9": {
+      "templateId": "Quest:quest_s24_weekly_w01_q01",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.317Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.317Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "ec5b5cc6-1589-4628-94cd-9e581bd881e5",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "93d23273-4530-40ec-87b7-405be6856249": {
+      "templateId": "Quest:quest_s24_tigerroot_q04",
+      "attributes": {
+        "creation_time": "2023-04-15T05:30:24.116Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-15T05:30:24.116Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "25eb2920-08d5-4db6-9067-63e7357e0296",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "1955814b-71c6-40cc-af1d-614dca343da6": {
+      "templateId": "ChallengeBundle:missionbundle_s24_week_04",
+      "attributes": {
+        "num_granted_bundle_quests": 8,
+        "challenge_bundle_schedule_id": "cfc3c0ab-fab7-4040-b770-cb7c17ae7666",
+        "grantedquestinstanceids": [
+          "9ac9fdde-f8e0-49e0-a9d0-4464d434bb22",
+          "0418d7dd-80d5-4da5-ae9e-c53857e04a76",
+          "ceff13ce-eaca-4fae-8596-9d1568828c72",
+          "e0fd9a05-bbdd-4a12-97e9-7f5f73b15ced",
+          "d863fb0f-edf3-421f-9390-cce9f80269a6",
+          "87123ad9-f2c2-4011-82b2-2b9ec1af25f9",
+          "267c88d1-fa46-48a3-b014-6f8d52863915",
+          "96dac2a8-c88d-4269-91b1-551d30f9aa9f"
+        ]
+      },
+      "quantity": 1
+    },
+    "45b9e563-12a0-4eb5-9a73-d8d5bfbb4686": {
+      "templateId": "Quest:quest_s24_weeklycosmetics_nobp_b03_q03",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.323Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.323Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "a7936a65-b939-42a5-b8ce-381a1b93b7bc",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "96dac2a8-c88d-4269-91b1-551d30f9aa9f": {
+      "templateId": "Quest:quest_suppressed_smg_damge_hard_w04",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.321Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.321Z",
+        "level": -1,
+        "challenge_bundle_id": "1955814b-71c6-40cc-af1d-614dca343da6",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "d102c136-795b-4ac3-b00a-31ed335f76cb": {
+      "templateId": "Quest:quest_s24_weekly_w05_q05",
+      "attributes": {
+        "creation_time": "2023-04-11T15:39:51.551Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-11T15:39:51.551Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "6b8dddaa-8151-4140-8581-17d8bd48090c",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "ea4077c9-7141-4a48-be87-277f8319c21d": {
+      "templateId": "Quest:quest_s24_weekly_w06_q05",
+      "attributes": {
+        "creation_time": "2023-04-18T18:26:30.240Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-18T18:26:30.240Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "319438d8-dd1b-4ebd-89a7-d4e2f5a69edf",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "3f955067-3fc1-4f6a-a245-69bb23fbcb55": {
+      "templateId": "Quest:quest_s24_boosterpack_q06",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.311Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.311Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "b8be17ff-c9b3-4f5e-aa4e-69f73fe0dacc",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "a5053b61-121a-48d1-a2d5-616cfc164ce4": {
+      "templateId": "Quest:quest_s24_completeseason_24",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.315Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.315Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "3f3b92f7-3558-4cbd-9061-fad0c4e37949",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "8f4c097b-6be9-40f2-979b-ce202252edd1": {
+      "templateId": "Accolades:accoladeid_stw_ssd_t01_l02",
+      "attributes": {
+        "earned_count": 1,
+        "last_earned_day": 30
+      },
+      "quantity": 1
+    },
+    "25eb2920-08d5-4db6-9067-63e7357e0296": {
+      "templateId": "ChallengeBundle:questbundle_s24_tigerroot",
+      "attributes": {
+        "num_granted_bundle_quests": 4,
+        "challenge_bundle_schedule_id": "b0713aa3-d707-4c50-9802-ad4f13c53388",
+        "grantedquestinstanceids": [
+          "0997dcea-dc9b-4d15-936c-3e979103f8a7",
+          "e47e528c-f2be-45f5-8863-c2b0efa0bbdd",
+          "93d23273-4530-40ec-87b7-405be6856249",
+          "f6c4eff7-86f6-4c8e-9c15-55555a4df091"
+        ]
+      },
+      "quantity": 1
+    },
+    "a619eb91-60e4-4b50-b698-686514c9cca8": {
+      "templateId": "ChallengeBundle:questbundle_s24_limitedtime_week_01_creative",
+      "attributes": {
+        "num_granted_bundle_quests": 1,
+        "challenge_bundle_schedule_id": "cc5ca382-98aa-4ac6-9ee1-3a86410e781c",
+        "grantedquestinstanceids": [
+          "1f60de5d-9f0b-4c44-b6d7-1bb9333e1f08"
+        ]
+      },
+      "quantity": 1
+    },
+    "fb00b80d-317b-445a-a411-9adf76ecc97f": {
+      "templateId": "Quest:quest_s24_completeseason_28",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.315Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.315Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "3f3b92f7-3558-4cbd-9061-fad0c4e37949",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "17acf40a-ec93-4910-9576-5effd4b35ebb": {
+      "templateId": "PlayerAugmentsPersistence:musterplayeraugmentsaccountitemdefinition",
+      "attributes": {
+        "data": {
+          "roll_count_since_last_unlock": 0,
+          "carry_over_player_augments": []
+        },
+        "level": 1
+      },
+      "quantity": 1
+    },
+    "9a2c949c-0e2b-4bae-881c-00478ffd1ae3": {
+      "templateId": "Quest:quest_s24_completeseason_43",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.316Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.316Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "3f3b92f7-3558-4cbd-9061-fad0c4e37949",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "49604135-2443-4d46-ba11-2f56871a7e02": {
+      "templateId": "Accolades:accoladeid_stw_mission_rts_bronze",
+      "attributes": {
+        "earned_count": 1,
+        "last_earned_day": 33
+      },
+      "quantity": 1
+    },
+    "56fc55be-12db-4d09-9334-4968b012fd5d": {
+      "templateId": "Quest:quest_s24_weekly_w03_q01",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.319Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.319Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "7f6be480-e40d-473b-8341-50594b2b438a",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "d15d6b75-772e-43b9-bd21-06b6d59da3b4": {
+      "templateId": "Quest:quest_s24_milestone_completequests_q09",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.312Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.312Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "54d212c3-a13d-4086-bada-55979d90cfc1",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "3f3b92f7-3558-4cbd-9061-fad0c4e37949": {
+      "templateId": "ChallengeBundle:questbundle_s24_completeseason",
+      "attributes": {
+        "num_granted_bundle_quests": 51,
+        "challenge_bundle_schedule_id": "cfc3c0ab-fab7-4040-b770-cb7c17ae7666",
+        "grantedquestinstanceids": [
+          "502ed169-f327-4fb1-a302-568341ecea79",
+          "8cf34613-f51d-4b87-a580-1641a30dbab6",
+          "2ed5c993-fd10-4564-bd6b-4c7fd1bfee32",
+          "4882c823-5b1b-48e6-ba2b-0d235ab33451",
+          "1015cee0-7505-458c-87ee-75b8ad1a4fbc",
+          "366186cd-0823-46fa-a5f5-8d378fb8f806",
+          "b10f2d8a-4a46-4d38-b8ae-e5f9e046d819",
+          "ea889f3f-d3f8-4356-8edd-4899d93d5e04",
+          "9772d3cf-468d-45c4-bd1f-7178ce21446a",
+          "735e550a-2a80-4fda-a06c-4f56859bdc7c",
+          "d38996b3-a36e-4cf2-be62-08c29c861652",
+          "2ba8b618-3fb5-419d-aed9-6d7198c9d6be",
+          "d687f6d7-b9d7-44c9-b810-35829630906b",
+          "69864ed7-519a-41e0-847a-a833f82cea66",
+          "f8280612-3a6b-4704-b433-5edd57e15562",
+          "41ae9d3f-e22a-4283-ab15-c7737f17368a",
+          "9d2ca7d6-f0e7-434b-baf7-95800d068c4b",
+          "81826346-91c4-4d82-80f7-82dfe2c9d234",
+          "af7baf1c-d8c5-44a1-991c-59151f23c768",
+          "c1f77f07-750f-4a84-9e9a-50c0950e111b",
+          "83cc3a5d-1a46-470f-bf2e-4e30eb7ac98e",
+          "d7d3fdd1-328e-4eff-a60d-6d80bbabc643",
+          "09879481-8765-478e-974e-1fa50a202fcd",
+          "a5053b61-121a-48d1-a2d5-616cfc164ce4",
+          "6f8a3eef-2f80-413c-be86-4896590db251",
+          "24ed513b-42fd-458b-bfe3-1d5e2134b3ce",
+          "0780c859-05a4-470f-b9bf-1f0b29f92e67",
+          "fb00b80d-317b-445a-a411-9adf76ecc97f",
+          "cea9144e-352f-4a24-8665-55e37956c9c7",
+          "800487e8-cd6a-4743-81ad-92645a6cae30",
+          "7a14ed4d-aeef-4561-8fb0-5094c28852d0",
+          "7646cadc-6b04-488c-987e-bf459277a323",
+          "303e77f7-ae5e-4ba0-b290-79ace604bc59",
+          "2a0acb1e-a44e-4aac-9646-f7fc905ad513",
+          "b8f93609-f823-4b59-8d06-d2c382885a82",
+          "8362fd5a-83e7-4eee-9b3a-c55f2f62c126",
+          "036687f2-25b0-470b-8059-612ef6001b2c",
+          "328947e3-ebf4-42ad-aa51-43195a1ef2e3",
+          "344de352-81af-4d3a-bc62-95eebfb64b5f",
+          "a9e91ef6-ec7d-4c05-a38e-085a6aaf6f98",
+          "53c2fa2a-5216-412c-9d77-5482618e54ad",
+          "2fa96b8c-b643-487a-b860-15339cf351fa",
+          "9a2c949c-0e2b-4bae-881c-00478ffd1ae3",
+          "920eeee2-25db-416a-a496-30d59b3dfcf2",
+          "a8799936-e648-44e7-b644-37af112c3c1b",
+          "74fd47b5-5ebc-455c-936b-40110a8f7324",
+          "4c4729cd-1763-407f-8030-3a81ac5e1f58",
+          "c97e8a37-1097-48b6-bd40-2932b955bb66",
+          "d4fec462-d53c-4118-bf02-c5d91ae1bb6d",
+          "f2c7b8ac-fae4-4270-9971-1b8798128c8d",
+          "503e240a-293a-4f13-9bb8-b645f46c703e"
+        ]
+      },
+      "quantity": 1
+    },
+    "6c081cb0-eb64-42b5-b8b7-918065223837": {
+      "templateId": "Accolades:accoladeid_stw_ssd_t01_l01",
+      "attributes": {
+        "earned_count": 1,
+        "last_earned_day": 30
+      },
+      "quantity": 1
+    },
+    "6b8dddaa-8151-4140-8581-17d8bd48090c": {
+      "templateId": "ChallengeBundle:missionbundle_s24_week_05",
+      "attributes": {
+        "num_granted_bundle_quests": 9,
+        "challenge_bundle_schedule_id": "cfc3c0ab-fab7-4040-b770-cb7c17ae7666",
+        "grantedquestinstanceids": [
+          "2c79b821-2905-414b-a9d0-319327d2206f",
+          "1c49d4c0-51d1-4ff9-864e-b2c01db39f03",
+          "bc32a164-635c-4ed7-abde-6022d1271e31",
+          "6b9c4e03-9b58-4cf9-b9a9-226527663a95",
+          "d102c136-795b-4ac3-b00a-31ed335f76cb",
+          "a5d82fcb-f219-4995-b7bd-1df454da7e82",
+          "964f4349-2a14-41bb-9a9b-2e6f9c0a566a",
+          "47a23d78-36c4-437e-af5d-ef7dfca2ab2f",
+          "ab617808-b580-4384-9207-5da84bc3d15a"
+        ]
+      },
+      "quantity": 1
+    },
+    "2058951a-c67d-4dea-aecc-8a50868948d2": {
+      "templateId": "Quest:quest_s24_weeklycosmetics_nobp_b04_q03",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.323Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.323Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "eab4eb66-9e91-4aa2-9f9a-4b27abaed4cf",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "eee3354b-777c-4a8b-8a04-dff6e5b38a50": {
+      "templateId": "ChallengeBundleSchedule:season24_schedule_narrative_p02",
+      "attributes": {
+        "unlock_epoch": "2023-03-09T13:00:00.000Z",
+        "level": 1,
+        "granted_bundles": [
+          null,
+          "0985da50-de93-4d73-afd5-218ab4fc3636"
+        ]
+      },
+      "quantity": 1
+    },
+    "f8280612-3a6b-4704-b433-5edd57e15562": {
+      "templateId": "Quest:quest_s24_completeseason_15",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.315Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.315Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "3f3b92f7-3558-4cbd-9061-fad0c4e37949",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "5f9d5ca0-2179-42cb-a04e-bb06728d612f": {
+      "templateId": "Quest:quest_s24_milestone_damageopponents_q01",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.313Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.313Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "47e68914-32c7-4a36-b38e-b1546aef206c": {
+      "templateId": "Accolades:accoladeid_stw_ssd_t02_l02",
+      "attributes": {
+        "earned_count": 1,
+        "last_earned_day": 31
+      },
+      "quantity": 1
+    },
+    "964f4349-2a14-41bb-9a9b-2e6f9c0a566a": {
+      "templateId": "Quest:quest_s24_weekly_w05_suppressed_medium",
+      "attributes": {
+        "creation_time": "2023-04-11T15:39:51.551Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-11T15:39:51.551Z",
+        "level": -1,
+        "challenge_bundle_id": "6b8dddaa-8151-4140-8581-17d8bd48090c",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "d0640bae-4187-41c6-8885-7baf80e6baa2": {
+      "templateId": "Quest:quest_s24_milestone_completequests_q20",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.313Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.313Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "e5f554d9-46ba-4c39-ada2-80cd73410ec9",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "5ff177dd-91ca-4591-946a-69ddca41503e": {
+      "templateId": "Accolades:accoladeid_stw_mission_rtd_bonus",
+      "attributes": {
+        "earned_count": 9,
+        "last_earned_day": 34
+      },
+      "quantity": 1
+    },
+    "7f78272e-ddc4-4141-b649-03a5cb3d8a3c": {
+      "templateId": "Quest:quest_s24_weekly_w06_q02",
+      "attributes": {
+        "creation_time": "2023-04-18T18:26:30.239Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-18T18:26:30.239Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "319438d8-dd1b-4ebd-89a7-d4e2f5a69edf",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "36ac88ff-6563-4001-ba70-f11001da5547": {
+      "templateId": "ChallengeBundleSchedule:victorycrown_schedule",
+      "attributes": {
+        "unlock_epoch": "2023-03-09T13:00:00.000Z",
+        "level": 1,
+        "granted_bundles": [
+          "731539f6-df34-4436-9c09-fe48bff1d477"
+        ]
+      },
+      "quantity": 1
+    },
+    "852f2bd8-a93c-4113-993e-322b4b80e666": {
+      "templateId": "Quest:quest_s24_milestone_completequests_q02",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.311Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.311Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "0bbac1e9-2ae5-4736-8c02-3727bd284467",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "cea9144e-352f-4a24-8665-55e37956c9c7": {
+      "templateId": "Quest:quest_s24_completeseason_29",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.316Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.316Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "3f3b92f7-3558-4cbd-9061-fad0c4e37949",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "16b7df1a-2ce9-4fbf-8d8d-c205b557ea1b": {
+      "templateId": "Quest:quest_s24_sunburst_q01",
+      "attributes": {
+        "creation_time": "2023-04-20T13:20:38.063Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-20T13:20:38.063Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "4d346a62-2d89-47ec-a38f-5cab74a4e6f1",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "f55ee65c-1588-42f1-9995-36e613e92ed6": {
+      "templateId": "Quest:quest_suppressed_open_finishtop_hard_w00",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.318Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.318Z",
+        "level": -1,
+        "challenge_bundle_id": "d901c597-85ee-4f6f-a26f-f1d494ecb20e",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "be0ca42c-a046-41bf-a974-3dfbda59f8b1": {
+      "templateId": "Quest:quest_s24_weekly_w00_q05",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.318Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.318Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "d901c597-85ee-4f6f-a26f-f1d494ecb20e",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "0997dcea-dc9b-4d15-936c-3e979103f8a7": {
+      "templateId": "Quest:quest_s24_tigerroot_q01",
+      "attributes": {
+        "creation_time": "2023-04-15T05:30:24.115Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-15T05:30:24.115Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "25eb2920-08d5-4db6-9067-63e7357e0296",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "800487e8-cd6a-4743-81ad-92645a6cae30": {
+      "templateId": "Quest:quest_s24_completeseason_30",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.316Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.316Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "3f3b92f7-3558-4cbd-9061-fad0c4e37949",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "eab4eb66-9e91-4aa2-9f9a-4b27abaed4cf": {
+      "templateId": "ChallengeBundle:questbundle_s24_weeklycosmetics_04",
+      "attributes": {
+        "num_granted_bundle_quests": 5,
+        "challenge_bundle_schedule_id": "be0874a9-3311-4c02-9b58-f313d71f0933",
+        "grantedquestinstanceids": [
+          "a49521c2-aaff-46e2-b7e7-b71d3f7b6871",
+          "a5b3d61a-00b7-4bf9-a696-8ffee9d001a6",
+          "2058951a-c67d-4dea-aecc-8a50868948d2",
+          "a409bc85-f2bb-4d23-86ab-5f9371b32f33",
+          "6b4f7136-bf86-4dd2-a388-cc783f96d787"
+        ]
+      },
+      "quantity": 1
+    },
+    "d7d3fdd1-328e-4eff-a60d-6d80bbabc643": {
+      "templateId": "Quest:quest_s24_completeseason_22",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.315Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.315Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "3f3b92f7-3558-4cbd-9061-fad0c4e37949",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "83cc3a5d-1a46-470f-bf2e-4e30eb7ac98e": {
+      "templateId": "Quest:quest_s24_completeseason_21",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.315Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.315Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "3f3b92f7-3558-4cbd-9061-fad0c4e37949",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "59efd19d-edbd-41d8-886c-19d5a113c5b5": {
+      "templateId": "Quest:quest_s24_weeklycosmetics_nobp_b01_q05",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.322Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.322Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "d4f3d8e1-b35d-4b7b-be5b-9ce00f81b6e2",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "ff01d340-1f7c-4ef8-9fb2-811f83f9c31a": {
+      "templateId": "Quest:quest_s24_milestone_completequests_q13",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.312Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.312Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "65618884-a643-4134-9ab8-2215a15e62e5",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "e7646f4d-218f-4f53-acbb-dd0217c04f44": {
+      "templateId": "Accolades:accoladeid_stw_ssd_t01_l10",
+      "attributes": {
+        "earned_count": 1,
+        "last_earned_day": 31
+      },
+      "quantity": 1
+    },
+    "746dcaf8-6dc7-4cb3-b1a9-543df7ffca0d": {
+      "templateId": "Accolades:accoladeid_stw_starlight_d01_keymaster",
+      "attributes": {
+        "earned_count": 4,
+        "last_earned_day": 31
+      },
+      "quantity": 1
+    },
+    "73c48d09-8a2e-4788-9868-8c75256979cc": {
+      "templateId": "Quest:quest_br_creative_playtimetracker_1",
+      "attributes": {
+        "creation_time": "2023-04-21T13:57:04.161Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-21T13:57:04.161Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "8ad940a6-12c7-45c3-90f8-d2bb0bed26b5": {
+      "templateId": "Accolades:accoladeid_stw_ssd_t02_l07",
+      "attributes": {
+        "earned_count": 1,
+        "last_earned_day": 32
+      },
+      "quantity": 1
+    },
+    "bc381fd3-a5f2-40ee-9278-7b55c23070c6": {
+      "templateId": "Quest:quest_s24_weekly_w01_q02",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.317Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.317Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "ec5b5cc6-1589-4628-94cd-9e581bd881e5",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "043d07d7-5882-47c0-8c0f-ebd024208da6": {
+      "templateId": "Accolades:accoladeid_stw_badge_building_bronze",
+      "attributes": {
+        "earned_count": 13,
+        "last_earned_day": 43
+      },
+      "quantity": 1
+    },
+    "d4fec462-d53c-4118-bf02-c5d91ae1bb6d": {
+      "templateId": "Quest:quest_s24_completeseason_49",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.317Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.317Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "3f3b92f7-3558-4cbd-9061-fad0c4e37949",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "920eeee2-25db-416a-a496-30d59b3dfcf2": {
+      "templateId": "Quest:quest_s24_completeseason_44",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.316Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.316Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "3f3b92f7-3558-4cbd-9061-fad0c4e37949",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "20ebf942-91da-4281-bae3-64a23cc5e3da": {
+      "templateId": "Accolades:accoladeid_stw_starlight_d01_progress2",
+      "attributes": {
+        "earned_count": 4,
+        "last_earned_day": 31
+      },
+      "quantity": 1
+    },
+    "e0fd9a05-bbdd-4a12-97e9-7f5f73b15ced": {
+      "templateId": "Quest:quest_s24_weekly_w04_q04",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.321Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.321Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "1955814b-71c6-40cc-af1d-614dca343da6",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "624de1d1-8412-4b97-b30c-e81c98dd9a23": {
+      "templateId": "Quest:quest_s24_feat_reach_seasonlevel",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.310Z",
+        "completion_quest_s24_feat_reach_seasonlevel_obj0": 71,
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.310Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "73b53f5a-7052-42ef-bdda-846a50b77eac",
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "f68d2c90-dea6-42e9-98d0-6f6463ff1f00": {
+      "templateId": "Token:athenabattlepass_superlevel_tab_fake",
+      "attributes": {
+        "level": 1
+      },
+      "quantity": 1
+    },
+    "41ae9d3f-e22a-4283-ab15-c7737f17368a": {
+      "templateId": "Quest:quest_s24_completeseason_16",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.315Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.315Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "3f3b92f7-3558-4cbd-9061-fad0c4e37949",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "f90a8192-e832-46a0-ab86-b9f724f8fcef": {
+      "templateId": "ChallengeBundle:questbundle_s24_limitedtime_week_02_timer",
+      "attributes": {
+        "num_granted_bundle_quests": 1,
+        "challenge_bundle_schedule_id": "cc5ca382-98aa-4ac6-9ee1-3a86410e781c",
+        "num_quests_completed": 1,
+        "grantedquestinstanceids": [
+          "22b4e775-8f9d-4533-87a0-10b9b3e6858d"
+        ]
+      },
+      "quantity": 1
+    },
+    "e82e377a-08b2-4e3a-a08f-e43d622302f8": {
+      "templateId": "Accolades:accoladeid_stw_mission_elimandcollect_resupply_bonus2",
+      "attributes": {
+        "earned_count": 4,
+        "last_earned_day": 41
+      },
+      "quantity": 1
+    },
+    "10d417de-3521-485c-a87a-db8a36a52905": {
+      "templateId": "Quest:punchcard_s24_tigerroot_q01",
+      "attributes": {
+        "creation_time": "2023-04-15T05:30:24.116Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-15T05:30:24.116Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "01061734-c79e-451f-9ed1-1329a85a053e",
+        "quest_rarity": "rare",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "74cb4284-3869-41b2-b15f-877ce1ce1919": {
+      "templateId": "Accolades:accoladeid_stw_ssd_t01_l09",
+      "attributes": {
+        "earned_count": 1,
+        "last_earned_day": 31
+      },
+      "quantity": 1
+    },
+    "b99eca1a-2e62-4460-b7fc-10075f2514d1": {
+      "templateId": "Quest:quest_s24_weekly_w03_q04",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.320Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.320Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "7f6be480-e40d-473b-8341-50594b2b438a",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "344de352-81af-4d3a-bc62-95eebfb64b5f": {
+      "templateId": "Quest:quest_s24_completeseason_39",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.316Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.316Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "3f3b92f7-3558-4cbd-9061-fad0c4e37949",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "918b2503-eda7-45f7-bb3b-2c591c8f9147": {
+      "templateId": "Accolades:accoladeid_stw_badge_combat_platinum",
+      "attributes": {
+        "earned_count": 42,
+        "last_earned_day": 43
+      },
+      "quantity": 1
+    },
+    "c97e8a37-1097-48b6-bd40-2932b955bb66": {
+      "templateId": "Quest:quest_s24_completeseason_48",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.317Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.317Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "3f3b92f7-3558-4cbd-9061-fad0c4e37949",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "37652949-ee77-460f-b1e8-f9e477f80d70": {
+      "templateId": "Accolades:accoladeid_stw_mission_elimandcollect_platinum",
+      "attributes": {
+        "earned_count": 2,
+        "last_earned_day": 41
+      },
+      "quantity": 1
+    },
+    "55afc892-6fc4-4119-8016-2ae19d70ff51": {
+      "templateId": "Quest:quest_s24_weeklycosmetics_nobp_b01_q03",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.321Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.321Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "d4f3d8e1-b35d-4b7b-be5b-9ce00f81b6e2",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "ee779c08-2149-439e-bf53-6e5112f6bb1f": {
+      "templateId": "AthenaMusicPack:musicpack_stw001_starlight",
+      "attributes": {
+        "creation_time": "2023-04-10T08:55:44.484Z",
+        "level": 1,
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "0bc3b5da-d00a-4f2d-8652-6131d19b3842": {
+      "templateId": "Accolades:accoladeid_stw_ssd_t01_l03",
+      "attributes": {
+        "earned_count": 1,
+        "last_earned_day": 30
+      },
+      "quantity": 1
+    },
+    "b10f2d8a-4a46-4d38-b8ae-e5f9e046d819": {
+      "templateId": "Quest:quest_s24_completeseason_07",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.314Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.314Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "3f3b92f7-3558-4cbd-9061-fad0c4e37949",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "502ed169-f327-4fb1-a302-568341ecea79": {
+      "templateId": "Quest:quest_s24_completeseason_01",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.313Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.313Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "3f3b92f7-3558-4cbd-9061-fad0c4e37949",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "077706a2-7e19-4a16-acb3-c0101b9bc77a": {
+      "templateId": "Quest:quest_s24_weekly_w06_suppressed_medium",
+      "attributes": {
+        "creation_time": "2023-04-18T18:26:30.240Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-18T18:26:30.240Z",
+        "level": -1,
+        "challenge_bundle_id": "319438d8-dd1b-4ebd-89a7-d4e2f5a69edf",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "5db243bd-0d1c-4cf5-bcec-57a5e357c7b7": {
+      "templateId": "Quest:quest_suppressed_shotty_dmg_hard_w02",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.319Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.319Z",
+        "level": -1,
+        "challenge_bundle_id": "1266a5f6-8215-49d6-b5da-b4263819ef52",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "89820491-007f-49cf-bd6b-62458aa4b34f": {
+      "templateId": "Quest:quest_c4_discover_landmarks",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.310Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.310Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "3e8aac7b-7e6e-43d8-9e6a-bf02116ab795": {
+      "templateId": "Quest:quest_s24_milestone_completequests_q04",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.311Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.311Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "fb59e8ce-ce80-4857-a1ae-19d1fc4b23c4",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "03bcfcbf-4403-49fb-a983-e5085909ae3a": {
+      "templateId": "ChallengeBundle:questbundle_s24_limitedtime_week_06",
+      "attributes": {
+        "num_granted_bundle_quests": 1,
+        "challenge_bundle_schedule_id": "cc5ca382-98aa-4ac6-9ee1-3a86410e781c",
+        "grantedquestinstanceids": [
+          "9c535b1b-ade2-42f6-8dde-07bcbc81653b"
+        ]
+      },
+      "quantity": 1
+    },
+    "d88065fe-7a09-48c8-a2e1-6c7e3fcde391": {
+      "templateId": "Quest:quest_s24_weeklycosmetics_nobp_b03_q05",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.323Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.323Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "a7936a65-b939-42a5-b8ce-381a1b93b7bc",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "bf01393a-f903-4108-9711-776fd4fcd64e": {
+      "templateId": "Quest:punchcard_s24_lf_q01",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:31.173Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:31.173Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "ff993f77-d59e-4147-83ea-ecf859ccdf08",
+        "quest_rarity": "rare",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "fb59e8ce-ce80-4857-a1ae-19d1fc4b23c4": {
+      "templateId": "ChallengeBundle:questbundle_s24_milestone_tier02",
+      "attributes": {
+        "num_granted_bundle_quests": 2,
+        "challenge_bundle_schedule_id": "7bc64119-edaa-48a0-99a7-3920d9687983",
+        "grantedquestinstanceids": [
+          "bbdc5957-dc17-427a-b42b-f7241fe2c1a4",
+          "3e8aac7b-7e6e-43d8-9e6a-bf02116ab795"
+        ]
+      },
+      "quantity": 1
+    },
+    "2ba8b618-3fb5-419d-aed9-6d7198c9d6be": {
+      "templateId": "Quest:quest_s24_completeseason_12",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.314Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.314Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "3f3b92f7-3558-4cbd-9061-fad0c4e37949",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "9a58dccd-ebc3-4786-b8b3-3ce25ede23cf": {
+      "templateId": "AthenaPickaxe:pickaxe_id_stw007_basic",
+      "attributes": {
+        "creation_time": "2023-04-08T17:38:38.393Z",
+        "level": 1,
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "08f0769c-4f16-4edc-8899-781884d021f6": {
+      "templateId": "Accolades:accoladeid_stw_quest_general_weekly",
+      "attributes": {
+        "earned_count": 2,
+        "last_earned_day": 34
+      },
+      "quantity": 1
+    },
+    "ec5b5cc6-1589-4628-94cd-9e581bd881e5": {
+      "templateId": "ChallengeBundle:missionbundle_s24_week_01",
+      "attributes": {
+        "num_granted_bundle_quests": 8,
+        "challenge_bundle_schedule_id": "cfc3c0ab-fab7-4040-b770-cb7c17ae7666",
+        "grantedquestinstanceids": [
+          "7383b40e-9214-49c7-9a3b-dbec58bb6dc9",
+          "bc381fd3-a5f2-40ee-9278-7b55c23070c6",
+          "51bd59c9-b9eb-4ec4-9829-daa17f5b6d61",
+          "a41c6d03-612a-4396-9202-05ca80e5b5cc",
+          "6770467b-6c90-43d2-a0a2-2b7a7347d599",
+          "4f6d8eb3-690f-4808-a3e6-14119d05346c",
+          "1055fdef-11b6-483d-8d3e-8f0fbe649f40",
+          "0582d0c0-14a0-4dff-823a-c6df18337bc6"
+        ]
+      },
+      "quantity": 1
+    },
+    "9772d3cf-468d-45c4-bd1f-7178ce21446a": {
+      "templateId": "Quest:quest_s24_completeseason_09",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.314Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.314Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "3f3b92f7-3558-4cbd-9061-fad0c4e37949",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "735e550a-2a80-4fda-a06c-4f56859bdc7c": {
+      "templateId": "Quest:quest_s24_completeseason_10",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.314Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.314Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "3f3b92f7-3558-4cbd-9061-fad0c4e37949",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "e5b201cd-082e-438d-ba64-b5068f450fce": {
+      "templateId": "ChallengeBundleSchedule:season24_schedule_narrative_p04",
+      "attributes": {
+        "unlock_epoch": "2023-03-09T13:00:00.000Z",
+        "level": 1,
+        "granted_bundles": [
+          null
+        ]
+      },
+      "quantity": 1
+    },
+    "e4842ae2-84bf-41d8-881a-b716ce02a994": {
+      "templateId": "Quest:quest_s24_weeklycosmetics_nobp_b02_q03",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.322Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.322Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "e3d8b483-4bd4-477d-bffe-3638438e596b",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "5fa0c9c8-e1e8-4180-b784-427f6a09e340": {
+      "templateId": "Quest:quest_s24_weeklycosmetics_nobp_b01_q02",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.321Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.321Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "d4f3d8e1-b35d-4b7b-be5b-9ce00f81b6e2",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "8f392d59-ace5-4220-b731-7cc3f550e4ce": {
+      "templateId": "Accolades:accoladeid_stw_mission_ltr_stage2",
+      "attributes": {
+        "earned_count": 2,
+        "last_earned_day": 33
+      },
+      "quantity": 1
+    },
+    "0efc8824-afd3-400d-b77b-5a39b7fa79f4": {
+      "templateId": "ChallengeBundleSchedule:season24_schedule_narrative_p01",
+      "attributes": {
+        "unlock_epoch": "2023-03-09T13:00:00.000Z",
+        "level": 1,
+        "granted_bundles": [
+          null,
+          "30f278b8-ad7b-416d-9244-2dc2a9e4f208"
+        ]
+      },
+      "quantity": 1
+    },
+    "9c13b903-31a1-4249-aad7-57a04cadaf25": {
+      "templateId": "Quest:quest_s24_milestone_completequests_q19",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.313Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.313Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "e5f554d9-46ba-4c39-ada2-80cd73410ec9",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "2661fd8d-245b-4c74-b778-1d3824c8c3a0": {
+      "templateId": "Quest:quest_s24_weeklycosmetics_nobp_b03_q02",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.323Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.323Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "a7936a65-b939-42a5-b8ce-381a1b93b7bc",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "1b287465-db0d-4a02-9196-975c34543f9d": {
+      "templateId": "ChallengeBundle:questbundle_s24_limitedtime_week_01_timer",
+      "attributes": {
+        "num_granted_bundle_quests": 1,
+        "challenge_bundle_schedule_id": "cc5ca382-98aa-4ac6-9ee1-3a86410e781c",
+        "num_quests_completed": 1,
+        "grantedquestinstanceids": [
+          "55b6aa09-666f-410b-98b7-9cca6b0b8393"
+        ]
+      },
+      "quantity": 1
+    },
+    "a354aa56-ee4e-4e80-bd43-ad13887c762b": {
+      "templateId": "Quest:quest_s24_dailyquestbackup_02",
+      "attributes": {
+        "bucket": "BRBackup",
+        "creation_time": "2023-04-21T13:57:04.159Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-21T13:57:04.159Z",
+        "level": -1,
+        "playlists": [
+          "Playlist_DefaultSolo",
+          "Playlist_DefaultDuo",
+          "Playlist_DefaultSquad",
+          "Playlist_Trios",
+          "Playlist_Bots_DefaultSolo",
+          "Playlist_Bots_DefaultDuo",
+          "Playlist_Bots_DefaultSquad",
+          "Playlist_Bots_Trios",
+          "Playlist_Respawn_24",
+          "Playlist_Respawn_24_Alt",
+          "Playlist_NoBuildBR_Solo",
+          "Playlist_NoBuildBR_Duo",
+          "Playlist_NoBuildBR_Trio",
+          "Playlist_NoBuildBR_Squad",
+          "Playlist_Bots_NoBuildBR_Solo",
+          "Playlist_Bots_NoBuildBR_Duo",
+          "Playlist_Bots_NoBuildBR_Trio",
+          "Playlist_Bots_NoBuildBR_Squad"
+        ],
+        "expiry_time": "2023-04-22T13:00:00.000Z",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "366186cd-0823-46fa-a5f5-8d378fb8f806": {
+      "templateId": "Quest:quest_s24_completeseason_06",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.314Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.314Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "3f3b92f7-3558-4cbd-9061-fad0c4e37949",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "2a70be3b-4a0f-4ca2-bfde-6012e70bfa17": {
+      "templateId": "Token:athenabattlepass_weekly_tab_fake",
+      "attributes": {
+        "level": 1
+      },
+      "quantity": 1
+    },
+    "87123ad9-f2c2-4011-82b2-2b9ec1af25f9": {
+      "templateId": "Quest:quest_suppressed_gain_shields_med_w04",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.321Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.321Z",
+        "level": -1,
+        "challenge_bundle_id": "1955814b-71c6-40cc-af1d-614dca343da6",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "09879481-8765-478e-974e-1fa50a202fcd": {
+      "templateId": "Quest:quest_s24_completeseason_23",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.315Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.315Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "3f3b92f7-3558-4cbd-9061-fad0c4e37949",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "d05f6930-9eb2-44a7-b06f-61a21a73cf11": {
+      "templateId": "Quest:quest_s24_limited_g2_creative",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.324Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.324Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "5078fe2e-8ff7-40f9-b148-f3da9300af97",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "2438d67b-bca9-4e47-a285-7c835d166507": {
+      "templateId": "Quest:quest_s24_milestone_completequests_q08",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.312Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.312Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "c6c5695c-2763-4e16-8138-8291124f8e77",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "8e65ba4d-760d-40af-8b4c-bddf9c226319": {
+      "templateId": "Accolades:accoladeid_stw_ssd_t03_l04",
+      "attributes": {
+        "earned_count": 1,
+        "last_earned_day": 33
+      },
+      "quantity": 1
+    },
+    "3141b164-ef8f-4f29-b031-ce10fa0ab6fb": {
+      "templateId": "ChallengeBundle:questbundle_s24_sunburst_punchcard",
+      "attributes": {
+        "num_granted_bundle_quests": 3,
+        "challenge_bundle_schedule_id": "ff463dee-dfd3-438e-b38a-9bde12d0782d",
+        "grantedquestinstanceids": [
+          "5c78b191-ee4d-4574-9de3-ddcaf6ec6a6c",
+          "f44e04ed-4343-469a-9003-5dd25588e2f8",
+          "4bf795e9-c380-486a-b8d8-518278e9149a"
+        ]
+      },
+      "quantity": 1
+    },
+    "be0874a9-3311-4c02-9b58-f313d71f0933": {
+      "templateId": "ChallengeBundleSchedule:season24_schedule_weeklycosmetics",
+      "attributes": {
+        "unlock_epoch": "2023-03-09T13:00:00.000Z",
+        "level": 1,
+        "granted_bundles": [
+          "d4f3d8e1-b35d-4b7b-be5b-9ce00f81b6e2",
+          "e3d8b483-4bd4-477d-bffe-3638438e596b",
+          "a7936a65-b939-42a5-b8ce-381a1b93b7bc",
+          "eab4eb66-9e91-4aa2-9f9a-4b27abaed4cf"
+        ]
+      },
+      "quantity": 1
+    },
+    "8cf34613-f51d-4b87-a580-1641a30dbab6": {
+      "templateId": "Quest:quest_s24_completeseason_02",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.314Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.314Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "3f3b92f7-3558-4cbd-9061-fad0c4e37949",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "1015cee0-7505-458c-87ee-75b8ad1a4fbc": {
+      "templateId": "Quest:quest_s24_completeseason_05",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.314Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.314Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "3f3b92f7-3558-4cbd-9061-fad0c4e37949",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "a7936a65-b939-42a5-b8ce-381a1b93b7bc": {
+      "templateId": "ChallengeBundle:questbundle_s24_weeklycosmetics_03",
+      "attributes": {
+        "num_granted_bundle_quests": 5,
+        "challenge_bundle_schedule_id": "be0874a9-3311-4c02-9b58-f313d71f0933",
+        "grantedquestinstanceids": [
+          "e27c3c7e-c420-4bd0-80fe-6ac2ddaa26b8",
+          "2661fd8d-245b-4c74-b778-1d3824c8c3a0",
+          "45b9e563-12a0-4eb5-9a73-d8d5bfbb4686",
+          "4b84f250-0c9e-4613-99f5-15affb2d4fb0",
+          "d88065fe-7a09-48c8-a2e1-6c7e3fcde391"
+        ]
+      },
+      "quantity": 1
+    },
+    "521b53be-29b0-4cfb-9d96-702ec7cf3e87": {
+      "templateId": "ChallengeBundle:questbundle_s24_limitedtime_week_05_creative",
+      "attributes": {
+        "num_granted_bundle_quests": 1,
+        "challenge_bundle_schedule_id": "cc5ca382-98aa-4ac6-9ee1-3a86410e781c",
+        "grantedquestinstanceids": [
+          "0436d671-fe76-4f8f-8d6e-cabd90affc50"
+        ]
+      },
+      "quantity": 1
+    },
+    "94f4e3a3-6094-4347-8e88-db8dc48663df": {
+      "templateId": "Accolades:accoladeid_stw_mission_ltr_success",
+      "attributes": {
+        "earned_count": 2,
+        "last_earned_day": 33
+      },
+      "quantity": 1
+    },
+    "8e44bb68-0a49-48b3-b46c-1f2deb972363": {
+      "templateId": "RepeatableDailiesCard:repeatabledailiescard_s24",
+      "attributes": {
+        "days_since_season_start_grant": 40,
+        "level": 1,
+        "reduced_xp_reward": 0.1,
+        "card_season_num": 24,
+        "replaced_rested_xp_value": 13725,
+        "replaced_rested_xp_value_scalar_for_missed_days": 1
+      },
+      "quantity": 1
+    },
+    "ceff13ce-eaca-4fae-8596-9d1568828c72": {
+      "templateId": "Quest:quest_s24_weekly_w04_q03",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.321Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.321Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "1955814b-71c6-40cc-af1d-614dca343da6",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "3ae078f0-8c9f-4d7c-8982-1c0fc50c0b2a": {
+      "templateId": "Quest:quest_s24_weeklycosmetics_nobp_b01_q04",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.322Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.322Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "d4f3d8e1-b35d-4b7b-be5b-9ce00f81b6e2",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "9510b336-e705-40ff-93e0-48b107928ae9": {
+      "templateId": "Quest:quest_s24_weeklycosmetics_nobp_b02_q05",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.322Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.322Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "e3d8b483-4bd4-477d-bffe-3638438e596b",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "493d5f73-d647-43a7-a8e3-222f8e3a4a14": {
+      "templateId": "Quest:quest_s24_weekly_w03_q02",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.320Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.320Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "7f6be480-e40d-473b-8341-50594b2b438a",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "47f62408-e1b7-4605-8e74-df0b9e963a38": {
+      "templateId": "Quest:quest_s24_dailypunchcard_complete2",
+      "attributes": {
+        "bucket": "DailyPunchcard",
+        "creation_time": "2023-04-21T13:57:04.159Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-21T13:57:04.159Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "expiry_time": "2023-04-22T13:00:00.000Z",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "a49521c2-aaff-46e2-b7e7-b71d3f7b6871": {
+      "templateId": "Quest:quest_s24_weeklycosmetics_nobp_b04_q01",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.323Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.323Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "eab4eb66-9e91-4aa2-9f9a-4b27abaed4cf",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "6b4f7136-bf86-4dd2-a388-cc783f96d787": {
+      "templateId": "Quest:quest_s24_weeklycosmetics_nobp_b04_q05",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.324Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.324Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "eab4eb66-9e91-4aa2-9f9a-4b27abaed4cf",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "899ae207-121b-429b-bcb9-710f17c4ad14": {
+      "templateId": "Quest:quest_s24_sunburst_q04",
+      "attributes": {
+        "creation_time": "2023-04-20T13:20:38.063Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-20T13:20:38.063Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "4d346a62-2d89-47ec-a38f-5cab74a4e6f1",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "f2c7b8ac-fae4-4270-9971-1b8798128c8d": {
+      "templateId": "Quest:quest_s24_completeseason_50",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.317Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.317Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "3f3b92f7-3558-4cbd-9061-fad0c4e37949",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "3420fa06-7303-4ad9-a058-e2a3431e568a": {
+      "templateId": "Quest:quest_s24_dailyquest_launchfortanium",
+      "attributes": {
+        "bucket": "BR",
+        "creation_time": "2023-04-21T13:57:04.159Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-21T13:57:04.159Z",
+        "level": -1,
+        "playlists": [
+          "Playlist_DefaultSolo",
+          "Playlist_DefaultDuo",
+          "Playlist_DefaultSquad",
+          "Playlist_Trios",
+          "Playlist_Bots_DefaultSolo",
+          "Playlist_Bots_DefaultDuo",
+          "Playlist_Bots_DefaultSquad",
+          "Playlist_Bots_Trios",
+          "Playlist_Respawn_24",
+          "Playlist_Respawn_24_Alt",
+          "Playlist_NoBuildBR_Solo",
+          "Playlist_NoBuildBR_Duo",
+          "Playlist_NoBuildBR_Trio",
+          "Playlist_NoBuildBR_Squad",
+          "Playlist_Bots_NoBuildBR_Solo",
+          "Playlist_Bots_NoBuildBR_Duo",
+          "Playlist_Bots_NoBuildBR_Trio",
+          "Playlist_Bots_NoBuildBR_Squad"
+        ],
+        "sent_new_notification": true,
+        "expiry_time": "2023-04-22T13:00:00.000Z",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "0192bf9e-1cb2-4266-add6-c859a3c28fef": {
+      "templateId": "Quest:quest_s24_lf_q04",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:31.173Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:31.173Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "173831bd-2a42-49ce-bb5c-a14859496256",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "51d474ec-7ff3-442c-ab09-abc40d0f8aa0": {
+      "templateId": "Quest:quest_s24_milestone_completequests_q12",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.312Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.312Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "71c89339-d4fe-4053-a0c4-dae52b34077b",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "c6c5695c-2763-4e16-8138-8291124f8e77": {
+      "templateId": "ChallengeBundle:questbundle_s24_milestone_tier04",
+      "attributes": {
+        "num_granted_bundle_quests": 2,
+        "challenge_bundle_schedule_id": "7bc64119-edaa-48a0-99a7-3920d9687983",
+        "grantedquestinstanceids": [
+          "4424441a-ed5e-4635-bdcd-eb94fdadfd0d",
+          "2438d67b-bca9-4e47-a285-7c835d166507"
+        ]
+      },
+      "quantity": 1
+    },
+    "d102116b-f100-45e3-89c4-21daa24d8ce1": {
+      "templateId": "Accolades:accoladeid_stw_badge_building",
+      "attributes": {
+        "earned_count": 6,
+        "last_earned_day": 37
+      },
+      "quantity": 1
+    },
+    "9d9c9f5a-c2d7-4531-93b6-0e38d9ffe89e": {
+      "templateId": "AthenaBackpack:backpack_looper",
+      "attributes": {
+        "creation_time": "2023-04-08T16:09:06.511Z",
+        "level": 1,
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "51bd59c9-b9eb-4ec4-9829-daa17f5b6d61": {
+      "templateId": "Quest:quest_s24_weekly_w01_q03",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.317Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.317Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "ec5b5cc6-1589-4628-94cd-9e581bd881e5",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "b8be17ff-c9b3-4f5e-aa4e-69f73fe0dacc": {
+      "templateId": "ChallengeBundle:questbundle_s24_boosterpack",
+      "attributes": {
+        "num_granted_bundle_quests": 8,
+        "challenge_bundle_schedule_id": "39c435dd-f975-4645-a2c2-1449a13aeb5f",
+        "grantedquestinstanceids": [
+          "b5e93f31-c1dc-4192-8d4c-a0bb468025ea",
+          "1f4fd29f-10a6-4fb1-998e-fb94599bf689",
+          "614076d5-25ec-42a0-8183-13cebf38ec15",
+          "52045347-1b7a-4008-8f95-bbf2a83da40f",
+          "98915900-ef26-455b-b844-f0b84b0010c5",
+          "3f955067-3fc1-4f6a-a245-69bb23fbcb55",
+          "00600300-0fc2-4bc2-9490-e5e7989cd2e3",
+          "cff8705e-0d94-466e-8c1a-3cc80bdb56ef"
+        ]
+      },
+      "quantity": 1
+    },
+    "c9feb87b-f126-42ff-ae70-9f9b5af6fcfc": {
+      "templateId": "Accolades:accoladeid_stw_ssd_t03_l05",
+      "attributes": {
+        "earned_count": 1,
+        "last_earned_day": 34
+      },
+      "quantity": 1
+    },
+    "94d56fe7-0594-4108-91f8-d5179c99c9e3": {
+      "templateId": "Quest:quest_br_creative_playtimetracker_2",
+      "attributes": {
+        "creation_time": "2023-04-21T13:57:04.161Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-21T13:57:04.161Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "5366fe62-a1e5-4fb3-9e55-95b91bf8e0d7": {
+      "templateId": "Quest:quest_s24_weekly_w02_q01",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.319Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.319Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "1266a5f6-8215-49d6-b5da-b4263819ef52",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "52045347-1b7a-4008-8f95-bbf2a83da40f": {
+      "templateId": "Quest:quest_s24_boosterpack_q04",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.311Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.311Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "b8be17ff-c9b3-4f5e-aa4e-69f73fe0dacc",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "7f32cebd-8c19-4d9b-9448-d3175ec1eb40": {
+      "templateId": "Accolades:accoladeid_stw_badge_utility_bronze",
+      "attributes": {
+        "earned_count": 11,
+        "last_earned_day": 43
+      },
+      "quantity": 1
+    },
+    "ab9c2720-3bb7-4876-ace0-1b39fd730f4e": {
+      "templateId": "Quest:quest_s24_limited_g5_timer_quest",
+      "attributes": {
+        "creation_time": "2023-04-11T15:39:51.550Z",
+        "quest_state": "Claimed",
+        "last_state_change_time": "2023-04-11T15:39:51.553Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "b19c30fb-64f9-4347-9688-ace25591a6d9",
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "9be16cd2-c9c3-428a-aa07-5e933392bd7b": {
+      "templateId": "Accolades:accoladeid_stw_mission_fts_victory1",
+      "attributes": {
+        "earned_count": 3,
+        "last_earned_day": 43
+      },
+      "quantity": 1
+    },
+    "f7ad1b76-fb31-49c4-826f-580cbfac3edd": {
+      "templateId": "Accolades:accoladeid_stw_mission_elimandcollect_bonus1",
+      "attributes": {
+        "earned_count": 4,
+        "last_earned_day": 41
+      },
+      "quantity": 1
+    },
+    "170eaa9d-0a81-44d2-bc39-7e11ae5aab18": {
+      "templateId": "Quest:quest_suppressed_eliminations_med_w03",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.320Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.320Z",
+        "level": -1,
+        "challenge_bundle_id": "7f6be480-e40d-473b-8341-50594b2b438a",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "cf560b09-5e47-4424-951e-bbbbaa451b19": {
+      "templateId": "Quest:quest_s24_narrative_p01_q01",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:31.171Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:31.171Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "30f278b8-ad7b-416d-9244-2dc2a9e4f208",
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "4e288a11-aa15-4a31-852e-c4b114c23e49": {
+      "templateId": "Quest:quest_s24_sunburst_q02",
+      "attributes": {
+        "creation_time": "2023-04-20T13:20:38.063Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-20T13:20:38.063Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "4d346a62-2d89-47ec-a38f-5cab74a4e6f1",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "d26a4bfa-c91a-4814-935c-16e00d60e12c": {
+      "templateId": "Quest:quest_s24_sunburst_q05",
+      "attributes": {
+        "creation_time": "2023-04-20T13:20:38.063Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-20T13:20:38.063Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "4d346a62-2d89-47ec-a38f-5cab74a4e6f1",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "b19c30fb-64f9-4347-9688-ace25591a6d9": {
+      "templateId": "ChallengeBundle:questbundle_s24_limitedtime_week_05_timer",
+      "attributes": {
+        "num_granted_bundle_quests": 1,
+        "challenge_bundle_schedule_id": "cc5ca382-98aa-4ac6-9ee1-3a86410e781c",
+        "num_quests_completed": 1,
+        "grantedquestinstanceids": [
+          "ab9c2720-3bb7-4876-ace0-1b39fd730f4e"
+        ]
+      },
+      "quantity": 1
+    },
+    "2895d3dc-bf89-4d34-9382-60811a96e4f6": {
+      "templateId": "Quest:quest_suppressed_destroy_structures_med_w02",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.319Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.319Z",
+        "level": -1,
+        "challenge_bundle_id": "1266a5f6-8215-49d6-b5da-b4263819ef52",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "2fa96b8c-b643-487a-b860-15339cf351fa": {
+      "templateId": "Quest:quest_s24_completeseason_42",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.316Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.316Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "3f3b92f7-3558-4cbd-9061-fad0c4e37949",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "98e441e8-02d8-447e-941d-72ecaa899c4f": {
+      "templateId": "Quest:quest_s24_milestone_acquireaccolades_q01",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.313Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.313Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "6b2f829a-0362-421b-aba0-716695411d7b": {
+      "templateId": "ChallengeBundleCompletionToken:challengebundleprogresstracker",
+      "attributes": {
+        "completion_bits": [
+          1
+        ],
+        "bundle_template": "ChallengeBundle:questbundle_s24_limitedtime_week_02_timer",
+        "level": 1,
+        "bundle_id": "f90a8192-e832-46a0-ab86-b9f724f8fcef"
+      },
+      "quantity": 1
+    },
+    "1c49d4c0-51d1-4ff9-864e-b2c01db39f03": {
+      "templateId": "Quest:quest_s24_weekly_w05_q02",
+      "attributes": {
+        "creation_time": "2023-04-11T15:39:51.551Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-11T15:39:51.551Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "6b8dddaa-8151-4140-8581-17d8bd48090c",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "17580939-0ce4-4089-8531-b6bad059647f": {
+      "templateId": "AthenaPickaxe:pickaxe_id_stw002_tier_3",
+      "attributes": {
+        "creation_time": "2023-04-09T17:34:23.542Z",
+        "level": 1,
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "d4f3d8e1-b35d-4b7b-be5b-9ce00f81b6e2": {
+      "templateId": "ChallengeBundle:questbundle_s24_weeklycosmetics_01",
+      "attributes": {
+        "num_granted_bundle_quests": 5,
+        "challenge_bundle_schedule_id": "be0874a9-3311-4c02-9b58-f313d71f0933",
+        "grantedquestinstanceids": [
+          "3d182a0d-0ce6-4599-b183-ba85ea3aec7a",
+          "5fa0c9c8-e1e8-4180-b784-427f6a09e340",
+          "55afc892-6fc4-4119-8016-2ae19d70ff51",
+          "3ae078f0-8c9f-4d7c-8982-1c0fc50c0b2a",
+          "59efd19d-edbd-41d8-886c-19d5a113c5b5"
+        ]
+      },
+      "quantity": 1
+    },
+    "e896f4ca-7322-40df-beb2-f001216336f5": {
+      "templateId": "ChallengeBundleSchedule:season24_schedule_narrative_p03",
+      "attributes": {
+        "unlock_epoch": "2023-03-09T13:00:00.000Z",
+        "level": 1,
+        "granted_bundles": [
+          null,
+          null
+        ]
+      },
+      "quantity": 1
+    },
+    "78216d98-f5a8-4271-b589-4ca6e306880c": {
+      "templateId": "Accolades:accoladeid_stw_ssd_t02_l10",
+      "attributes": {
+        "earned_count": 1,
+        "last_earned_day": 32
+      },
+      "quantity": 1
+    },
+    "71c89339-d4fe-4053-a0c4-dae52b34077b": {
+      "templateId": "ChallengeBundle:questbundle_s24_milestone_tier06",
+      "attributes": {
+        "num_granted_bundle_quests": 2,
+        "challenge_bundle_schedule_id": "7bc64119-edaa-48a0-99a7-3920d9687983",
+        "grantedquestinstanceids": [
+          "ff8b7f68-74fe-4bc7-9437-5de2fdaac7e9",
+          "51d474ec-7ff3-442c-ab09-abc40d0f8aa0"
+        ]
+      },
+      "quantity": 1
+    },
+    "2d0b6aa5-f07d-4adb-a7b3-4b1b33277192": {
+      "templateId": "Accolades:accoladeid_stw_badge_building_platinum",
+      "attributes": {
+        "earned_count": 26,
+        "last_earned_day": 34
+      },
+      "quantity": 1
+    },
+    "00428b97-919c-4e80-a590-efc72423d745": {
+      "templateId": "Quest:quest_s24_weekly_w06_q03",
+      "attributes": {
+        "creation_time": "2023-04-18T18:26:30.239Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-18T18:26:30.239Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "319438d8-dd1b-4ebd-89a7-d4e2f5a69edf",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "a7e78daf-cd74-4872-908d-d54b8e297740": {
+      "templateId": "Accolades:accoladeid_stw_mission_rts_platinum",
+      "attributes": {
+        "earned_count": 5,
+        "last_earned_day": 36
+      },
+      "quantity": 1
+    },
+    "9b9ec404-9e22-4573-ad9b-63bfa9ec0f3d": {
+      "templateId": "Quest:quest_s24_limited_g1_granter_quest",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.324Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.324Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "5793f130-e2ed-4183-8d37-a83b27bbed63",
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "47a23d78-36c4-437e-af5d-ef7dfca2ab2f": {
+      "templateId": "Quest:quest_s24_weekly_w05_suppressed_hard",
+      "attributes": {
+        "creation_time": "2023-04-11T15:39:51.551Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-11T15:39:51.551Z",
+        "level": -1,
+        "challenge_bundle_id": "6b8dddaa-8151-4140-8581-17d8bd48090c",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "46fae366-a70a-4447-8c7a-c4ee68a958a3": {
+      "templateId": "Quest:quest_victorycrown_hidden",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.310Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.310Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "731539f6-df34-4436-9c09-fe48bff1d477",
+        "quest_rarity": "epic",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "e223e0c3-30b3-468c-89e0-b4f8bb1971e7": {
+      "templateId": "Accolades:accoladeid_stw_quest_endurance_daily_w30",
+      "attributes": {
+        "earned_count": 3,
+        "last_earned_day": 41
+      },
+      "quantity": 1
+    },
+    "8b8f382e-c041-45f5-a293-608847d6f28e": {
+      "templateId": "Quest:punchcard_s24_tigerroot_q02",
+      "attributes": {
+        "creation_time": "2023-04-15T05:30:24.116Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-15T05:30:24.116Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "01061734-c79e-451f-9ed1-1329a85a053e",
+        "quest_rarity": "rare",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "a194e683-27d7-4ecc-afa2-542854b41c5f": {
+      "templateId": "Accolades:accoladeid_stw_starlight_d01_progress3",
+      "attributes": {
+        "earned_count": 4,
+        "last_earned_day": 31
+      },
+      "quantity": 1
+    },
+    "74fd47b5-5ebc-455c-936b-40110a8f7324": {
+      "templateId": "Quest:quest_s24_completeseason_46",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.317Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.317Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "3f3b92f7-3558-4cbd-9061-fad0c4e37949",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "e47e528c-f2be-45f5-8863-c2b0efa0bbdd": {
+      "templateId": "Quest:quest_s24_tigerroot_q02",
+      "attributes": {
+        "creation_time": "2023-04-15T05:30:24.115Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-15T05:30:24.116Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "25eb2920-08d5-4db6-9067-63e7357e0296",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "1266a5f6-8215-49d6-b5da-b4263819ef52": {
+      "templateId": "ChallengeBundle:missionbundle_s24_week_02",
+      "attributes": {
+        "num_granted_bundle_quests": 8,
+        "challenge_bundle_schedule_id": "cfc3c0ab-fab7-4040-b770-cb7c17ae7666",
+        "grantedquestinstanceids": [
+          "5366fe62-a1e5-4fb3-9e55-95b91bf8e0d7",
+          "7b83b62c-1605-4886-8680-d116f67ded8c",
+          "36dd585a-e166-46ad-8bde-12f2bf6e559f",
+          "f1fde32c-61e3-4116-ad07-fa7a0997125c",
+          "c0023fd9-2086-4219-afd4-d74e62e3532e",
+          "e0f62c63-d975-4325-900b-92583b11e2d5",
+          "2895d3dc-bf89-4d34-9382-60811a96e4f6",
+          "5db243bd-0d1c-4cf5-bcec-57a5e357c7b7"
+        ]
+      },
+      "quantity": 1
+    },
+    "e27c3c7e-c420-4bd0-80fe-6ac2ddaa26b8": {
+      "templateId": "Quest:quest_s24_weeklycosmetics_nobp_b03_q01",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.322Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.322Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "a7936a65-b939-42a5-b8ce-381a1b93b7bc",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "d687f6d7-b9d7-44c9-b810-35829630906b": {
+      "templateId": "Quest:quest_s24_completeseason_13",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.314Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.314Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "3f3b92f7-3558-4cbd-9061-fad0c4e37949",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "b0713aa3-d707-4c50-9802-ad4f13c53388": {
+      "templateId": "ChallengeBundleSchedule:season24_schedule_tigerroot",
+      "attributes": {
+        "unlock_epoch": "2023-04-14T19:00:00.000Z",
+        "level": 1,
+        "granted_bundles": [
+          "25eb2920-08d5-4db6-9067-63e7357e0296",
+          "01061734-c79e-451f-9ed1-1329a85a053e"
+        ]
+      },
+      "quantity": 1
+    },
+    "6b9c4e03-9b58-4cf9-b9a9-226527663a95": {
+      "templateId": "Quest:quest_s24_weekly_w05_q04",
+      "attributes": {
+        "creation_time": "2023-04-11T15:39:51.551Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-11T15:39:51.551Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "6b8dddaa-8151-4140-8581-17d8bd48090c",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "b5e93f31-c1dc-4192-8d4c-a0bb468025ea": {
+      "templateId": "Quest:quest_s24_boosterpack_q01",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.311Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.311Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "b8be17ff-c9b3-4f5e-aa4e-69f73fe0dacc",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "53c2fa2a-5216-412c-9d77-5482618e54ad": {
+      "templateId": "Quest:quest_s24_completeseason_41",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.316Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.316Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "3f3b92f7-3558-4cbd-9061-fad0c4e37949",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "6d89d03a-9f5d-4de5-b130-4f6fab3b03e1": {
+      "templateId": "AthenaPickaxe:pickaxe_looper",
+      "attributes": {
+        "creation_time": "2023-04-08T16:09:06.513Z",
+        "level": 1,
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "12bd784b-5662-47dc-bd50-71d5063d92ea": {
+      "templateId": "AthenaSeason:athenaseason24",
+      "attributes": {
+        "level": 1
+      },
+      "quantity": 1
+    },
+    "bae7ecf5-4625-44c3-89be-467c531dab39": {
+      "templateId": "Quest:quest_s24_weekly_w00_q03",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.318Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.318Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "d901c597-85ee-4f6f-a26f-f1d494ecb20e",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "d863fb0f-edf3-421f-9390-cce9f80269a6": {
+      "templateId": "Quest:quest_s24_weekly_w04_q05",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.321Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.321Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "1955814b-71c6-40cc-af1d-614dca343da6",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "7567a0c7-5722-4ac6-afb7-9fbf5251dab1": {
+      "templateId": "Accolades:accoladeid_stw_quest_endurance_daily_w20",
+      "attributes": {
+        "earned_count": 3,
+        "last_earned_day": 41
+      },
+      "quantity": 1
+    },
+    "31df0a5c-abd6-4fd3-b8f6-80ff948e7b73": {
+      "templateId": "Quest:quest_s24_milestone_completedailyquests_q01",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.313Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.313Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "8ef61e84-5475-4b63-9160-e25c36b73c3e": {
+      "templateId": "Accolades:accoladeid_stw_ssd_t02_l09",
+      "attributes": {
+        "earned_count": 1,
+        "last_earned_day": 32
+      },
+      "quantity": 1
+    },
+    "b942b6d8-5628-4a13-9c29-2dad6b3df2e8": {
+      "templateId": "Accolades:accoladeid_stw_badge_combat_bronze",
+      "attributes": {
+        "earned_count": 3,
+        "last_earned_day": 37
+      },
+      "quantity": 1
+    },
+    "b72d8198-3cc8-4392-b6e4-3b5ee21da4d8": {
+      "templateId": "Accolades:accoladeid_stw_badge_building_gold",
+      "attributes": {
+        "earned_count": 1,
+        "last_earned_day": 31
+      },
+      "quantity": 1
+    },
+    "dd1c3e81-55b3-453f-8817-3ff7890f4fbf": {
+      "templateId": "AthenaPickaxe:pickaxe_id_stw001_tier_1",
+      "attributes": {
+        "creation_time": "2023-04-08T17:20:10.335Z",
+        "level": 1,
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "9c535b1b-ade2-42f6-8dde-07bcbc81653b": {
+      "templateId": "Quest:quest_s24_limited_g6_granter_quest",
+      "attributes": {
+        "creation_time": "2023-04-18T18:26:30.239Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-18T18:26:30.239Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "03bcfcbf-4403-49fb-a983-e5085909ae3a",
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "d1b67495-e98f-4de2-b6d9-906c8e7e11bb": {
+      "templateId": "ChallengeBundleSchedule:season24_schedule_lf",
+      "attributes": {
+        "unlock_epoch": "2023-03-30T14:00:00.000Z",
+        "level": 1,
+        "granted_bundles": [
+          "173831bd-2a42-49ce-bb5c-a14859496256",
+          "ff993f77-d59e-4147-83ea-ecf859ccdf08"
+        ]
+      },
+      "quantity": 1
+    },
+    "503e240a-293a-4f13-9bb8-b645f46c703e": {
+      "templateId": "Quest:quest_s24_completeseason_51",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.317Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.317Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "3f3b92f7-3558-4cbd-9061-fad0c4e37949",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "69864ed7-519a-41e0-847a-a833f82cea66": {
+      "templateId": "Quest:quest_s24_completeseason_14",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.315Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.315Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "3f3b92f7-3558-4cbd-9061-fad0c4e37949",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "22b4e775-8f9d-4533-87a0-10b9b3e6858d": {
+      "templateId": "Quest:quest_s24_limited_g2_timer_quest",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.324Z",
+        "quest_state": "Claimed",
+        "last_state_change_time": "2023-04-08T13:20:31.176Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "f90a8192-e832-46a0-ab86-b9f724f8fcef",
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "74f8dbe4-6f8f-4e0f-87b5-1104aeb0a064": {
+      "templateId": "Quest:quest_s24_dailyquestbackup_01",
+      "attributes": {
+        "bucket": "BRBackup",
+        "creation_time": "2023-04-21T13:57:04.159Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-21T13:57:04.159Z",
+        "level": -1,
+        "playlists": [
+          "Playlist_DefaultSolo",
+          "Playlist_DefaultDuo",
+          "Playlist_DefaultSquad",
+          "Playlist_Trios",
+          "Playlist_Bots_DefaultSolo",
+          "Playlist_Bots_DefaultDuo",
+          "Playlist_Bots_DefaultSquad",
+          "Playlist_Bots_Trios",
+          "Playlist_Respawn_24",
+          "Playlist_Respawn_24_Alt",
+          "Playlist_NoBuildBR_Solo",
+          "Playlist_NoBuildBR_Duo",
+          "Playlist_NoBuildBR_Trio",
+          "Playlist_NoBuildBR_Squad",
+          "Playlist_Bots_NoBuildBR_Solo",
+          "Playlist_Bots_NoBuildBR_Duo",
+          "Playlist_Bots_NoBuildBR_Trio",
+          "Playlist_Bots_NoBuildBR_Squad"
+        ],
+        "expiry_time": "2023-04-22T13:00:00.000Z",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "c842e74a-af64-4431-96e4-c030053b750b": {
+      "templateId": "ChallengeBundle:questbundle_s24_milestone_tier09",
+      "attributes": {
+        "num_granted_bundle_quests": 2,
+        "challenge_bundle_schedule_id": "7bc64119-edaa-48a0-99a7-3920d9687983",
+        "grantedquestinstanceids": [
+          "15905166-543e-4435-bc0e-ada6132fb161",
+          "7f700b5c-5ad7-418e-99dd-cecc42f0c44c"
+        ]
+      },
+      "quantity": 1
+    },
+    "e4219135-b76e-4319-84ef-bc2babc88a67": {
+      "templateId": "Accolades:accoladeid_stw_mission_elimandcollect_bronze",
+      "attributes": {
+        "earned_count": 1,
+        "last_earned_day": 31
+      },
+      "quantity": 1
+    },
+    "7f700b5c-5ad7-418e-99dd-cecc42f0c44c": {
+      "templateId": "Quest:quest_s24_milestone_completequests_q18",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.313Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.313Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "c842e74a-af64-4431-96e4-c030053b750b",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "e0f62c63-d975-4325-900b-92583b11e2d5": {
+      "templateId": "Quest:quest_suppressed_gain_shield_easy_w02",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.319Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.319Z",
+        "level": -1,
+        "challenge_bundle_id": "1266a5f6-8215-49d6-b5da-b4263819ef52",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "c0aa94f9-9f2c-4226-b680-3cdf4683160d": {
+      "templateId": "Quest:quest_s24_narrative_p02_granter",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:31.171Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:31.171Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "0985da50-de93-4d73-afd5-218ab4fc3636",
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "e1316e24-5961-4e23-8fd1-35a372bc99f4": {
+      "templateId": "Accolades:accoladeid_stw_starlight_d01_victory",
+      "attributes": {
+        "earned_count": 4,
+        "last_earned_day": 31
+      },
+      "quantity": 1
+    },
+    "a9e91ef6-ec7d-4c05-a38e-085a6aaf6f98": {
+      "templateId": "Quest:quest_s24_completeseason_40",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.316Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.316Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "3f3b92f7-3558-4cbd-9061-fad0c4e37949",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "e49d39b8-31f9-4d53-bd09-cc3a02a4b424": {
+      "templateId": "Quest:quest_s24_weekly_w03_q05",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.320Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.320Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "7f6be480-e40d-473b-8341-50594b2b438a",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "f6c4eff7-86f6-4c8e-9c15-55555a4df091": {
+      "templateId": "Quest:quest_s24_tigerroot_q06",
+      "attributes": {
+        "creation_time": "2023-04-15T05:30:24.116Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-15T05:30:24.116Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "25eb2920-08d5-4db6-9067-63e7357e0296",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "9d2ca7d6-f0e7-434b-baf7-95800d068c4b": {
+      "templateId": "Quest:quest_s24_completeseason_17",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.315Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.315Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "3f3b92f7-3558-4cbd-9061-fad0c4e37949",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "41d5dd28-2ebf-4ec5-aa9b-15664b57ca2a": {
+      "templateId": "Accolades:accoladeid_stw_ssd_t03_l03",
+      "attributes": {
+        "earned_count": 1,
+        "last_earned_day": 33
+      },
+      "quantity": 1
+    },
+    "bd79601d-aac4-4134-b914-4e459e4f5447": {
+      "templateId": "Accolades:accoladeid_stw_badge_combat",
+      "attributes": {
+        "earned_count": 10,
+        "last_earned_day": 33
+      },
+      "quantity": 1
+    },
+    "73b53f5a-7052-42ef-bdda-846a50b77eac": {
+      "templateId": "ChallengeBundle:season24_feat_bundle",
+      "attributes": {
+        "num_granted_bundle_quests": 1,
+        "challenge_bundle_schedule_id": "7bba59e9-1e37-498c-9e65-8f88f5abffad",
+        "grantedquestinstanceids": [
+          "624de1d1-8412-4b97-b30c-e81c98dd9a23"
+        ]
+      },
+      "quantity": 1
+    },
+    "1f60de5d-9f0b-4c44-b6d7-1bb9333e1f08": {
+      "templateId": "Quest:quest_s24_limited_g1_granter_creative",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.324Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.324Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "a619eb91-60e4-4b50-b698-686514c9cca8",
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "8752130e-10b9-47a1-9100-6c34a3a3846f": {
+      "templateId": "Accolades:accoladeid_stw_mission_ltr_stage3",
+      "attributes": {
+        "earned_count": 2,
+        "last_earned_day": 33
+      },
+      "quantity": 1
+    },
+    "4f6d8eb3-690f-4808-a3e6-14119d05346c": {
+      "templateId": "Quest:quest_suppressed_claim_poi_easy_w01",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.317Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.317Z",
+        "level": -1,
+        "challenge_bundle_id": "ec5b5cc6-1589-4628-94cd-9e581bd881e5",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "8b50b46d-3a5a-4f1e-aa12-0ed0c86a83d4": {
+      "templateId": "AthenaMusicPack:musicpack_000_stw_default",
+      "attributes": {
+        "creation_time": "2023-04-08T17:10:32.193Z",
+        "level": 1,
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "cc5ca382-98aa-4ac6-9ee1-3a86410e781c": {
+      "templateId": "ChallengeBundleSchedule:season24_schedule_limitedtime",
+      "attributes": {
+        "unlock_epoch": "2023-03-09T13:00:00.000Z",
+        "level": 1,
+        "granted_bundles": [
+          "f90a8192-e832-46a0-ab86-b9f724f8fcef",
+          "1a4d33e6-f721-46b5-bba0-7b20fa433a52",
+          "5078fe2e-8ff7-40f9-b148-f3da9300af97",
+          "1b287465-db0d-4a02-9196-975c34543f9d",
+          "5793f130-e2ed-4183-8d37-a83b27bbed63",
+          "a619eb91-60e4-4b50-b698-686514c9cca8",
+          "b19c30fb-64f9-4347-9688-ace25591a6d9",
+          "5302e16e-7399-4567-8527-ce4d66a519b5",
+          "521b53be-29b0-4cfb-9d96-702ec7cf3e87",
+          "663de9a1-904a-4285-8aa1-a428054e0568",
+          "03bcfcbf-4403-49fb-a983-e5085909ae3a",
+          "7401cbd5-6f45-489a-ad2c-49016954026c",
+          null,
+          null,
+          null
+        ]
+      },
+      "quantity": 1
+    },
+    "0b4b1c73-e284-434f-a60b-4c03b67d7052": {
+      "templateId": "Accolades:accoladeid_stw_quest_endurance_daily_w10",
+      "attributes": {
+        "earned_count": 3,
+        "last_earned_day": 41
+      },
+      "quantity": 1
+    },
+    "81826346-91c4-4d82-80f7-82dfe2c9d234": {
+      "templateId": "Quest:quest_s24_completeseason_18",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.315Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.315Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "3f3b92f7-3558-4cbd-9061-fad0c4e37949",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "ab617808-b580-4384-9207-5da84bc3d15a": {
+      "templateId": "Quest:quest_s24_weekly_w05_hmq",
+      "attributes": {
+        "creation_time": "2023-04-11T15:39:51.551Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-11T15:39:51.551Z",
+        "level": -1,
+        "challenge_bundle_id": "6b8dddaa-8151-4140-8581-17d8bd48090c",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "a7c8745f-1b96-4416-8854-ef918b68e546": {
+      "templateId": "Quest:quest_s24_milestone_searchchestsorammo_q01",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.313Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.313Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "00600300-0fc2-4bc2-9490-e5e7989cd2e3": {
+      "templateId": "Quest:quest_s24_boosterpack_q07",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.311Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.311Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "b8be17ff-c9b3-4f5e-aa4e-69f73fe0dacc",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "5e57eade-5238-4ed9-b5cc-23e3404bccc3": {
+      "templateId": "ChallengeBundle:questbundle_s24_milestone_tier03",
+      "attributes": {
+        "num_granted_bundle_quests": 2,
+        "challenge_bundle_schedule_id": "7bc64119-edaa-48a0-99a7-3920d9687983",
+        "grantedquestinstanceids": [
+          "7e29fb31-e348-48a0-87e4-28cde21338f8",
+          "6cd05144-0164-45bb-99ae-457d81c5efa0"
+        ]
+      },
+      "quantity": 1
+    },
+    "54d212c3-a13d-4086-bada-55979d90cfc1": {
+      "templateId": "ChallengeBundle:questbundle_s24_milestone_tier05",
+      "attributes": {
+        "num_granted_bundle_quests": 2,
+        "challenge_bundle_schedule_id": "7bc64119-edaa-48a0-99a7-3920d9687983",
+        "grantedquestinstanceids": [
+          "d15d6b75-772e-43b9-bd21-06b6d59da3b4",
+          "2e53de00-f942-4f4d-82d8-68a59491dba6"
+        ]
+      },
+      "quantity": 1
+    },
+    "663de9a1-904a-4285-8aa1-a428054e0568": {
+      "templateId": "ChallengeBundle:questbundle_s24_limitedtime_week_06_timer",
+      "attributes": {
+        "num_granted_bundle_quests": 1,
+        "challenge_bundle_schedule_id": "cc5ca382-98aa-4ac6-9ee1-3a86410e781c",
+        "num_quests_completed": 1,
+        "grantedquestinstanceids": [
+          "35a12ce5-7bc9-42f7-a016-889d803620de"
+        ]
+      },
+      "quantity": 1
+    },
+    "1b931c1a-7d10-4dc3-b90f-0b65f80b21ed": {
+      "templateId": "Accolades:accoladeid_stw_endurance_w30",
+      "attributes": {
+        "earned_count": 7,
+        "last_earned_day": 42
+      },
+      "quantity": 1
+    },
+    "0bc1b9b0-0688-4126-bdf0-e06e3659d110": {
+      "templateId": "Accolades:accoladeid_stw_mission_rtl_stage1",
+      "attributes": {
+        "earned_count": 2,
+        "last_earned_day": 31
+      },
+      "quantity": 1
+    },
+    "39c435dd-f975-4645-a2c2-1449a13aeb5f": {
+      "templateId": "ChallengeBundleSchedule:season24_boosterpack_schedule",
+      "attributes": {
+        "unlock_epoch": "2023-03-09T13:00:00.000Z",
+        "level": 1,
+        "granted_bundles": [
+          "b8be17ff-c9b3-4f5e-aa4e-69f73fe0dacc"
+        ]
+      },
+      "quantity": 1
+    },
+    "267c88d1-fa46-48a3-b014-6f8d52863915": {
+      "templateId": "Quest:quest_suppressed_play_matches_easy_w04",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.321Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.321Z",
+        "level": -1,
+        "challenge_bundle_id": "1955814b-71c6-40cc-af1d-614dca343da6",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "d38996b3-a36e-4cf2-be62-08c29c861652": {
+      "templateId": "Quest:quest_s24_completeseason_11",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.314Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.314Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "3f3b92f7-3558-4cbd-9061-fad0c4e37949",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "5266f0e4-3f9a-4de4-87aa-2ade0b13011e": {
+      "templateId": "Quest:quest_br_creative_playtimetracker_0",
+      "attributes": {
+        "creation_time": "2023-04-21T13:57:04.160Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-21T13:57:04.160Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "8aa8674a-af87-43a4-8274-79723aa24b2a": {
+      "templateId": "Quest:quest_br_creative_playtimetracker_3",
+      "attributes": {
+        "creation_time": "2023-04-21T13:57:04.161Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-21T13:57:04.161Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "6501cbd7-fe21-4ac4-b7b2-51fce063df8d": {
+      "templateId": "ChallengeBundle:questbundle_s24_clearradius",
+      "attributes": {
+        "challenge_bundle_schedule_id": "eb6628c5-1072-491e-bc01-5b1ac902c3c3"
+      },
+      "quantity": 1
+    },
+    "b4e29dc4-44a2-4baf-be16-5c5b17022334": {
+      "templateId": "Quest:quest_suppressed_open_chests_easy_w00",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.318Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.318Z",
+        "level": -1,
+        "challenge_bundle_id": "d901c597-85ee-4f6f-a26f-f1d494ecb20e",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "16493d5a-b5a7-4f5c-b8f8-7d0eebd68a3b": {
+      "templateId": "Quest:quest_s24_sunburst_q06",
+      "attributes": {
+        "creation_time": "2023-04-20T13:20:38.064Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-20T13:20:38.064Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "4d346a62-2d89-47ec-a38f-5cab74a4e6f1",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "6e3d3630-8ced-44d6-bf64-a5ab160dc909": {
+      "templateId": "Accolades:accoladeid_stw_quest_general_daily",
+      "attributes": {
+        "earned_count": 12,
+        "last_earned_day": 43
+      },
+      "quantity": 1
+    },
+    "9ac9fdde-f8e0-49e0-a9d0-4464d434bb22": {
+      "templateId": "Quest:quest_s24_weekly_w04_q01",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.320Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.320Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "1955814b-71c6-40cc-af1d-614dca343da6",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "0bbac1e9-2ae5-4736-8c02-3727bd284467": {
+      "templateId": "ChallengeBundle:questbundle_s24_milestone_tier01",
+      "attributes": {
+        "num_granted_bundle_quests": 2,
+        "challenge_bundle_schedule_id": "7bc64119-edaa-48a0-99a7-3920d9687983",
+        "grantedquestinstanceids": [
+          "d759fc8b-e3bc-476e-9383-6513433bb7d1",
+          "852f2bd8-a93c-4113-993e-322b4b80e666"
+        ]
+      },
+      "quantity": 1
+    },
+    "ff8b7f68-74fe-4bc7-9437-5de2fdaac7e9": {
+      "templateId": "Quest:quest_s24_milestone_completequests_q11",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.312Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.312Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "71c89339-d4fe-4053-a0c4-dae52b34077b",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "65618884-a643-4134-9ab8-2215a15e62e5": {
+      "templateId": "ChallengeBundle:questbundle_s24_milestone_tier07",
+      "attributes": {
+        "num_granted_bundle_quests": 2,
+        "challenge_bundle_schedule_id": "7bc64119-edaa-48a0-99a7-3920d9687983",
+        "grantedquestinstanceids": [
+          "ff01d340-1f7c-4ef8-9fb2-811f83f9c31a",
+          "63c77ef0-4708-4684-afb7-77ede9c8089b"
+        ]
+      },
+      "quantity": 1
+    },
+    "9875e94d-9001-4013-a6a9-1b0e8751e48f": {
+      "templateId": "Accolades:accoladeid_stw_quest_endurance_daily_w05",
+      "attributes": {
+        "earned_count": 3,
+        "last_earned_day": 41
+      },
+      "quantity": 1
+    },
+    "de40b45a-a7d2-4a1e-b5ea-2d07ff585b4c": {
+      "templateId": "Quest:quest_s24_weekly_w03_q03",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.320Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.320Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "7f6be480-e40d-473b-8341-50594b2b438a",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "d901c597-85ee-4f6f-a26f-f1d494ecb20e": {
+      "templateId": "ChallengeBundle:missionbundle_s24_week_00",
+      "attributes": {
+        "num_granted_bundle_quests": 8,
+        "challenge_bundle_schedule_id": "cfc3c0ab-fab7-4040-b770-cb7c17ae7666",
+        "grantedquestinstanceids": [
+          "9cd05958-86de-44da-a426-b95133a83f2e",
+          "13a608ad-fe3b-4a78-8638-40615be1a3a1",
+          "bae7ecf5-4625-44c3-89be-467c531dab39",
+          "874b4cc4-f489-47c5-acc0-554ffddbc3ac",
+          "be0ca42c-a046-41bf-a974-3dfbda59f8b1",
+          "65f99be6-ab13-4dc6-ad9f-0bf8d370ae1f",
+          "b4e29dc4-44a2-4baf-be16-5c5b17022334",
+          "f55ee65c-1588-42f1-9995-36e613e92ed6"
+        ]
+      },
+      "quantity": 1
+    },
+    "f65d3dec-28cb-47b7-80aa-81ca66ed5429": {
+      "templateId": "Accolades:accoladeid_stw_ssd_t02_l05",
+      "attributes": {
+        "earned_count": 1,
+        "last_earned_day": 32
+      },
+      "quantity": 1
+    },
+    "fad47965-7afb-45bc-a603-b080e5709194": {
+      "templateId": "Quest:quest_s24_milestone_outlastplayers_q01",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.313Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.313Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "7b83b62c-1605-4886-8680-d116f67ded8c": {
+      "templateId": "Quest:quest_s24_weekly_w02_q02",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.319Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.319Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "1266a5f6-8215-49d6-b5da-b4263819ef52",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "9fadece9-8fa8-4b16-b02d-cf8cb452d14d": {
+      "templateId": "Quest:quest_br_creative_playtimetracker_4",
+      "attributes": {
+        "creation_time": "2023-04-21T13:57:04.162Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-21T13:57:04.162Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "7bc64119-edaa-48a0-99a7-3920d9687983": {
+      "templateId": "ChallengeBundleSchedule:season24_schedule_milestone",
+      "attributes": {
+        "unlock_epoch": "2023-03-09T13:00:00.000Z",
+        "level": 1,
+        "granted_bundles": [
+          "0bbac1e9-2ae5-4736-8c02-3727bd284467",
+          "fb59e8ce-ce80-4857-a1ae-19d1fc4b23c4",
+          "5e57eade-5238-4ed9-b5cc-23e3404bccc3",
+          "c6c5695c-2763-4e16-8138-8291124f8e77",
+          "54d212c3-a13d-4086-bada-55979d90cfc1",
+          "71c89339-d4fe-4053-a0c4-dae52b34077b",
+          "65618884-a643-4134-9ab8-2215a15e62e5",
+          "eff64da4-a4b0-49ae-a22b-3ce173e10258",
+          "c842e74a-af64-4431-96e4-c030053b750b",
+          "e5f554d9-46ba-4c39-ada2-80cd73410ec9"
+        ]
+      },
+      "quantity": 1
+    },
+    "2c79b821-2905-414b-a9d0-319327d2206f": {
+      "templateId": "Quest:quest_s24_weekly_w05_q01",
+      "attributes": {
+        "creation_time": "2023-04-11T15:39:51.551Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-11T15:39:51.551Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "6b8dddaa-8151-4140-8581-17d8bd48090c",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "bd2c6ff7-6fb7-45c8-ab52-ffd854208c02": {
+      "templateId": "Quest:quest_s24_dailyquest_drivedestroyprops",
+      "attributes": {
+        "bucket": "BR",
+        "creation_time": "2023-04-21T13:57:04.159Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-21T13:57:04.159Z",
+        "level": -1,
+        "playlists": [
+          "Playlist_DefaultSolo",
+          "Playlist_DefaultDuo",
+          "Playlist_DefaultSquad",
+          "Playlist_Trios",
+          "Playlist_Bots_DefaultSolo",
+          "Playlist_Bots_DefaultDuo",
+          "Playlist_Bots_DefaultSquad",
+          "Playlist_Bots_Trios",
+          "Playlist_Respawn_24",
+          "Playlist_Respawn_24_Alt",
+          "Playlist_NoBuildBR_Solo",
+          "Playlist_NoBuildBR_Duo",
+          "Playlist_NoBuildBR_Trio",
+          "Playlist_NoBuildBR_Squad",
+          "Playlist_Bots_NoBuildBR_Solo",
+          "Playlist_Bots_NoBuildBR_Duo",
+          "Playlist_Bots_NoBuildBR_Trio",
+          "Playlist_Bots_NoBuildBR_Squad"
+        ],
+        "sent_new_notification": true,
+        "expiry_time": "2023-04-22T13:00:00.000Z",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "5c78b191-ee4d-4574-9de3-ddcaf6ec6a6c": {
+      "templateId": "Quest:punchcard_s24_sunburst_q01",
+      "attributes": {
+        "creation_time": "2023-04-20T13:20:38.064Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-20T13:20:38.064Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "3141b164-ef8f-4f29-b031-ce10fa0ab6fb",
+        "quest_rarity": "rare",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "0436d671-fe76-4f8f-8d6e-cabd90affc50": {
+      "templateId": "Quest:quest_s24_limited_g5_granter_creative",
+      "attributes": {
+        "creation_time": "2023-04-11T15:39:51.550Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-11T15:39:51.550Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "521b53be-29b0-4cfb-9d96-702ec7cf3e87",
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "706684bf-1ff7-4228-b0bb-464a49939162": {
+      "templateId": "Accolades:accoladeid_stw_ssd_t01_l08",
+      "attributes": {
+        "earned_count": 1,
+        "last_earned_day": 31
+      },
+      "quantity": 1
+    },
+    "7ac5b3d8-c072-48f5-a06b-ccb3e99a7a99": {
+      "templateId": "Accolades:accoladeid_stw_ssd_t02_bonus",
+      "attributes": {
+        "earned_count": 8,
+        "last_earned_day": 32
+      },
+      "quantity": 1
+    },
+    "4882c823-5b1b-48e6-ba2b-0d235ab33451": {
+      "templateId": "Quest:quest_s24_completeseason_04",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.314Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.314Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "3f3b92f7-3558-4cbd-9061-fad0c4e37949",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "ddeab5af-0971-4c24-a20c-2d92cd2d04a2": {
+      "templateId": "Quest:quest_s24_dailyquest_search_03",
+      "attributes": {
+        "bucket": "BR",
+        "creation_time": "2023-04-21T13:57:04.159Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-21T13:57:04.159Z",
+        "level": -1,
+        "playlists": [
+          "Playlist_DefaultSolo",
+          "Playlist_DefaultDuo",
+          "Playlist_DefaultSquad",
+          "Playlist_Trios",
+          "Playlist_Bots_DefaultSolo",
+          "Playlist_Bots_DefaultDuo",
+          "Playlist_Bots_DefaultSquad",
+          "Playlist_Bots_Trios",
+          "Playlist_Respawn_24",
+          "Playlist_Respawn_24_Alt",
+          "Playlist_NoBuildBR_Solo",
+          "Playlist_NoBuildBR_Duo",
+          "Playlist_NoBuildBR_Trio",
+          "Playlist_NoBuildBR_Squad",
+          "Playlist_Bots_NoBuildBR_Solo",
+          "Playlist_Bots_NoBuildBR_Duo",
+          "Playlist_Bots_NoBuildBR_Trio",
+          "Playlist_Bots_NoBuildBR_Squad"
+        ],
+        "sent_new_notification": true,
+        "expiry_time": "2023-04-22T13:00:00.000Z",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "bc32a164-635c-4ed7-abde-6022d1271e31": {
+      "templateId": "Quest:quest_s24_weekly_w05_q03",
+      "attributes": {
+        "creation_time": "2023-04-11T15:39:51.551Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-11T15:39:51.551Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "6b8dddaa-8151-4140-8581-17d8bd48090c",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "f1fde32c-61e3-4116-ad07-fa7a0997125c": {
+      "templateId": "Quest:quest_s24_weekly_w02_q04",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.319Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.319Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "1266a5f6-8215-49d6-b5da-b4263819ef52",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "a857cf05-0f85-44b0-b639-5febb9eeed4f": {
+      "templateId": "AthenaPickaxe:defaultpickaxe",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.308Z",
+        "level": 1,
+        "item_seen": 1,
+        "rnd_sel_cnt": 2
+      },
+      "quantity": 1
+    },
+    "cff8705e-0d94-466e-8c1a-3cc80bdb56ef": {
+      "templateId": "Quest:quest_s24_boosterpack_q08",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.311Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.311Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "b8be17ff-c9b3-4f5e-aa4e-69f73fe0dacc",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "a409bc85-f2bb-4d23-86ab-5f9371b32f33": {
+      "templateId": "Quest:quest_s24_weeklycosmetics_nobp_b04_q04",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.323Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.323Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "eab4eb66-9e91-4aa2-9f9a-4b27abaed4cf",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "173831bd-2a42-49ce-bb5c-a14859496256": {
+      "templateId": "ChallengeBundle:questbundle_s24_lf",
+      "attributes": {
+        "num_granted_bundle_quests": 4,
+        "challenge_bundle_schedule_id": "d1b67495-e98f-4de2-b6d9-906c8e7e11bb",
+        "grantedquestinstanceids": [
+          "60524158-9f98-4df6-8310-a9c6aa2671a0",
+          "5ba67f69-afee-4aa0-8cb5-461ef1be76be",
+          "15087c68-fee8-4dc2-a239-ed30fb2b3cfa",
+          "0192bf9e-1cb2-4266-add6-c859a3c28fef"
+        ]
+      },
+      "quantity": 1
+    },
+    "29a2b4a5-a024-4df1-9921-59fea8e90038": {
+      "templateId": "Accolades:accoladeid_stw_wargames_victory",
+      "attributes": {
+        "earned_count": 1,
+        "last_earned_day": 42
+      },
+      "quantity": 1
+    },
+    "add1afaf-cf46-473a-9242-888342462740": {
+      "templateId": "AthenaPickaxe:pickaxe_id_stw003_tier_4",
+      "attributes": {
+        "creation_time": "2023-04-12T17:51:01.672Z",
+        "level": 1,
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "be517833-4de8-4573-a0bb-8219bb597797": {
+      "templateId": "Quest:quest_s24_dailypunchcard_complete1",
+      "attributes": {
+        "bucket": "DailyPunchcard",
+        "creation_time": "2023-04-21T13:57:04.159Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-21T13:57:04.159Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "expiry_time": "2023-04-22T13:00:00.000Z",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "ccc09698-e762-4140-ae3e-e3d689a6c997": {
+      "templateId": "ConditionalAction:generic_instance",
+      "attributes": {
+        "alt_profile_types": [
+          "athena"
+        ],
+        "_private": true,
+        "devName": "Event_S24_LanternFest",
+        "conditions": {
+          "event": {
+            "instanceId": "79o5dduq87rutm3alqc3a5jqct[0]0",
+            "eventName": "CalendarEvent_S24_LanternFest",
+            "eventStart": "2023-03-30T14:00:00.000Z",
+            "eventEnd": "2023-04-22T02:00:00.000Z",
+            "startActions": {
+              "hasRun": true,
+              "conversions": [],
+              "itemsToGrant": [
+                {
+                  "templateId": "ChallengeBundleSchedule:season24_schedule_lf",
+                  "quantity": 1
+                }
+              ],
+              "questsToUnpause": []
+            },
+            "endActions": {
+              "hasRun": false,
+              "conversions": [],
+              "itemsToRemove": [
+                {
+                  "templateId": "ChallengeBundleSchedule:season24_schedule_lf",
+                  "quantity": 1
+                }
+              ],
+              "questsToPause": []
+            },
+            "metaData": {}
+          }
+        }
+      },
+      "quantity": 1
+    },
+    "7401cbd5-6f45-489a-ad2c-49016954026c": {
+      "templateId": "ChallengeBundle:questbundle_s24_limitedtime_week_06_creative",
+      "attributes": {
+        "num_granted_bundle_quests": 1,
+        "challenge_bundle_schedule_id": "cc5ca382-98aa-4ac6-9ee1-3a86410e781c",
+        "grantedquestinstanceids": [
+          "9e25fdef-e31b-4ea5-8679-d528c2864339"
+        ]
+      },
+      "quantity": 1
+    },
+    "5770148c-7071-477d-aa1e-c1416315f84e": {
+      "templateId": "VictoryCrown:defaultvictorycrown",
+      "attributes": {
+        "level": 1
+      },
+      "quantity": 1
+    },
+    "f1ff7da8-df3a-4a35-894e-3647bbbff9e0": {
+      "templateId": "Accolades:accoladeid_stw_mission_bonus_speedrun2",
+      "attributes": {
+        "earned_count": 4,
+        "last_earned_day": 43
+      },
+      "quantity": 1
+    },
+    "7646cadc-6b04-488c-987e-bf459277a323": {
+      "templateId": "Quest:quest_s24_completeseason_32",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.316Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.316Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "3f3b92f7-3558-4cbd-9061-fad0c4e37949",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "f44e04ed-4343-469a-9003-5dd25588e2f8": {
+      "templateId": "Quest:punchcard_s24_sunburst_q02",
+      "attributes": {
+        "creation_time": "2023-04-20T13:20:38.064Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-20T13:20:38.064Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "3141b164-ef8f-4f29-b031-ce10fa0ab6fb",
+        "quest_rarity": "rare",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "8362fd5a-83e7-4eee-9b3a-c55f2f62c126": {
+      "templateId": "Quest:quest_s24_completeseason_36",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.316Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.316Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "3f3b92f7-3558-4cbd-9061-fad0c4e37949",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "328947e3-ebf4-42ad-aa51-43195a1ef2e3": {
+      "templateId": "Quest:quest_s24_completeseason_38",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.316Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.316Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "3f3b92f7-3558-4cbd-9061-fad0c4e37949",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "2adf251d-8c43-4138-bb33-f8c7f8d1a92b": {
+      "templateId": "Accolades:accoladeid_stw_badge_combat_gold",
+      "attributes": {
+        "earned_count": 2,
+        "last_earned_day": 36
+      },
+      "quantity": 1
+    },
+    "a41c6d03-612a-4396-9202-05ca80e5b5cc": {
+      "templateId": "Quest:quest_s24_weekly_w01_q04",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.317Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.317Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "ec5b5cc6-1589-4628-94cd-9e581bd881e5",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "21446dd2-6f05-4a2b-a253-1c243cb3dc30": {
+      "templateId": "Accolades:accoladeid_stw_mission_dte_victory",
+      "attributes": {
+        "earned_count": 3,
+        "last_earned_day": 36
+      },
+      "quantity": 1
+    },
+    "68b0f8e7-8919-49e9-900f-6505a9bd439c": {
+      "templateId": "Accolades:accoladeid_stw_mission_rtd_fail",
+      "attributes": {
+        "earned_count": 1,
+        "last_earned_day": 34
+      },
+      "quantity": 1
+    },
+    "0582d0c0-14a0-4dff-823a-c6df18337bc6": {
+      "templateId": "Quest:quest_suppressed_gain_health_hard_w01",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.317Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.317Z",
+        "level": -1,
+        "challenge_bundle_id": "ec5b5cc6-1589-4628-94cd-9e581bd881e5",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "5793f130-e2ed-4183-8d37-a83b27bbed63": {
+      "templateId": "ChallengeBundle:questbundle_s24_limitedtime_week_01",
+      "attributes": {
+        "num_granted_bundle_quests": 1,
+        "challenge_bundle_schedule_id": "cc5ca382-98aa-4ac6-9ee1-3a86410e781c",
+        "grantedquestinstanceids": [
+          "9b9ec404-9e22-4573-ad9b-63bfa9ec0f3d"
+        ]
+      },
+      "quantity": 1
+    },
+    "5ba67f69-afee-4aa0-8cb5-461ef1be76be": {
+      "templateId": "Quest:quest_s24_lf_q02",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:31.173Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:31.173Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "173831bd-2a42-49ce-bb5c-a14859496256",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "0623066b-fc3f-46e8-bbb0-63a552dc2714": {
+      "templateId": "Accolades:accoladeid_stw_ssd_t03_l06",
+      "attributes": {
+        "earned_count": 1,
+        "last_earned_day": 34
+      },
+      "quantity": 1
+    },
+    "15292108-a1da-46cf-9d29-cedb827e2730": {
+      "templateId": "Quest:quest_s24_weekly_w06_q04",
+      "attributes": {
+        "creation_time": "2023-04-18T18:26:30.239Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-18T18:26:30.239Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "319438d8-dd1b-4ebd-89a7-d4e2f5a69edf",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "49a206b8-8ab2-47e7-9ce4-97ec2977b653": {
+      "templateId": "Accolades:accoladeid_stw_mission_ltr_stage1",
+      "attributes": {
+        "earned_count": 2,
+        "last_earned_day": 33
+      },
+      "quantity": 1
+    },
+    "01334a60-e68e-429a-897e-1f17c85ab2ff": {
+      "templateId": "Accolades:accoladeid_stw_ssd_t03_bonus",
+      "attributes": {
+        "earned_count": 7,
+        "last_earned_day": 42
+      },
+      "quantity": 1
+    },
+    "875b3544-153c-4b18-9a3a-2a6d80fd5ed9": {
+      "templateId": "Accolades:accoladeid_stw_endurance_w01",
+      "attributes": {
+        "earned_count": 3,
+        "last_earned_day": 30
+      },
+      "quantity": 1
+    },
+    "6cd05144-0164-45bb-99ae-457d81c5efa0": {
+      "templateId": "Quest:quest_s24_milestone_completequests_q06",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.312Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.312Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "5e57eade-5238-4ed9-b5cc-23e3404bccc3",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "6f8a3eef-2f80-413c-be86-4896590db251": {
+      "templateId": "Quest:quest_s24_completeseason_25",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.315Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.315Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "3f3b92f7-3558-4cbd-9061-fad0c4e37949",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "d759fc8b-e3bc-476e-9383-6513433bb7d1": {
+      "templateId": "Quest:quest_s24_milestone_completequests_q01",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.311Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.311Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "0bbac1e9-2ae5-4736-8c02-3727bd284467",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "a5d82fcb-f219-4995-b7bd-1df454da7e82": {
+      "templateId": "Quest:quest_s24_weekly_w05_suppressed_easy",
+      "attributes": {
+        "creation_time": "2023-04-11T15:39:51.551Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-11T15:39:51.551Z",
+        "level": -1,
+        "challenge_bundle_id": "6b8dddaa-8151-4140-8581-17d8bd48090c",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "e4060ab2-db7b-453b-a141-46d8c56517e5": {
+      "templateId": "CosmeticLocker:cosmeticlocker_athena",
+      "attributes": {
+        "locker_slots_data": {
+          "slots": {
+            "Glider": {
+              "items": [
+                "AthenaGlider:defaultglider"
+              ],
+              "activeVariants": [
+                null
+              ]
+            },
+            "Dance": {
+              "items": [
+                "AthenaDance:eid_dancemoves",
+                null,
+                null,
+                null,
+                null,
+                null
+              ],
+              "activeVariants": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+              ]
+            },
+            "Character": {
+              "items": [
+                "AthenaCharacter:character_looper"
+              ],
+              "activeVariants": [
+                null
+              ]
+            },
+            "Pickaxe": {
+              "items": [
+                "AthenaPickaxe:pickaxe_looper"
+              ],
+              "activeVariants": [
+                null
+              ]
+            },
+            "MusicPack": {
+              "items": [
+                "AthenaMusicPack:musicpack_162_s23default"
+              ],
+              "activeVariants": [
+                null
+              ]
+            },
+            "Backpack": {
+              "items": [
+                "AthenaBackpack:backpack_looper"
+              ],
+              "activeVariants": [
+                null
+              ]
+            }
+          }
+        }
+      },
+      "quantity": 1
+    },
+    "30584c0b-e18d-4404-b382-214c3c3209b7": {
+      "templateId": "AthenaGlider:defaultglider",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.304Z",
+        "level": 1,
+        "item_seen": 1
+      },
+      "quantity": 1
+    },
+    "08b93f9d-96e0-459a-a8e3-108d667ee7b6": {
+      "templateId": "Accolades:accoladeid_stw_mission_rtd_victory4",
+      "attributes": {
+        "earned_count": 7,
+        "last_earned_day": 34
+      },
+      "quantity": 1
+    },
+    "63c77ef0-4708-4684-afb7-77ede9c8089b": {
+      "templateId": "Quest:quest_s24_milestone_completequests_q14",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.312Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.312Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "65618884-a643-4134-9ab8-2215a15e62e5",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "874b4cc4-f489-47c5-acc0-554ffddbc3ac": {
+      "templateId": "Quest:quest_s24_weekly_w00_q04",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.318Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.318Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "d901c597-85ee-4f6f-a26f-f1d494ecb20e",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "5078fe2e-8ff7-40f9-b148-f3da9300af97": {
+      "templateId": "ChallengeBundle:questbundle_s24_limitedtime_week_02_creative",
+      "attributes": {
+        "num_granted_bundle_quests": 1,
+        "challenge_bundle_schedule_id": "cc5ca382-98aa-4ac6-9ee1-3a86410e781c",
+        "grantedquestinstanceids": [
+          "d05f6930-9eb2-44a7-b06f-61a21a73cf11"
+        ]
+      },
+      "quantity": 1
+    },
+    "2e53de00-f942-4f4d-82d8-68a59491dba6": {
+      "templateId": "Quest:quest_s24_milestone_completequests_q10",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.312Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.312Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "54d212c3-a13d-4086-bada-55979d90cfc1",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "617a563d-f23c-4f4f-b9d1-f35f4c215077": {
+      "templateId": "ChallengeBundle:questbundle_s24_clearradius_bonusgoal",
+      "attributes": {
+        "challenge_bundle_schedule_id": "eb6628c5-1072-491e-bc01-5b1ac902c3c3"
+      },
+      "quantity": 1
+    },
+    "3e170cdf-0c58-487b-ac39-cb2ca2caa661": {
+      "templateId": "Quest:quest_s24_weekly_w06_suppressed_hard",
+      "attributes": {
+        "creation_time": "2023-04-18T18:26:30.240Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-18T18:26:30.240Z",
+        "level": -1,
+        "challenge_bundle_id": "319438d8-dd1b-4ebd-89a7-d4e2f5a69edf",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "48324763-3fd1-4dab-ba17-742c98b287df": {
+      "templateId": "Accolades:accoladeid_stw_ssd_t03_l01",
+      "attributes": {
+        "earned_count": 1,
+        "last_earned_day": 33
+      },
+      "quantity": 1
+    },
+    "21691b5c-b716-4dbb-beac-0fe899dbbac7": {
+      "templateId": "ConditionalAction:generic_instance",
+      "attributes": {
+        "alt_profile_types": [
+          "athena"
+        ],
+        "_private": true,
+        "devName": "Event_S24_NarrativeQuests",
+        "conditions": {
+          "event": {
+            "instanceId": "0pjsab09qb7175rhf47ams2480[0]0",
+            "eventName": "CalendarEvent_S24_NarrativeQuests",
+            "eventStart": "2023-03-09T13:00:00.000Z",
+            "eventEnd": "2023-05-30T06:00:00.000Z",
+            "startActions": {
+              "hasRun": true,
+              "conversions": [],
+              "itemsToGrant": [
+                {
+                  "templateId": "ChallengeBundleSchedule:season24_schedule_narrative_p01",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "ChallengeBundleSchedule:season24_schedule_narrative_p02",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "ChallengeBundleSchedule:season24_schedule_narrative_p03",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "ChallengeBundleSchedule:season24_schedule_narrative_p04",
+                  "quantity": 1
+                }
+              ],
+              "questsToUnpause": []
+            },
+            "endActions": {
+              "hasRun": false,
+              "conversions": [],
+              "itemsToRemove": [
+                {
+                  "templateId": "ChallengeBundleSchedule:season24_schedule_narrative_p01",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "ChallengeBundleSchedule:season24_schedule_narrative_p02",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "ChallengeBundleSchedule:season24_schedule_narrative_p03",
+                  "quantity": 1
+                },
+                {
+                  "templateId": "ChallengeBundleSchedule:season24_schedule_narrative_p04",
+                  "quantity": 1
+                }
+              ],
+              "questsToPause": []
+            },
+            "metaData": {}
+          }
+        }
+      },
+      "quantity": 1
+    },
+    "24ed513b-42fd-458b-bfe3-1d5e2134b3ce": {
+      "templateId": "Quest:quest_s24_completeseason_26",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.315Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.315Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "3f3b92f7-3558-4cbd-9061-fad0c4e37949",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "9e25fdef-e31b-4ea5-8679-d528c2864339": {
+      "templateId": "Quest:quest_s24_limited_g6_granter_creative",
+      "attributes": {
+        "creation_time": "2023-04-18T18:26:30.239Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-18T18:26:30.239Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "7401cbd5-6f45-489a-ad2c-49016954026c",
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "ea889f3f-d3f8-4356-8edd-4899d93d5e04": {
+      "templateId": "Quest:quest_s24_completeseason_08",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.314Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.314Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "3f3b92f7-3558-4cbd-9061-fad0c4e37949",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "0f089e80-3711-4615-9717-58b121738db4": {
+      "templateId": "Accolades:accoladeid_stw_ssd_t01_l06",
+      "attributes": {
+        "earned_count": 1,
+        "last_earned_day": 31
+      },
+      "quantity": 1
+    },
+    "94e1ce0c-463f-4b84-a840-053c3a53c986": {
+      "templateId": "Accolades:accoladeid_stw_mission_brt_gold",
+      "attributes": {
+        "earned_count": 1,
+        "last_earned_day": 37
+      },
+      "quantity": 1
+    },
+    "0ce89788-7065-41af-94ff-5bdd5676bff0": {
+      "templateId": "Accolades:accoladeid_stw_mission_rtd_victory3",
+      "attributes": {
+        "earned_count": 1,
+        "last_earned_day": 30
+      },
+      "quantity": 1
+    },
+    "0418d7dd-80d5-4da5-ae9e-c53857e04a76": {
+      "templateId": "Quest:quest_s24_weekly_w04_q02",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.320Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.320Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "1955814b-71c6-40cc-af1d-614dca343da6",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "b8f93609-f823-4b59-8d06-d2c382885a82": {
+      "templateId": "Quest:quest_s24_completeseason_35",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.316Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.316Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "3f3b92f7-3558-4cbd-9061-fad0c4e37949",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "1a4d33e6-f721-46b5-bba0-7b20fa433a52": {
+      "templateId": "ChallengeBundle:questbundle_s24_limitedtime_week_02",
+      "attributes": {
+        "num_granted_bundle_quests": 2,
+        "challenge_bundle_schedule_id": "cc5ca382-98aa-4ac6-9ee1-3a86410e781c",
+        "grantedquestinstanceids": [
+          "c19c9883-5ae7-47d3-9588-98e15321d114",
+          "8c4b41c0-ad6a-4d38-94cc-559d96935f1d"
+        ]
+      },
+      "quantity": 1
+    },
+    "ff993f77-d59e-4147-83ea-ecf859ccdf08": {
+      "templateId": "ChallengeBundle:questbundle_s24_lf_punchcard",
+      "attributes": {
+        "num_granted_bundle_quests": 1,
+        "challenge_bundle_schedule_id": "d1b67495-e98f-4de2-b6d9-906c8e7e11bb",
+        "grantedquestinstanceids": [
+          "bf01393a-f903-4108-9711-776fd4fcd64e"
+        ]
+      },
+      "quantity": 1
+    },
+    "2ed5c993-fd10-4564-bd6b-4c7fd1bfee32": {
+      "templateId": "Quest:quest_s24_completeseason_03",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.314Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.314Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "3f3b92f7-3558-4cbd-9061-fad0c4e37949",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "a5b3d61a-00b7-4bf9-a696-8ffee9d001a6": {
+      "templateId": "Quest:quest_s24_weeklycosmetics_nobp_b04_q02",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.323Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.323Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "eab4eb66-9e91-4aa2-9f9a-4b27abaed4cf",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "eff64da4-a4b0-49ae-a22b-3ce173e10258": {
+      "templateId": "ChallengeBundle:questbundle_s24_milestone_tier08",
+      "attributes": {
+        "num_granted_bundle_quests": 2,
+        "challenge_bundle_schedule_id": "7bc64119-edaa-48a0-99a7-3920d9687983",
+        "grantedquestinstanceids": [
+          "4b2d47ca-214b-4aa3-8449-fab3f94ec767",
+          "cb522614-5c86-4718-bb9f-8310bb367533"
+        ]
+      },
+      "quantity": 1
+    },
+    "4bf795e9-c380-486a-b8d8-518278e9149a": {
+      "templateId": "Quest:punchcard_s24_sunburst_q03",
+      "attributes": {
+        "creation_time": "2023-04-20T13:20:38.064Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-20T13:20:38.064Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "3141b164-ef8f-4f29-b031-ce10fa0ab6fb",
+        "quest_rarity": "rare",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "c1f77f07-750f-4a84-9e9a-50c0950e111b": {
+      "templateId": "Quest:quest_s24_completeseason_20",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.315Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.315Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "3f3b92f7-3558-4cbd-9061-fad0c4e37949",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "0985da50-de93-4d73-afd5-218ab4fc3636": {
+      "templateId": "ChallengeBundle:questbundle_s24_narrative_part02",
+      "attributes": {
+        "num_granted_bundle_quests": 1,
+        "challenge_bundle_schedule_id": "eee3354b-777c-4a8b-8a04-dff6e5b38a50",
+        "grantedquestinstanceids": [
+          "c0aa94f9-9f2c-4226-b680-3cdf4683160d"
+        ]
+      },
+      "quantity": 1
+    },
+    "09331a56-4146-4387-b4bb-2bef071ea3d2": {
+      "templateId": "Accolades:accoladeid_stw_mission_rtl_success",
+      "attributes": {
+        "earned_count": 2,
+        "last_earned_day": 31
+      },
+      "quantity": 1
+    },
+    "614076d5-25ec-42a0-8183-13cebf38ec15": {
+      "templateId": "Quest:quest_s24_boosterpack_q03",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.311Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.311Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "b8be17ff-c9b3-4f5e-aa4e-69f73fe0dacc",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "3d182a0d-0ce6-4599-b183-ba85ea3aec7a": {
+      "templateId": "Quest:quest_s24_weeklycosmetics_nobp_b01_q01",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.321Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.321Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "d4f3d8e1-b35d-4b7b-be5b-9ce00f81b6e2",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "4de68320-0654-4a67-939d-d5134909d68b": {
+      "templateId": "Accolades:accoladeid_stw_mission_tutorial_victory",
+      "attributes": {
+        "earned_count": 1,
+        "last_earned_day": 30
+      },
+      "quantity": 1
+    },
+    "c0023fd9-2086-4219-afd4-d74e62e3532e": {
+      "templateId": "Quest:quest_s24_weekly_w02_q05",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.319Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.319Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "1266a5f6-8215-49d6-b5da-b4263819ef52",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "8ba6343c-0804-48bf-ae1b-0266c767db09": {
+      "templateId": "ConditionalAction:generic_instance",
+      "attributes": {
+        "alt_profile_types": [
+          "athena"
+        ],
+        "_private": true,
+        "devName": "Event_S24_SunBurst",
+        "conditions": {
+          "event": {
+            "instanceId": "2qphcj86fpurvn67oseohpa82c[0]0",
+            "eventName": "CalendarEvent_S24_SunBurst",
+            "eventStart": "2023-04-20T13:00:00.000Z",
+            "eventEnd": "2023-04-27T04:00:00.000Z",
+            "startActions": {
+              "hasRun": true,
+              "conversions": [],
+              "itemsToGrant": [
+                {
+                  "templateId": "ChallengeBundleSchedule:season24_schedule_sunburst",
+                  "quantity": 1
+                }
+              ],
+              "questsToUnpause": []
+            },
+            "endActions": {
+              "hasRun": false,
+              "conversions": [],
+              "itemsToRemove": [
+                {
+                  "templateId": "ChallengeBundleSchedule:season24_schedule_sunburst",
+                  "quantity": 1
+                }
+              ],
+              "questsToPause": []
+            },
+            "metaData": {}
+          }
+        }
+      },
+      "quantity": 1
+    },
+    "65f99be6-ab13-4dc6-ad9f-0bf8d370ae1f": {
+      "templateId": "Quest:quest_suppressed_assault_dmg_med_w00",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.318Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.318Z",
+        "level": -1,
+        "challenge_bundle_id": "d901c597-85ee-4f6f-a26f-f1d494ecb20e",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "54a70418-f880-47db-9ede-b191207437d6": {
+      "templateId": "Accolades:accoladeid_stw_badge_utility_platinum",
+      "attributes": {
+        "earned_count": 1,
+        "last_earned_day": 30
+      },
+      "quantity": 1
+    },
+    "c048e679-9d70-48c7-974f-5707a2e2c9e2": {
+      "templateId": "Quest:quest_s24_limited_g5_granter_quest",
+      "attributes": {
+        "creation_time": "2023-04-11T15:39:51.550Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-11T15:39:51.550Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "5302e16e-7399-4567-8527-ce4d66a519b5",
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "ef601c6b-de5f-4ce1-8af7-1f0e0c01f280": {
+      "templateId": "AthenaLoadingScreen:lsid_stw002_starlight1",
+      "attributes": {
+        "creation_time": "2023-04-10T08:55:48.506Z",
+        "level": 1,
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "5302e16e-7399-4567-8527-ce4d66a519b5": {
+      "templateId": "ChallengeBundle:questbundle_s24_limitedtime_week_05",
+      "attributes": {
+        "num_granted_bundle_quests": 1,
+        "challenge_bundle_schedule_id": "cc5ca382-98aa-4ac6-9ee1-3a86410e781c",
+        "grantedquestinstanceids": [
+          "c048e679-9d70-48c7-974f-5707a2e2c9e2"
+        ]
+      },
+      "quantity": 1
+    },
+    "8a4ac53e-7c87-42e6-9100-75f4222c16a9": {
+      "templateId": "ChallengeBundleCompletionToken:challengebundleprogresstracker",
+      "attributes": {
+        "completion_bits": [
+          1
+        ],
+        "bundle_template": "ChallengeBundle:questbundle_s24_limitedtime_week_05_timer",
+        "level": 1,
+        "bundle_id": "b19c30fb-64f9-4347-9688-ace25591a6d9"
+      },
+      "quantity": 1
+    },
+    "f0da107c-cf2b-45e6-bedf-1db2e6213934": {
+      "templateId": "Quest:quest_suppressed_restore_health_easy_w03",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.320Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.320Z",
+        "level": -1,
+        "challenge_bundle_id": "7f6be480-e40d-473b-8341-50594b2b438a",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "519b6029-53c2-4460-8cc7-6f2a52982414": {
+      "templateId": "Accolades:accoladeid_stw_ssd_t01_l05",
+      "attributes": {
+        "earned_count": 1,
+        "last_earned_day": 30
+      },
+      "quantity": 1
+    },
+    "c0f28c41-368b-40a2-8ba0-28e30cc2cf31": {
+      "templateId": "Quest:quest_s24_milestone_eliminateopponents_q01",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.313Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.313Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "df1a5898-635f-474e-bd6e-8e9299898bb2": {
+      "templateId": "Accolades:accoladeid_stw_mission_resupply_victory",
+      "attributes": {
+        "earned_count": 2,
+        "last_earned_day": 30
+      },
+      "quantity": 1
+    },
+    "bbdc5957-dc17-427a-b42b-f7241fe2c1a4": {
+      "templateId": "Quest:quest_s24_milestone_completequests_q03",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.311Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.311Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "fb59e8ce-ce80-4857-a1ae-19d1fc4b23c4",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "303e77f7-ae5e-4ba0-b290-79ace604bc59": {
+      "templateId": "Quest:quest_s24_completeseason_33",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.316Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.316Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "3f3b92f7-3558-4cbd-9061-fad0c4e37949",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "e4bdebb6-aab8-4805-993f-eef5a0922b42": {
+      "templateId": "Quest:quest_suppressed_vehicle_travel_hard_w03",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.320Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.320Z",
+        "level": -1,
+        "challenge_bundle_id": "7f6be480-e40d-473b-8341-50594b2b438a",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "d61a6fcc-fa56-4b6b-a791-e0524ca82eba": {
+      "templateId": "Accolades:accoladeid_stw_ssd_t02_l01",
+      "attributes": {
+        "earned_count": 1,
+        "last_earned_day": 31
+      },
+      "quantity": 1
+    },
+    "051f8abc-9f85-4663-a657-167fc7b46107": {
+      "templateId": "Accolades:accoladeid_stw_quest_endurance_daily_w25",
+      "attributes": {
+        "earned_count": 3,
+        "last_earned_day": 41
+      },
+      "quantity": 1
+    },
+    "cfc3c0ab-fab7-4040-b770-cb7c17ae7666": {
+      "templateId": "ChallengeBundleSchedule:season24_mission_schedule",
+      "attributes": {
+        "unlock_epoch": "2023-03-09T13:00:00.000Z",
+        "level": 1,
+        "granted_bundles": [
+          "3f3b92f7-3558-4cbd-9061-fad0c4e37949",
+          "ec5b5cc6-1589-4628-94cd-9e581bd881e5",
+          "d901c597-85ee-4f6f-a26f-f1d494ecb20e",
+          "1266a5f6-8215-49d6-b5da-b4263819ef52",
+          "7f6be480-e40d-473b-8341-50594b2b438a",
+          "1955814b-71c6-40cc-af1d-614dca343da6",
+          "6b8dddaa-8151-4140-8581-17d8bd48090c",
+          "319438d8-dd1b-4ebd-89a7-d4e2f5a69edf",
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "quantity": 1
+    },
+    "036687f2-25b0-470b-8059-612ef6001b2c": {
+      "templateId": "Quest:quest_s24_completeseason_37",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.316Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.316Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "3f3b92f7-3558-4cbd-9061-fad0c4e37949",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "b5910ae0-de7d-428e-8336-53ef3e635b2c": {
+      "templateId": "Accolades:accoladeid_stw_ssd_t01_l04",
+      "attributes": {
+        "earned_count": 1,
+        "last_earned_day": 30
+      },
+      "quantity": 1
+    },
+    "6770467b-6c90-43d2-a0a2-2b7a7347d599": {
+      "templateId": "Quest:quest_s24_weekly_w01_q05",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.317Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.317Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "ec5b5cc6-1589-4628-94cd-9e581bd881e5",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "7a14ed4d-aeef-4561-8fb0-5094c28852d0": {
+      "templateId": "Quest:quest_s24_completeseason_31",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.316Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.316Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "3f3b92f7-3558-4cbd-9061-fad0c4e37949",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "12001085-6a62-4e5e-8844-09e137f06267": {
+      "templateId": "Accolades:accoladeid_stw_badge_exploration",
+      "attributes": {
+        "earned_count": 12,
+        "last_earned_day": 43
+      },
+      "quantity": 1
+    },
+    "41880a8c-a4c2-4f1f-80ab-a6b375c69e0b": {
+      "templateId": "Accolades:accoladeid_stw_quest_dungeon_daily",
+      "attributes": {
+        "earned_count": 1,
+        "last_earned_day": 31
+      },
+      "quantity": 1
+    },
+    "eb6628c5-1072-491e-bc01-5b1ac902c3c3": {
+      "templateId": "ChallengeBundleSchedule:season24_clearradius_schedule",
+      "attributes": {
+        "unlock_epoch": "2023-03-09T13:00:00.000Z",
+        "level": 1,
+        "granted_bundles": [
+          "6501cbd7-fe21-4ac4-b7b2-51fce063df8d",
+          "617a563d-f23c-4f4f-b9d1-f35f4c215077"
+        ]
+      },
+      "quantity": 1
+    },
+    "55b6aa09-666f-410b-98b7-9cca6b0b8393": {
+      "templateId": "Quest:quest_s24_limited_g1_timer_quest",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.324Z",
+        "quest_state": "Claimed",
+        "last_state_change_time": "2023-04-08T13:20:31.175Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "1b287465-db0d-4a02-9196-975c34543f9d",
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "e5f554d9-46ba-4c39-ada2-80cd73410ec9": {
+      "templateId": "ChallengeBundle:questbundle_s24_milestone_tier10",
+      "attributes": {
+        "num_granted_bundle_quests": 2,
+        "challenge_bundle_schedule_id": "7bc64119-edaa-48a0-99a7-3920d9687983",
+        "grantedquestinstanceids": [
+          "9c13b903-31a1-4249-aad7-57a04cadaf25",
+          "d0640bae-4187-41c6-8885-7baf80e6baa2"
+        ]
+      },
+      "quantity": 1
+    },
+    "af7baf1c-d8c5-44a1-991c-59151f23c768": {
+      "templateId": "Quest:quest_s24_completeseason_19",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.315Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.315Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "3f3b92f7-3558-4cbd-9061-fad0c4e37949",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "81c07bef-9631-416e-a6d3-769b960e0f43": {
+      "templateId": "Quest:quest_s24_milestone_activateaugments_q01",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.313Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.313Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "757fd95f-d74a-413a-8e46-db807e62c119": {
+      "templateId": "Quest:quest_s24_sunburst_q03",
+      "attributes": {
+        "creation_time": "2023-04-20T13:20:38.063Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-20T13:20:38.063Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "4d346a62-2d89-47ec-a38f-5cab74a4e6f1",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "13a608ad-fe3b-4a78-8638-40615be1a3a1": {
+      "templateId": "Quest:quest_s24_weekly_w00_q02",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.318Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.318Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "d901c597-85ee-4f6f-a26f-f1d494ecb20e",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "319438d8-dd1b-4ebd-89a7-d4e2f5a69edf": {
+      "templateId": "ChallengeBundle:missionbundle_s24_week_06",
+      "attributes": {
+        "num_granted_bundle_quests": 8,
+        "challenge_bundle_schedule_id": "cfc3c0ab-fab7-4040-b770-cb7c17ae7666",
+        "grantedquestinstanceids": [
+          "5366266b-287c-4d06-a025-ebfcf5b86bbc",
+          "7f78272e-ddc4-4141-b649-03a5cb3d8a3c",
+          "00428b97-919c-4e80-a590-efc72423d745",
+          "15292108-a1da-46cf-9d29-cedb827e2730",
+          "ea4077c9-7141-4a48-be87-277f8319c21d",
+          "ce700d23-e770-4f13-a892-e76a0fbae524",
+          "077706a2-7e19-4a16-acb3-c0101b9bc77a",
+          "3e170cdf-0c58-487b-ac39-cb2ca2caa661"
+        ]
+      },
+      "quantity": 1
+    },
+    "5366266b-287c-4d06-a025-ebfcf5b86bbc": {
+      "templateId": "Quest:quest_s24_weekly_w06_q01",
+      "attributes": {
+        "creation_time": "2023-04-18T18:26:30.239Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-18T18:26:30.239Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "319438d8-dd1b-4ebd-89a7-d4e2f5a69edf",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "49c658c6-67a9-40dc-a434-de55832c7cb8": {
+      "templateId": "Quest:quest_c4_discover_namedlocations",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.310Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.310Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "quest_rarity": "uncommon",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "9cd05958-86de-44da-a426-b95133a83f2e": {
+      "templateId": "Quest:quest_s24_weekly_w00_q01",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.318Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.318Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "d901c597-85ee-4f6f-a26f-f1d494ecb20e",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "7f6be480-e40d-473b-8341-50594b2b438a": {
+      "templateId": "ChallengeBundle:missionbundle_s24_week_03",
+      "attributes": {
+        "num_granted_bundle_quests": 8,
+        "challenge_bundle_schedule_id": "cfc3c0ab-fab7-4040-b770-cb7c17ae7666",
+        "grantedquestinstanceids": [
+          "56fc55be-12db-4d09-9334-4968b012fd5d",
+          "493d5f73-d647-43a7-a8e3-222f8e3a4a14",
+          "de40b45a-a7d2-4a1e-b5ea-2d07ff585b4c",
+          "b99eca1a-2e62-4460-b7fc-10075f2514d1",
+          "e49d39b8-31f9-4d53-bd09-cc3a02a4b424",
+          "170eaa9d-0a81-44d2-bc39-7e11ae5aab18",
+          "f0da107c-cf2b-45e6-bedf-1db2e6213934",
+          "e4bdebb6-aab8-4805-993f-eef5a0922b42"
+        ]
+      },
+      "quantity": 1
+    },
+    "ef6749ba-e1f3-40aa-9f24-71cdab06edf4": {
+      "templateId": "Accolades:accoladeid_stw_mission_brt_victory",
+      "attributes": {
+        "earned_count": 1,
+        "last_earned_day": 37
+      },
+      "quantity": 1
+    },
+    "98fcf157-8385-41ab-904a-17ba7708fdb9": {
+      "templateId": "Accolades:accoladeid_stw_mission_rtl_stage2",
+      "attributes": {
+        "earned_count": 2,
+        "last_earned_day": 31
+      },
+      "quantity": 1
+    },
+    "15905166-543e-4435-bc0e-ada6132fb161": {
+      "templateId": "Quest:quest_s24_milestone_completequests_q17",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.313Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.313Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "c842e74a-af64-4431-96e4-c030053b750b",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "ec8e5675-efb2-464d-a7bc-147b913fd213": {
+      "templateId": "Quest:quest_s24_weeklycosmetics_nobp_b02_q02",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.322Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.322Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "e3d8b483-4bd4-477d-bffe-3638438e596b",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "0218c0fe-4f01-4af9-b971-3884eec1d5e8": {
+      "templateId": "Quest:quest_s24_weeklycosmetics_nobp_b02_q04",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.322Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.322Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "e3d8b483-4bd4-477d-bffe-3638438e596b",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "994ddc86-ae4c-48f9-abab-28410760bd68": {
+      "templateId": "Quest:quest_s24_dailypunchcard_complete3",
+      "attributes": {
+        "bucket": "DailyPunchcard",
+        "creation_time": "2023-04-21T13:57:04.160Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-21T13:57:04.160Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "expiry_time": "2023-04-22T13:00:00.000Z",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "e6b7dbc4-3128-499d-9f00-1ff23447addd": {
+      "templateId": "Accolades:accoladeid_stw_mission_dte_platinum",
+      "attributes": {
+        "earned_count": 2,
+        "last_earned_day": 36
+      },
+      "quantity": 1
+    },
+    "d47eae45-afc3-415e-a755-6596ff8c1729": {
+      "templateId": "Accolades:accoladeid_stw_mission_elimandcollect_gold",
+      "attributes": {
+        "earned_count": 1,
+        "last_earned_day": 31
+      },
+      "quantity": 1
+    },
+    "01061734-c79e-451f-9ed1-1329a85a053e": {
+      "templateId": "ChallengeBundle:questbundle_s24_tigerroot_punchcard",
+      "attributes": {
+        "num_granted_bundle_quests": 2,
+        "challenge_bundle_schedule_id": "b0713aa3-d707-4c50-9802-ad4f13c53388",
+        "grantedquestinstanceids": [
+          "10d417de-3521-485c-a87a-db8a36a52905",
+          "8b8f382e-c041-45f5-a293-608847d6f28e"
+        ]
+      },
+      "quantity": 1
+    },
+    "98915900-ef26-455b-b844-f0b84b0010c5": {
+      "templateId": "Quest:quest_s24_boosterpack_q05",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.311Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.311Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "b8be17ff-c9b3-4f5e-aa4e-69f73fe0dacc",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "91dc1b25-d45f-40cc-a108-8bdd127073a8": {
+      "templateId": "ChallengeBundleCompletionToken:challengebundleprogresstracker",
+      "attributes": {
+        "completion_bits": [
+          1
+        ],
+        "bundle_template": "ChallengeBundle:questbundle_s24_limitedtime_week_01_timer",
+        "level": 1,
+        "bundle_id": "1b287465-db0d-4a02-9196-975c34543f9d"
+      },
+      "quantity": 1
+    },
+    "7bba59e9-1e37-498c-9e65-8f88f5abffad": {
+      "templateId": "ChallengeBundleSchedule:season24_feat_bundleschedule",
+      "attributes": {
+        "unlock_epoch": "2023-03-09T13:00:00.000Z",
+        "level": 1,
+        "granted_bundles": [
+          "73b53f5a-7052-42ef-bdda-846a50b77eac"
+        ]
+      },
+      "quantity": 1
+    },
+    "86c186fe-a297-4f13-a339-97289051c60f": {
+      "templateId": "Quest:quest_s24_weeklycosmetics_nobp_b02_q01",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.322Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.322Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "e3d8b483-4bd4-477d-bffe-3638438e596b",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "7e4b5fa1-2d97-414e-af83-1ed535a4d22c": {
+      "templateId": "Accolades:accoladeid_stw_ssd_t03_l02",
+      "attributes": {
+        "earned_count": 1,
+        "last_earned_day": 33
+      },
+      "quantity": 1
+    },
+    "15087c68-fee8-4dc2-a239-ed30fb2b3cfa": {
+      "templateId": "Quest:quest_s24_lf_q03",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:31.173Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:31.173Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "173831bd-2a42-49ce-bb5c-a14859496256",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "c19c9883-5ae7-47d3-9588-98e15321d114": {
+      "templateId": "Quest:quest_s24_limited_g2_q1",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.324Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.324Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "1a4d33e6-f721-46b5-bba0-7b20fa433a52",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "ce700d23-e770-4f13-a892-e76a0fbae524": {
+      "templateId": "Quest:quest_s24_weekly_w06_suppressed_easy",
+      "attributes": {
+        "creation_time": "2023-04-18T18:26:30.240Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-18T18:26:30.240Z",
+        "level": -1,
+        "challenge_bundle_id": "319438d8-dd1b-4ebd-89a7-d4e2f5a69edf",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "870e8ad8-91ca-4957-94b1-f0070eedc7c2": {
+      "templateId": "Quest:quest_s24_milestone_gainshields_q01",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.313Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.313Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "18b66700-c347-44f8-aba6-b981f5530c3a": {
+      "templateId": "Quest:quest_s24_milestone_traveldistancevehicle_q01",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.313Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.313Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "7e29fb31-e348-48a0-87e4-28cde21338f8": {
+      "templateId": "Quest:quest_s24_milestone_completequests_q05",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.311Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.311Z",
+        "level": -1,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "5e57eade-5238-4ed9-b5cc-23e3404bccc3",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "1e63e500-4749-42b1-ba35-c7b84cc76663": {
+      "templateId": "Accolades:accoladeid_stw_ssd_t02_l06",
+      "attributes": {
+        "earned_count": 1,
+        "last_earned_day": 32
+      },
+      "quantity": 1
+    },
+    "0b67bf3c-aac4-42ed-878c-a4760a70b595": {
+      "templateId": "Accolades:accoladeid_stw_ssd_t02_l08",
+      "attributes": {
+        "earned_count": 1,
+        "last_earned_day": 32
+      },
+      "quantity": 1
+    },
+    "1055fdef-11b6-483d-8d3e-8f0fbe649f40": {
+      "templateId": "Quest:quest_suppressed_pistol_smg_dmg_med_w01",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.317Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.317Z",
+        "level": -1,
+        "challenge_bundle_id": "ec5b5cc6-1589-4628-94cd-9e581bd881e5",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    },
+    "731539f6-df34-4436-9c09-fe48bff1d477": {
+      "templateId": "ChallengeBundle:questbundle_victorycrown",
+      "attributes": {
+        "num_granted_bundle_quests": 1,
+        "challenge_bundle_schedule_id": "36ac88ff-6563-4001-ba70-f11001da5547",
+        "grantedquestinstanceids": [
+          "46fae366-a70a-4447-8c7a-c4ee68a958a3"
+        ]
+      },
+      "quantity": 1
+    },
+    "4d346a62-2d89-47ec-a38f-5cab74a4e6f1": {
+      "templateId": "ChallengeBundle:questbundle_s24_sunburst",
+      "attributes": {
+        "num_granted_bundle_quests": 6,
+        "challenge_bundle_schedule_id": "ff463dee-dfd3-438e-b38a-9bde12d0782d",
+        "grantedquestinstanceids": [
+          "16b7df1a-2ce9-4fbf-8d8d-c205b557ea1b",
+          "4e288a11-aa15-4a31-852e-c4b114c23e49",
+          "757fd95f-d74a-413a-8e46-db807e62c119",
+          "899ae207-121b-429b-bcb9-710f17c4ad14",
+          "d26a4bfa-c91a-4814-935c-16e00d60e12c",
+          "16493d5a-b5a7-4f5c-b8f8-7d0eebd68a3b"
+        ]
+      },
+      "quantity": 1
+    },
+    "2a0acb1e-a44e-4aac-9646-f7fc905ad513": {
+      "templateId": "Quest:quest_s24_completeseason_34",
+      "attributes": {
+        "creation_time": "2023-04-08T13:20:29.316Z",
+        "quest_state": "Active",
+        "last_state_change_time": "2023-04-08T13:20:29.316Z",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "challenge_bundle_id": "3f3b92f7-3558-4cbd-9061-fad0c4e37949",
+        "quest_rarity": "common",
+        "xp_reward_scalar": 1
+      },
+      "quantity": 1
+    }
+  },
+  "stats": {
+    "attributes": {
+      "loadouts": [
+        "e4060ab2-db7b-453b-a141-46d8c56517e5",
+        null
+      ],
+      "level": 71,
+      "last_xp_interaction": "2023-04-21T13:58:38.336Z",
+      "rested_xp_golden_path_granted": 1089000,
+      "quest_manager": {
+        "dailyLoginInterval": "2023-04-21T04:02:08.401Z",
+        "dailyQuestRerolls": 1
+      },
+      "book_level": 71,
+      "season_num": 24,
+      "accountLevel": 71,
+      "season_update": 1,
+      "rested_xp_consumed_cumulative": 1116000,
+      "rested_xp_cumulative": 1116000,
+      "book_xp": 31550,
+      "pinned_quest": "b5e93f31-c1dc-4192-8d4c-a0bb468025ea",
+      "creative_dynamic_xp": {
+        "timespan": 119.01260375976562,
+        "bucketXp": 0,
+        "bankXp": 0,
+        "bankXpMult": 1.0,
+        "boosterBucketXp": 0,
+        "boosterXpMult": 0.0,
+        "dailyExcessXpMult": 1.0,
+        "currentDayXp": 0,
+        "currentDay": -1
+      },
+      "last_applied_loadout": "422cd66c-4a3b-434e-b04e-3169f37abdf7",
+      "xp": 31550,
+      "battlestars": 350,
+      "last_match_end_datetime": "2023-04-08T16:18:43.382Z",
+      "last_stw_accolade_transfer_datetime": "2023-04-21T13:58:38.331Z",
+      "battlestars_season_total": 350
+    }
+  },
+  "commandRevision": 210
+}

@@ -1,0 +1,76 @@
+{
+  "_id": "3612821a4f0f4312bbdc57f1ce794096",
+  "created": "2023-04-08T15:16:36.522Z",
+  "updated": "2023-04-22T16:18:35.605Z",
+  "rvn": 2135,
+  "wipeNumber": 9,
+  "accountId": "929ccb6c363e437d9a356f4d89fd66c9",
+  "profileId": "outpost0",
+  "version": "remove_bars_from_profile_mar_2022",
+  "items": {
+    "fa5ef005-0fa0-45ca-9f5f-d18076784332": {
+      "templateId": "WorldItem:stoneitemdata",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1
+      },
+      "quantity": 1934
+    },
+    "803b28e9-3e17-4f64-a1c4-d2f44b0e1376": {
+      "templateId": "WorldItem:metalitemdata",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": ""
+      },
+      "quantity": 674
+    },
+    "01007929-9e9a-4a5c-b0cc-49e0ab489cac": {
+      "templateId": "WorldItem:metalitemdata",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": ""
+      },
+      "quantity": 4000
+    },
+    "d290373f-bc2e-4b4a-980f-b3566b446361": {
+      "templateId": "WorldItem:wooditemdata",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1
+      },
+      "quantity": 2675
+    },
+    "e366d56d-6983-4929-915a-5e652276b3f9": {
+      "templateId": "WorldItem:stoneitemdata",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": ""
+      },
+      "quantity": 154
+    }
+  },
+  "stats": {
+    "attributes": {}
+  },
+  "profileLockCode": "82A05CF9960540B5AEAA988C75377249",
+  "profileLockExpiration": "2023-04-22T16:24:05.587Z",
+  "commandRevision": 109
+}

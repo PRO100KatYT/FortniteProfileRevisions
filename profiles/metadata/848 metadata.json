@@ -1,0 +1,190 @@
+{
+  "_id": "0d2a3a9eb2b84edf844f964fb48c1e17",
+  "created": "2023-04-08T15:16:36.547Z",
+  "updated": "2023-05-01T18:29:50.944Z",
+  "rvn": 848,
+  "wipeNumber": 9,
+  "accountId": "929ccb6c363e437d9a356f4d89fd66c9",
+  "profileId": "metadata",
+  "version": "recover_outpost_metadata_april_2022",
+  "items": {
+    "66eae8ed-1d44-46f6-9dcf-05c15dcf6587": {
+      "templateId": "Outpost:outpostcore_pve_02",
+      "attributes": {
+        "cloud_save_info": {
+          "saveCount": 120,
+          "savedRecords": [
+            {
+              "recordIndex": 0,
+              "archiveNumber": 0,
+              "recordFilename": "66eae8ed-1d44-46f6-9dcf-05c15dcf6587_r0_a0.sav"
+            }
+          ]
+        },
+        "level": 10,
+        "outpost_core_info": {
+          "placedBuildings": [
+            {
+              "buildingTag": "Outpost.BuildingActor.Building.00",
+              "placedTag": "Outpost.PlacementActor.Placement.00"
+            },
+            {
+              "buildingTag": "Outpost.BuildingActor.Building.01",
+              "placedTag": "Outpost.PlacementActor.Placement.01"
+            },
+            {
+              "buildingTag": "Outpost.BuildingActor.Building.02",
+              "placedTag": "Outpost.PlacementActor.Placement.04"
+            },
+            {
+              "buildingTag": "Outpost.BuildingActor.Building.03",
+              "placedTag": "Outpost.PlacementActor.Placement.02"
+            },
+            {
+              "buildingTag": "Outpost.BuildingActor.Building.04",
+              "placedTag": "Outpost.PlacementActor.Placement.05"
+            }
+          ],
+          "accountsWithEditPermission": [
+            "b7a2f61a84b144cba6033bc2db89711e",
+            "b2cd97d84d014ae3be831f9837db3f95"
+          ],
+          "highestEnduranceWaveReached": 0
+        }
+      },
+      "quantity": 1
+    },
+    "0db0b60e-366b-46ec-9c30-e16ef1733b8a": {
+      "templateId": "Outpost:outpostcore_pve_03",
+      "attributes": {
+        "cloud_save_info": {
+          "saveCount": 144,
+          "savedRecords": [
+            {
+              "recordIndex": 0,
+              "archiveNumber": 0,
+              "recordFilename": "0db0b60e-366b-46ec-9c30-e16ef1733b8a_r0_a0.sav"
+            }
+          ]
+        },
+        "level": 10,
+        "outpost_core_info": {
+          "placedBuildings": [
+            {
+              "buildingTag": "Outpost.BuildingActor.Building.00",
+              "placedTag": "Outpost.PlacementActor.Placement.02"
+            },
+            {
+              "buildingTag": "Outpost.BuildingActor.Building.01",
+              "placedTag": "Outpost.PlacementActor.Placement.01"
+            },
+            {
+              "buildingTag": "Outpost.BuildingActor.Building.02",
+              "placedTag": "Outpost.PlacementActor.Placement.00"
+            },
+            {
+              "buildingTag": "Outpost.BuildingActor.Building.03",
+              "placedTag": "Outpost.PlacementActor.Placement.05"
+            }
+          ],
+          "accountsWithEditPermission": [
+            "b7a2f61a84b144cba6033bc2db89711e"
+          ],
+          "highestEnduranceWaveReached": 0
+        }
+      },
+      "quantity": 1
+    },
+    "b5ae6c9e-ae78-446b-bbd9-877e8b7a9cf7": {
+      "templateId": "Outpost:outpostcore_pve_01",
+      "attributes": {
+        "cloud_save_info": {
+          "saveCount": 74,
+          "savedRecords": [
+            {
+              "recordIndex": 0,
+              "archiveNumber": 0,
+              "recordFilename": "b5ae6c9e-ae78-446b-bbd9-877e8b7a9cf7_r0_a0.sav"
+            }
+          ]
+        },
+        "level": 10,
+        "outpost_core_info": {
+          "placedBuildings": [
+            {
+              "buildingTag": "Outpost.BuildingActor.Building.00",
+              "placedTag": "Outpost.PlacementActor.Placement.01"
+            },
+            {
+              "buildingTag": "Outpost.BuildingActor.Building.01",
+              "placedTag": "Outpost.PlacementActor.Placement.00"
+            },
+            {
+              "buildingTag": "Outpost.BuildingActor.Building.02",
+              "placedTag": "Outpost.PlacementActor.Placement.02"
+            },
+            {
+              "buildingTag": "Outpost.BuildingActor.Building.03",
+              "placedTag": "Outpost.PlacementActor.Placement.05"
+            }
+          ],
+          "accountsWithEditPermission": [
+            "b7a2f61a84b144cba6033bc2db89711e",
+            "b2cd97d84d014ae3be831f9837db3f95"
+          ],
+          "highestEnduranceWaveReached": 0
+        }
+      },
+      "quantity": 1
+    },
+    "1a150139-2c0a-4fd0-8e56-ddce54d1cd79": {
+      "templateId": "Outpost:outpostcore_pve_04",
+      "attributes": {
+        "cloud_save_info": {
+          "saveCount": 62,
+          "savedRecords": [
+            {
+              "recordIndex": 0,
+              "archiveNumber": 0,
+              "recordFilename": "1a150139-2c0a-4fd0-8e56-ddce54d1cd79_r0_a0.sav"
+            }
+          ]
+        },
+        "level": 5,
+        "outpost_core_info": {
+          "placedBuildings": [
+            {
+              "buildingTag": "Outpost.BuildingActor.Building.00",
+              "placedTag": "Outpost.PlacementActor.Placement.01"
+            },
+            {
+              "buildingTag": "Outpost.BuildingActor.Building.01",
+              "placedTag": "Outpost.PlacementActor.Placement.00"
+            },
+            {
+              "buildingTag": "Outpost.BuildingActor.Building.02",
+              "placedTag": "Outpost.PlacementActor.Placement.03"
+            },
+            {
+              "buildingTag": "Outpost.BuildingActor.Building.03",
+              "placedTag": "Outpost.PlacementActor.Placement.04"
+            },
+            {
+              "buildingTag": "Outpost.BuildingActor.Building.04",
+              "placedTag": "Outpost.PlacementActor.Placement.02"
+            }
+          ],
+          "accountsWithEditPermission": [
+            "b7a2f61a84b144cba6033bc2db89711e"
+          ],
+          "highestEnduranceWaveReached": 0
+        }
+      },
+      "quantity": 1
+    }
+  },
+  "stats": {
+    "attributes": {}
+  },
+  "commandRevision": 443
+}

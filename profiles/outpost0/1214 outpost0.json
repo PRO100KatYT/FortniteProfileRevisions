@@ -1,0 +1,52 @@
+{
+  "_id": "3612821a4f0f4312bbdc57f1ce794096",
+  "created": "2023-04-08T15:16:36.522Z",
+  "updated": "2023-04-13T06:07:17.625Z",
+  "rvn": 1214,
+  "wipeNumber": 9,
+  "accountId": "929ccb6c363e437d9a356f4d89fd66c9",
+  "profileId": "outpost0",
+  "version": "remove_bars_from_profile_mar_2022",
+  "items": {
+    "fa5ef005-0fa0-45ca-9f5f-d18076784332": {
+      "templateId": "WorldItem:stoneitemdata",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1
+      },
+      "quantity": 1934
+    },
+    "d290373f-bc2e-4b4a-980f-b3566b446361": {
+      "templateId": "WorldItem:wooditemdata",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1
+      },
+      "quantity": 2675
+    },
+    "e366d56d-6983-4929-915a-5e652276b3f9": {
+      "templateId": "WorldItem:stoneitemdata",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": ""
+      },
+      "quantity": 154
+    }
+  },
+  "stats": {
+    "attributes": {}
+  },
+  "profileLockCode": "642A7826DB54480B94C11294E1D64BE9",
+  "profileLockExpiration": "2023-04-13T06:12:47.600Z",
+  "commandRevision": 61
+}

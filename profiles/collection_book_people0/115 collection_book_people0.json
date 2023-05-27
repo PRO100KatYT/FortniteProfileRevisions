@@ -1,0 +1,1145 @@
+{
+  "_id": "eeeb47dc74bf4174b4677bc903634943",
+  "created": "2023-04-08T15:16:36.546Z",
+  "updated": "2023-04-28T11:45:03.308Z",
+  "rvn": 115,
+  "wipeNumber": 9,
+  "accountId": "929ccb6c363e437d9a356f4d89fd66c9",
+  "profileId": "collection_book_people0",
+  "version": "refund_plasmacannon_december_2022",
+  "items": {
+    "9887f57a-dc28-4903-8f6e-bb82b36c325d": {
+      "templateId": "CollectionBookPage:pagespecial_rad_heroes",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "bb1c4f3a-0ed7-4678-b44f-f1fe5f2e0e0f": {
+      "templateId": "Worker:managerengineer_uc_t01",
+      "attributes": {
+        "gender": "2",
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "managerSynergy": "Homebase.Manager.IsEngineer",
+        "portrait": "WorkerPortrait:IconDef-ManagerPortrait-Engineer-F01",
+        "building_slot_used": -1
+      },
+      "quantity": 1
+    },
+    "3ce259e7-53c1-4ab3-bfb2-5a75f2f46c5c": {
+      "templateId": "CollectionBookPage:pageheroes_commando",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 1
+    },
+    "1a969e77-2fc1-49e6-9a29-d145013de2ff": {
+      "templateId": "Hero:hid_commando_011_uc_t01",
+      "attributes": {
+        "hero_name": "DefaultHeroName",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "building_slot_used": -1
+      },
+      "quantity": 1
+    },
+    "aa37ebe7-7880-48af-bef0-fbb0168f4d79": {
+      "templateId": "Worker:managerengineer_c_t01",
+      "attributes": {
+        "gender": "1",
+        "personality": "Homebase.Worker.Personality.IsCompetitive",
+        "level": 1,
+        "squad_slot_idx": -1,
+        "managerSynergy": "Homebase.Manager.IsEngineer",
+        "portrait": "WorkerPortrait:IconDef-ManagerPortrait-Engineer-M01",
+        "building_slot_used": -1
+      },
+      "quantity": 1
+    },
+    "c49a4fb1-f48b-473e-9969-81d8d4dad197": {
+      "templateId": "CollectionBookPage:pagespecial_birthday_heroes",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "538911c5-26f7-4b9e-a794-f3f854725c5d": {
+      "templateId": "Hero:hid_ninja_smokedimmak_r_t01",
+      "attributes": {
+        "hero_name": "DefaultHeroName",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "building_slot_used": -1
+      },
+      "quantity": 1
+    },
+    "fc23632b-448d-4210-bc62-722e6c8a0107": {
+      "templateId": "Worker:workerbasic_r_t01",
+      "attributes": {
+        "gender": "2",
+        "personality": "Homebase.Worker.Personality.IsDreamer",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "WorkerPortrait:IconDef-WorkerPortrait-Dreamer-F03",
+        "building_slot_used": -1,
+        "set_bonus": "Homebase.Worker.SetBonus.IsResistanceLow"
+      },
+      "quantity": 1
+    },
+    "5ade2538-57f0-4d4f-a2f1-40857cd9dbf2": {
+      "templateId": "Worker:workerbasic_r_t01",
+      "attributes": {
+        "gender": "2",
+        "personality": "Homebase.Worker.Personality.IsDependable",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "WorkerPortrait:IconDef-WorkerPortrait-Dependable-F03",
+        "building_slot_used": -1,
+        "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
+      },
+      "quantity": 1
+    },
+    "8efc1a64-0e69-4434-9c71-fb0c457f54fe": {
+      "templateId": "Hero:hid_constructor_plasmadamage_r_t01",
+      "attributes": {
+        "hero_name": "DefaultHeroName",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "building_slot_used": -1
+      },
+      "quantity": 1
+    },
+    "dafb6c4e-965f-4eab-bd1d-8942ba329079": {
+      "templateId": "Hero:hid_outlander_punchphase_r_t01",
+      "attributes": {
+        "hero_name": "DefaultHeroName",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "building_slot_used": -1
+      },
+      "quantity": 1
+    },
+    "04126632-9841-4dd1-9a93-8919dcdd2f7b": {
+      "templateId": "Worker:managergadgeteer_c_t01",
+      "attributes": {
+        "gender": "1",
+        "personality": "Homebase.Worker.Personality.IsAdventurous",
+        "level": 1,
+        "squad_slot_idx": -1,
+        "managerSynergy": "Homebase.Manager.IsGadgeteer",
+        "portrait": "WorkerPortrait:IconDef-ManagerPortrait-Gadgeteer-M01",
+        "building_slot_used": -1
+      },
+      "quantity": 1
+    },
+    "9775dd6c-e782-425f-93fd-bd33ff060b5e": {
+      "templateId": "CollectionBookPage:pagespecial_starterpacks_machinistmina",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "16728533-5af2-4ea5-aa70-8e716780cbb0": {
+      "templateId": "Worker:workerbasic_c_t01",
+      "attributes": {
+        "gender": "2",
+        "personality": "Homebase.Worker.Personality.IsAdventurous",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "WorkerPortrait:IconDef-WorkerPortrait-Adventurous-F03",
+        "building_slot_used": -1,
+        "set_bonus": "Homebase.Worker.SetBonus.IsMeleeDamageLow"
+      },
+      "quantity": 1
+    },
+    "01de4f8e-e3b2-4698-9a57-f97f28488108": {
+      "templateId": "Worker:workerbasic_r_t01",
+      "attributes": {
+        "gender": "2",
+        "personality": "Homebase.Worker.Personality.IsCompetitive",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "WorkerPortrait:IconDef-WorkerPortrait-Competitive-F01",
+        "building_slot_used": -1,
+        "set_bonus": "Homebase.Worker.SetBonus.IsShieldRegenLow"
+      },
+      "quantity": 1
+    },
+    "16dd3c1d-88c6-4122-b7e9-66ea8037e52d": {
+      "templateId": "Hero:hid_constructor_basehyper_r_t01",
+      "attributes": {
+        "hero_name": "DefaultHeroName",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "building_slot_used": -1
+      },
+      "quantity": 1
+    },
+    "9ccabbba-2411-433b-a57e-ea6a74891cef": {
+      "templateId": "CollectionBookPage:pagespecial_wildwest_heroes",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "4efa8551-de47-48a4-83da-fdc914fb7825": {
+      "templateId": "CollectionBookPage:pagespecial_winter2017_heroes",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "d125d500-7c44-4097-b676-996a32caa862": {
+      "templateId": "Hero:hid_constructor_015_r_t01",
+      "attributes": {
+        "hero_name": "DefaultHeroName",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "building_slot_used": -1
+      },
+      "quantity": 1
+    },
+    "df7631a7-d9f1-4f3c-9bf2-41437d48815b": {
+      "templateId": "Worker:managermartialartist_uc_t01",
+      "attributes": {
+        "gender": "1",
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "managerSynergy": "Homebase.Manager.IsMartialArtist",
+        "portrait": "WorkerPortrait:IconDef-ManagerPortrait-MartialArtist-M01",
+        "building_slot_used": -1
+      },
+      "quantity": 1
+    },
+    "2eb4e343-5553-4bc3-bcbe-16c062c445f6": {
+      "templateId": "Defender:did_defendermelee_basic_uc_t01",
+      "attributes": {
+        "level": 1,
+        "squad_slot_idx": -1,
+        "alterations": [
+          "Alteration:aid_att_def_weapondamage_club",
+          "Alteration:aid_att_def_maxhealth"
+        ]
+      },
+      "quantity": 1
+    },
+    "10d82ffc-ef68-4747-8805-4ace5eb87ce2": {
+      "templateId": "Hero:hid_outlander_zoneharvest_uc_t01",
+      "attributes": {
+        "hero_name": "DefaultHeroName",
+        "level": 1,
+        "squad_slot_idx": -1,
+        "building_slot_used": -1
+      },
+      "quantity": 1
+    },
+    "f4f6fe2d-ec59-4ad0-b5cb-289d1669a9ef": {
+      "templateId": "Worker:workerbasic_c_t01",
+      "attributes": {
+        "gender": "1",
+        "personality": "Homebase.Worker.Personality.IsDreamer",
+        "level": 1,
+        "squad_slot_idx": -1,
+        "portrait": "WorkerPortrait:IconDef-WorkerPortrait-Dreamer-M03",
+        "building_slot_used": -1,
+        "set_bonus": "Homebase.Worker.SetBonus.IsTrapDamageLow"
+      },
+      "quantity": 1
+    },
+    "6d4a9e33-114e-4cef-87f1-e74f4982a66f": {
+      "templateId": "CollectionBookPage:pagespecial_dinosaurs_heroes",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "7c6cc929-8126-4874-91b3-fafa3e33c8ce": {
+      "templateId": "CollectionBookPage:pagespecial_stormzone_heroes",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "0bcf6a53-183e-4a72-9179-ab0111bedb90": {
+      "templateId": "Hero:hid_ninja_starsassassin_uc_t01",
+      "attributes": {
+        "hero_name": "DefaultHeroName",
+        "level": 1,
+        "squad_slot_idx": -1,
+        "building_slot_used": -1
+      },
+      "quantity": 1
+    },
+    "50ca6a4d-ab86-4e4a-b6ec-e8cf6e55afef": {
+      "templateId": "Hero:hid_constructor_hammertank_uc_t01",
+      "attributes": {
+        "hero_name": "DefaultHeroName",
+        "level": 1,
+        "squad_slot_idx": -1,
+        "building_slot_used": -1
+      },
+      "quantity": 1
+    },
+    "bcbe8fcf-fbb1-4262-afcf-40102eb3e859": {
+      "templateId": "Hero:hid_constructor_007_uc_t01",
+      "attributes": {
+        "hero_name": "DefaultHeroName",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "building_slot_used": -1
+      },
+      "quantity": 1
+    },
+    "a6a844ce-a1d8-4394-8cfc-db2efebdd865": {
+      "templateId": "CollectionBookPage:pagespecial_starterpacks_powerhouse",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "2956da70-8515-4f97-8a0a-3e117e4a9d92": {
+      "templateId": "CollectionBookPage:pagespecial_halloween2017_heroes",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "aaecf148-407c-4a82-bc2e-f94205e52803": {
+      "templateId": "Hero:hid_ninja_007_uc_t01",
+      "attributes": {
+        "hero_name": "DefaultHeroName",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "building_slot_used": -1
+      },
+      "quantity": 1
+    },
+    "e76e4825-92a8-416d-a688-eba5575ae22d": {
+      "templateId": "Hero:hid_commando_guntough_uc_t01",
+      "attributes": {
+        "hero_name": "DefaultHeroName",
+        "level": 1,
+        "squad_slot_idx": -1,
+        "building_slot_used": -1
+      },
+      "quantity": 1
+    },
+    "3ece367e-b7ce-4efb-9282-9ea5e2b3d1f7": {
+      "templateId": "Worker:managersoldier_c_t01",
+      "attributes": {
+        "gender": "2",
+        "personality": "Homebase.Worker.Personality.IsAdventurous",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "managerSynergy": "Homebase.Manager.IsSoldier",
+        "portrait": "WorkerPortrait:IconDef-ManagerPortrait-Marksman-F01",
+        "building_slot_used": -1
+      },
+      "quantity": 1
+    },
+    "f61c056a-e042-480f-85a8-15c80cc1b9d9": {
+      "templateId": "CollectionBookPage:pageheroes_constructor",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 1
+    },
+    "374a7426-0be3-4cca-b177-c1be2ab66c5f": {
+      "templateId": "Defender:did_defendershotgun_basic_uc_t01",
+      "attributes": {
+        "level": 1,
+        "squad_slot_idx": -1,
+        "alterations": [
+          "Alteration:aid_att_def_critchance_ranged",
+          "Alteration:aid_att_def_maxshield"
+        ]
+      },
+      "quantity": 1
+    },
+    "d155ce42-edf6-4ec4-9cf6-5831467af7c9": {
+      "templateId": "CollectionBookPage:pagespecial_wild_heroes",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "953fe2ff-b963-43d7-bb0b-87f0b9544205": {
+      "templateId": "Worker:managersoldier_uc_t01",
+      "attributes": {
+        "gender": "2",
+        "personality": "Homebase.Worker.Personality.IsAdventurous",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "managerSynergy": "Homebase.Manager.IsSoldier",
+        "portrait": "WorkerPortrait:IconDef-ManagerPortrait-Marksman-F01",
+        "building_slot_used": -1
+      },
+      "quantity": 1
+    },
+    "4332c97b-40a8-47b1-b7af-0c97c7fe25f9": {
+      "templateId": "Worker:workerbasic_c_t01",
+      "attributes": {
+        "gender": "1",
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "level": 1,
+        "squad_slot_idx": -1,
+        "portrait": "WorkerPortrait:IconDef-WorkerPortrait-Curious-M02",
+        "building_slot_used": -1,
+        "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
+      },
+      "quantity": 1
+    },
+    "8727b3ad-bb61-4138-be09-35c4b7138d54": {
+      "templateId": "Worker:managerdoctor_uc_t01",
+      "attributes": {
+        "gender": "2",
+        "personality": "Homebase.Worker.Personality.IsDreamer",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "managerSynergy": "Homebase.Manager.IsDoctor",
+        "portrait": "WorkerPortrait:IconDef-ManagerPortrait-Doctor-F01",
+        "building_slot_used": -1
+      },
+      "quantity": 1
+    },
+    "d19f6d3b-f94a-4565-addf-dd33b6ed994b": {
+      "templateId": "CollectionBookPage:pagespecial_starterpack_lars",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "23aad9d6-0e2a-48af-bb6f-756dfb341f2c": {
+      "templateId": "CollectionBookPage:pageheroes_ninja",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 1
+    },
+    "80201ab2-30e7-4b5e-9c63-03f7da5c1406": {
+      "templateId": "Hero:hid_ninja_slashbreath_r_t01",
+      "attributes": {
+        "hero_name": "DefaultHeroName",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "building_slot_used": -1
+      },
+      "quantity": 1
+    },
+    "3d3e7444-b580-4c6a-87a2-9a6bdfed81ac": {
+      "templateId": "Worker:managergadgeteer_uc_t01",
+      "attributes": {
+        "gender": "2",
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "managerSynergy": "Homebase.Manager.IsGadgeteer",
+        "portrait": "WorkerPortrait:IconDef-ManagerPortrait-Gadgeteer-F01",
+        "building_slot_used": -1
+      },
+      "quantity": 1
+    },
+    "ae79a36e-f99d-4d6f-bae3-c96adabba394": {
+      "templateId": "CollectionBookPage:pagespecial_springiton2018_people",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "b088663c-c710-4824-881d-31746b65179e": {
+      "templateId": "Worker:workerbasic_uc_t01",
+      "attributes": {
+        "gender": "2",
+        "personality": "Homebase.Worker.Personality.IsDependable",
+        "level": 1,
+        "squad_slot_idx": -1,
+        "portrait": "WorkerPortrait:IconDef-WorkerPortrait-Dependable-F01",
+        "building_slot_used": -1,
+        "set_bonus": "Homebase.Worker.SetBonus.IsFortitudeLow"
+      },
+      "quantity": 1
+    },
+    "69e329c2-d9b9-4da2-9776-6d5af59b4846": {
+      "templateId": "Worker:workerbasic_uc_t01",
+      "attributes": {
+        "gender": "1",
+        "personality": "Homebase.Worker.Personality.IsCompetitive",
+        "level": 1,
+        "squad_slot_idx": -1,
+        "portrait": "WorkerPortrait:IconDef-WorkerPortrait-Competitive-M02",
+        "building_slot_used": -1,
+        "set_bonus": "Homebase.Worker.SetBonus.IsMeleeDamageLow"
+      },
+      "quantity": 1
+    },
+    "c2cdc3dc-49e1-4d23-b68e-7814febdd987": {
+      "templateId": "Worker:managertrainer_c_t01",
+      "attributes": {
+        "gender": "1",
+        "personality": "Homebase.Worker.Personality.IsDependable",
+        "level": 1,
+        "squad_slot_idx": -1,
+        "managerSynergy": "Homebase.Manager.IsTrainer",
+        "portrait": "WorkerPortrait:IconDef-ManagerPortrait-PersonalTrainer-M01",
+        "building_slot_used": -1
+      },
+      "quantity": 1
+    },
+    "e7656bf8-122f-479c-ab18-e90ebdf0c421": {
+      "templateId": "CollectionBookPage:pagespecial_blockbuster2018_heroes",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "632a57e5-3f31-4b59-9abe-796464384a04": {
+      "templateId": "Worker:workerbasic_c_t01",
+      "attributes": {
+        "gender": "1",
+        "personality": "Homebase.Worker.Personality.IsCompetitive",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "WorkerPortrait:IconDef-WorkerPortrait-Competitive-M01",
+        "building_slot_used": -1,
+        "set_bonus": "Homebase.Worker.SetBonus.IsResistanceLow"
+      },
+      "quantity": 1
+    },
+    "3d3e3ac4-892d-4f43-8e33-5b44fb0cc607": {
+      "templateId": "Hero:hid_constructor_rushbase_uc_t01",
+      "attributes": {
+        "hero_name": "DefaultHeroName",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "building_slot_used": -1
+      },
+      "quantity": 1
+    },
+    "92709960-08c3-4e9b-87d5-17ef903dfe1d": {
+      "templateId": "CollectionBookPage:pagespecial_steelwool_heroes",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "8e0244cf-3c8c-4528-9ec7-2ed97c75a930": {
+      "templateId": "Defender:did_defendersniper_basic_c_t01",
+      "attributes": {
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "alterations": [
+          "Alteration:aid_att_def_shieldregen"
+        ]
+      },
+      "quantity": 1
+    },
+    "99e133a0-19c8-4459-b95c-9c08fe75ef02": {
+      "templateId": "Hero:hid_ninja_slashtail_r_t01",
+      "attributes": {
+        "hero_name": "DefaultHeroName",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "building_slot_used": -1
+      },
+      "quantity": 1
+    },
+    "f77366ff-3e26-4c79-a676-dbfbcdf4bdcb": {
+      "templateId": "CollectionBookPage:pagespecial_halloween2017_workers",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "474d42c4-dad1-4157-a320-5a44c3db442b": {
+      "templateId": "Worker:workerbasic_r_t01",
+      "attributes": {
+        "gender": "1",
+        "personality": "Homebase.Worker.Personality.IsPragmatic",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "WorkerPortrait:IconDef-WorkerPortrait-Pragmatic-M02",
+        "building_slot_used": -1,
+        "set_bonus": "Homebase.Worker.SetBonus.IsMeleeDamageLow"
+      },
+      "quantity": 1
+    },
+    "73735bfe-1a0e-46d7-8bf8-b649905cb57b": {
+      "templateId": "CollectionBookPage:pagespecial_starterpacks_metalteamleader",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "e73839a2-1638-4a98-8ff0-30948c3fd206": {
+      "templateId": "Worker:workerbasic_c_t01",
+      "attributes": {
+        "gender": "1",
+        "personality": "Homebase.Worker.Personality.IsAnalytical",
+        "level": 1,
+        "squad_slot_idx": -1,
+        "portrait": "WorkerPortrait:IconDef-WorkerPortrait-Analytical-M03",
+        "building_slot_used": -1,
+        "set_bonus": "Homebase.Worker.SetBonus.IsShieldRegenLow"
+      },
+      "quantity": 1
+    },
+    "1103a25c-00e0-443f-8d8f-f4c24207604a": {
+      "templateId": "Hero:hid_commando_011_r_t01",
+      "attributes": {
+        "hero_name": "DefaultHeroName",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "building_slot_used": -1
+      },
+      "quantity": 1
+    },
+    "87815739-023a-4bea-bb20-3a0059b13b5e": {
+      "templateId": "Defender:did_defendershotgun_basic_c_t01",
+      "attributes": {
+        "level": 1,
+        "squad_slot_idx": -1,
+        "alterations": [
+          "Alteration:aid_att_def_weapondamage_shotgun"
+        ]
+      },
+      "quantity": 1
+    },
+    "c858e26c-8e76-4a58-ac93-b3ef4051d980": {
+      "templateId": "CollectionBookPage:pagepeople_defenders",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 1
+    },
+    "2416bea6-b2d3-405d-abb2-16d556016359": {
+      "templateId": "CollectionBookPage:pagespecial_starterpacks_roboray",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "bebfe507-06d4-416b-a368-86730baa5451": {
+      "templateId": "Hero:hid_constructor_007_r_t01",
+      "attributes": {
+        "hero_name": "DefaultHeroName",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "building_slot_used": -1
+      },
+      "quantity": 1
+    },
+    "43322a25-3833-4d23-aae5-49c476221e65": {
+      "templateId": "Worker:workerbasic_r_t01",
+      "attributes": {
+        "gender": "1",
+        "personality": "Homebase.Worker.Personality.IsCooperative",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "WorkerPortrait:IconDef-WorkerPortrait-Cooperative-M01",
+        "building_slot_used": -1,
+        "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
+      },
+      "quantity": 1
+    },
+    "3719e783-8c52-4a39-b06a-38a2e3034d8b": {
+      "templateId": "Worker:workerbasic_r_t01",
+      "attributes": {
+        "gender": "2",
+        "personality": "Homebase.Worker.Personality.IsAdventurous",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "WorkerPortrait:IconDef-WorkerPortrait-Adventurous-F02",
+        "building_slot_used": -1,
+        "set_bonus": "Homebase.Worker.SetBonus.IsAbilityDamageLow"
+      },
+      "quantity": 1
+    },
+    "0fa73180-e051-4a91-9ca3-4cd096d134dd": {
+      "templateId": "Worker:workerbasic_r_t01",
+      "attributes": {
+        "gender": "2",
+        "personality": "Homebase.Worker.Personality.IsAnalytical",
+        "level": 1,
+        "squad_slot_idx": -1,
+        "portrait": "WorkerPortrait:IconDef-WorkerPortrait-Analytical-F01",
+        "building_slot_used": -1,
+        "set_bonus": "Homebase.Worker.SetBonus.IsShieldRegenLow"
+      },
+      "quantity": 1
+    },
+    "93d5c8b0-2c34-49aa-bb96-54450e583e28": {
+      "templateId": "CollectionBookPage:pagepeople_uniqueleads",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 1
+    },
+    "a30038a6-fabe-456c-9c83-255cac3ffd72": {
+      "templateId": "Defender:did_defendersniper_basic_uc_t01",
+      "attributes": {
+        "level": 1,
+        "squad_slot_idx": -1,
+        "alterations": [
+          "Alteration:aid_att_def_weapondamage_sniper",
+          "Alteration:aid_att_def_shieldregen"
+        ]
+      },
+      "quantity": 1
+    },
+    "c7092d45-4258-4a5f-80aa-bafd903b7c17": {
+      "templateId": "Worker:workerbasic_uc_t01",
+      "attributes": {
+        "gender": "1",
+        "personality": "Homebase.Worker.Personality.IsDreamer",
+        "level": 1,
+        "squad_slot_idx": -1,
+        "portrait": "WorkerPortrait:IconDef-WorkerPortrait-Dreamer-M01",
+        "building_slot_used": -1,
+        "set_bonus": "Homebase.Worker.SetBonus.IsTrapDamageLow"
+      },
+      "quantity": 1
+    },
+    "0c5eacb4-bf73-4d64-bcbb-61cd02055737": {
+      "templateId": "CollectionBookPage:pagespecial_scavenger_heroes",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "b6c07964-b023-4c87-aec0-799ef897bd18": {
+      "templateId": "CollectionBookPage:pagespecial_roadtrip2018_heroes",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "a2359252-e4ca-4459-9352-97a578c1bffe": {
+      "templateId": "Defender:did_defendermelee_basic_c_t01",
+      "attributes": {
+        "level": 1,
+        "squad_slot_idx": -1,
+        "alterations": [
+          "Alteration:aid_att_def_weapondamage_axe"
+        ]
+      },
+      "quantity": 1
+    },
+    "f76e4d10-225f-4738-8ee6-1e8a158d51af": {
+      "templateId": "Worker:workerbasic_uc_t01",
+      "attributes": {
+        "gender": "1",
+        "personality": "Homebase.Worker.Personality.IsAnalytical",
+        "level": 1,
+        "squad_slot_idx": -1,
+        "portrait": "WorkerPortrait:IconDef-WorkerPortrait-Analytical-M02",
+        "building_slot_used": -1,
+        "set_bonus": "Homebase.Worker.SetBonus.IsAbilityDamageLow"
+      },
+      "quantity": 1
+    },
+    "4ee2f263-7664-4c67-9e97-a02165dd0bc9": {
+      "templateId": "Hero:hid_outlander_zoneharvest_r_t01",
+      "attributes": {
+        "hero_name": "DefaultHeroName",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "building_slot_used": -1
+      },
+      "quantity": 1
+    },
+    "4ad43ef7-52c9-4e96-b006-653745b6df4d": {
+      "templateId": "Worker:workerbasic_c_t01",
+      "attributes": {
+        "gender": "2",
+        "personality": "Homebase.Worker.Personality.IsPragmatic",
+        "level": 1,
+        "squad_slot_idx": -1,
+        "portrait": "WorkerPortrait:IconDef-WorkerPortrait-Pragmatic-F02",
+        "building_slot_used": -1,
+        "set_bonus": "Homebase.Worker.SetBonus.IsRangedDamageLow"
+      },
+      "quantity": 1
+    },
+    "fe24bb53-66d5-416b-b510-6343eaf1e28a": {
+      "templateId": "Defender:did_defenderassault_basic_c_t01",
+      "attributes": {
+        "level": 1,
+        "squad_slot_idx": -1,
+        "alterations": [
+          "Alteration:aid_att_def_reload"
+        ]
+      },
+      "quantity": 1
+    },
+    "accf9d8b-1a34-49af-b04f-2d2c426c836f": {
+      "templateId": "CollectionBookPage:pagespecial_homebase_heroes",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "f349edd4-d237-4af2-b2e4-42e88dfc207d": {
+      "templateId": "Worker:managerdoctor_c_t01",
+      "attributes": {
+        "gender": "1",
+        "personality": "Homebase.Worker.Personality.IsAnalytical",
+        "level": 1,
+        "squad_slot_idx": -1,
+        "managerSynergy": "Homebase.Manager.IsDoctor",
+        "portrait": "WorkerPortrait:IconDef-ManagerPortrait-Doctor-M01",
+        "building_slot_used": -1
+      },
+      "quantity": 1
+    },
+    "7fecf181-dd53-4c72-931a-1547f8b80ed3": {
+      "templateId": "Defender:did_defenderpistol_basic_uc_t01",
+      "attributes": {
+        "level": 1,
+        "squad_slot_idx": -1,
+        "alterations": [
+          "Alteration:aid_att_def_critdamage_ranged",
+          "Alteration:aid_att_def_maxhealth"
+        ]
+      },
+      "quantity": 1
+    },
+    "b52bc25c-1707-487d-a169-5962f7dee9bd": {
+      "templateId": "CollectionBookPage:pagespecial_shadowops_heroes",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "65dfc397-6d6a-4ec0-837b-9cc02e775c8f": {
+      "templateId": "CollectionBookPage:pagespecial_starterpacks_samuraiscrapper",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "6d33c50e-081b-40bc-a58d-7d07b735a43f": {
+      "templateId": "Worker:workerbasic_c_t01",
+      "attributes": {
+        "gender": "1",
+        "personality": "Homebase.Worker.Personality.IsCooperative",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "WorkerPortrait:IconDef-WorkerPortrait-Cooperative-M02",
+        "building_slot_used": -1,
+        "set_bonus": "Homebase.Worker.SetBonus.IsAbilityDamageLow"
+      },
+      "quantity": 1
+    },
+    "5dc1d643-fc04-45da-aa88-96ad57cf3ed9": {
+      "templateId": "Hero:hid_outlander_spherefragment_uc_t01",
+      "attributes": {
+        "hero_name": "DefaultHeroName",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "building_slot_used": -1
+      },
+      "quantity": 1
+    },
+    "b46a3dcf-f919-477b-9679-58170feac84a": {
+      "templateId": "Hero:hid_commando_008_r_t01",
+      "attributes": {
+        "hero_name": "DefaultHeroName",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "building_slot_used": -1
+      },
+      "quantity": 1
+    },
+    "495ed064-c8cb-4573-9838-4eaeef9210fa": {
+      "templateId": "CollectionBookPage:pagespecial_starterpack_kevin",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "a7ddeec5-c9b0-4d90-9ac1-635fb11ad48b": {
+      "templateId": "CollectionBookPage:pagespecial_chinesenewyear2018_heroes",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "ff7f04a5-dcc6-436c-b06f-b8aeb55a1566": {
+      "templateId": "Hero:hid_commando_007_uc_t01",
+      "attributes": {
+        "hero_name": "DefaultHeroName",
+        "level": 1,
+        "squad_slot_idx": -1,
+        "building_slot_used": -1
+      },
+      "quantity": 1
+    },
+    "a9aacbef-abd9-4860-ac50-fbbdca37f159": {
+      "templateId": "Hero:hid_outlander_015_f_v1_r_t01",
+      "attributes": {
+        "hero_name": "DefaultHeroName",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "building_slot_used": -1
+      },
+      "quantity": 1
+    },
+    "0663cc59-5c6f-4955-a1c1-d61f94960671": {
+      "templateId": "CollectionBookPage:pagespecial_starterpack_lokbot",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "89b0a980-ffc1-4b16-8f59-7eb911cdc570": {
+      "templateId": "CollectionBookPage:pagespecial_artdeco_heroes",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "8f0e6b86-5763-4eb0-9389-879f8770e5fe": {
+      "templateId": "CollectionBookPage:pagespecial_heroes_spy",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "56c634e3-c74b-4e06-ae80-97bdd67e786a": {
+      "templateId": "Hero:hid_ninja_015_f_v1_uc_t01",
+      "attributes": {
+        "hero_name": "DefaultHeroName",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "building_slot_used": -1
+      },
+      "quantity": 1
+    },
+    "db3a4a43-fed1-4e01-b914-a0d442cb0e78": {
+      "templateId": "Worker:managerexplorer_c_t01",
+      "attributes": {
+        "gender": "1",
+        "personality": "Homebase.Worker.Personality.IsCooperative",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "managerSynergy": "Homebase.Manager.IsExplorer",
+        "portrait": "WorkerPortrait:IconDef-ManagerPortrait-Explorer-M01",
+        "building_slot_used": -1
+      },
+      "quantity": 1
+    },
+    "b21b2545-322a-4ce7-bd89-67dbc34bc3ed": {
+      "templateId": "CollectionBookPage:pagespecial_pirates_heroes",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "cacf9ce0-e114-4a77-b3ad-61dfefb0059b": {
+      "templateId": "CollectionBookPage:pageheroes_outlander",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 1
+    },
+    "b5f493a9-1e47-4c8b-a8cf-94dd20373d48": {
+      "templateId": "Worker:workerbasic_uc_t01",
+      "attributes": {
+        "gender": "2",
+        "personality": "Homebase.Worker.Personality.IsAdventurous",
+        "level": 1,
+        "squad_slot_idx": -1,
+        "portrait": "WorkerPortrait:IconDef-WorkerPortrait-Adventurous-F02",
+        "building_slot_used": -1,
+        "set_bonus": "Homebase.Worker.SetBonus.IsTrapDurabilityHigh"
+      },
+      "quantity": 1
+    },
+    "53a99bd7-97fc-44d3-9a28-42b084693122": {
+      "templateId": "Defender:did_defenderassault_basic_uc_t01",
+      "attributes": {
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "alterations": [
+          "Alteration:aid_att_def_weapondamage_assault",
+          "Alteration:aid_att_def_maxhealth"
+        ]
+      },
+      "quantity": 1
+    },
+    "53d34b98-07fa-4049-b513-5490ccdddce2": {
+      "templateId": "Hero:hid_commando_grenadegun_uc_t01",
+      "attributes": {
+        "hero_name": "DefaultHeroName",
+        "level": 1,
+        "squad_slot_idx": -1,
+        "building_slot_used": -1
+      },
+      "quantity": 1
+    },
+    "9679b12e-e6b5-4781-a562-6d5b252de066": {
+      "templateId": "Worker:workerbasic_r_t01",
+      "attributes": {
+        "gender": "1",
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "portrait": "WorkerPortrait:IconDef-WorkerPortrait-Curious-M03",
+        "building_slot_used": -1,
+        "set_bonus": "Homebase.Worker.SetBonus.IsFortitudeLow"
+      },
+      "quantity": 1
+    },
+    "4e54ce9a-dd0a-4b4d-88d8-844a165f21d0": {
+      "templateId": "CollectionBookPage:pagespecial_stormzonecyber_heroes",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "f6450f72-c1a5-44ce-92b2-0fd575fb999a": {
+      "templateId": "Worker:workerbasic_uc_t01",
+      "attributes": {
+        "gender": "2",
+        "personality": "Homebase.Worker.Personality.IsPragmatic",
+        "level": 1,
+        "squad_slot_idx": -1,
+        "portrait": "WorkerPortrait:IconDef-WorkerPortrait-Pragmatic-F03",
+        "building_slot_used": -1,
+        "set_bonus": "Homebase.Worker.SetBonus.IsTrapDamageLow"
+      },
+      "quantity": 1
+    },
+    "eddda77f-e671-4f2d-8207-3232029c28df": {
+      "templateId": "Worker:workerbasic_uc_t01",
+      "attributes": {
+        "gender": "1",
+        "personality": "Homebase.Worker.Personality.IsCooperative",
+        "level": 1,
+        "squad_slot_idx": -1,
+        "portrait": "WorkerPortrait:IconDef-WorkerPortrait-Cooperative-M03",
+        "building_slot_used": -1,
+        "set_bonus": "Homebase.Worker.SetBonus.IsResistanceLow"
+      },
+      "quantity": 1
+    },
+    "e04e1993-d2be-48f7-ae87-b060cbdff8fb": {
+      "templateId": "Hero:hid_outlander_punchphase_uc_t01",
+      "attributes": {
+        "hero_name": "DefaultHeroName",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "building_slot_used": -1
+      },
+      "quantity": 1
+    },
+    "d6636763-d189-4a34-b12f-1a4287345d8e": {
+      "templateId": "CollectionBookPage:pagepeople_leads",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 1
+    },
+    "867c9e53-7225-4b71-a565-3aa86f0debd8": {
+      "templateId": "CollectionBookPage:pagespecila_retroscifi_heroes",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "e135780a-033f-48c6-ba99-a6dd34b8945a": {
+      "templateId": "CollectionBookPage:pagepromo_heroes_bbpromo",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "708d0d0c-c9a5-4beb-b89c-4a692fa2a676": {
+      "templateId": "CollectionBookPage:pagepeople_survivors",
+      "attributes": {
+        "sectionStates": [
+          {
+            "section": "section_Survivors_Uncommon_2",
+            "state": "Completed"
+          },
+          {
+            "section": "section_Survivors_Uncommon_1",
+            "state": "Completed"
+          },
+          {
+            "section": "section_Survivors_Common_1",
+            "state": "Completed"
+          },
+          {
+            "section": "section_Survivors_Rare_2",
+            "state": "Completed"
+          },
+          {
+            "section": "section_Survivors_Rare_1",
+            "state": "Completed"
+          }
+        ],
+        "state": "Active"
+      },
+      "quantity": 1
+    },
+    "1914d37c-4652-47bc-be98-c242675c2d79": {
+      "templateId": "Worker:workerbasic_uc_t01",
+      "attributes": {
+        "gender": "1",
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "level": 1,
+        "squad_slot_idx": -1,
+        "portrait": "WorkerPortrait:IconDef-WorkerPortrait-Curious-M01",
+        "building_slot_used": -1,
+        "set_bonus": "Homebase.Worker.SetBonus.IsAbilityDamageLow"
+      },
+      "quantity": 1
+    }
+  },
+  "stats": {
+    "attributes": {}
+  },
+  "commandRevision": 12
+}

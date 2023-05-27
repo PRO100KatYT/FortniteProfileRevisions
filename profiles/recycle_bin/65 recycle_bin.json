@@ -1,0 +1,568 @@
+{
+  "_id": "10c91d7ac19e465eaac873ac88fa3f54",
+  "created": "2023-04-08T15:16:36.515Z",
+  "updated": "2023-05-26T14:40:03.356Z",
+  "rvn": 65,
+  "wipeNumber": 1,
+  "accountId": "929ccb6c363e437d9a356f4d89fd66c9",
+  "profileId": "recycle_bin",
+  "version": "refund_plasmacannon_december_2022",
+  "items": {
+    "8afd9e1f-1afd-4553-bb88-5b19627d249e": {
+      "templateId": "Worker:workerbasic_c_t01",
+      "attributes": {
+        "inventory_overflow_date": "2023-05-26T14:40:02.241Z",
+        "gender": "2",
+        "personality": "Homebase.Worker.Personality.IsAdventurous",
+        "level": 1,
+        "squad_slot_idx": -1,
+        "portrait": "WorkerPortrait:IconDef-WorkerPortrait-Adventurous-F01",
+        "building_slot_used": -1,
+        "set_bonus": "Homebase.Worker.SetBonus.IsRangedDamageLow"
+      },
+      "quantity": 1
+    },
+    "65f33caa-004f-4e0e-92ac-d0c6d96a81ef": {
+      "templateId": "RecycleBin:recycle_receipt",
+      "attributes": {
+        "date": "2023-05-01T18:55:49.349Z",
+        "result": {
+          "AccountResource:personnelxp": 3000,
+          "AccountResource:reagent_people": 100
+        },
+        "itemId": "51c5ebe1-f442-4f0e-9022-521131f3f626",
+        "sequence": 509,
+        "rarityGroup": "quality"
+      },
+      "quantity": 1
+    },
+    "c914d7dd-fdb2-42ee-8ccc-78734e100cbe": {
+      "templateId": "Schematic:sid_wall_wood_spikes_c_t01",
+      "attributes": {
+        "inventory_overflow_date": "2023-05-26T14:40:02.242Z",
+        "level": 1,
+        "alterations": [
+          "Alteration:aid_att_damage_physical_t02",
+          "Alteration:aid_att_critchance_t02",
+          "Alteration:aid_att_damage_t02",
+          "Alteration:aid_att_critchance_t02",
+          "Alteration:aid_att_maxdurability_trap_t03",
+          "Alteration:aid_att_maxdurability_trap_t03"
+        ]
+      },
+      "quantity": 1
+    },
+    "07b21cb9-f243-49e3-8ec3-d8c743dfa7c2": {
+      "templateId": "Schematic:sid_wall_wood_spikes_c_t01",
+      "attributes": {
+        "inventory_overflow_date": "2023-05-26T14:40:02.233Z",
+        "level": 1,
+        "alterations": [
+          "Alteration:aid_att_damage_physical_t01",
+          "Alteration:aid_att_maxdurability_trap_t02",
+          "Alteration:aid_att_damage_t02",
+          "Alteration:aid_att_maxdurability_trap_t02",
+          "Alteration:aid_att_maxdurability_trap_t03",
+          "Alteration:aid_att_buildingheal_t03"
+        ]
+      },
+      "quantity": 1
+    },
+    "e5178b7e-c623-4235-83e3-693d0609c515": {
+      "templateId": "Worker:workerbasic_uc_t01",
+      "attributes": {
+        "inventory_overflow_date": "2023-05-26T14:40:02.237Z",
+        "gender": "1",
+        "personality": "Homebase.Worker.Personality.IsCurious",
+        "level": 1,
+        "squad_slot_idx": -1,
+        "portrait": "WorkerPortrait:IconDef-WorkerPortrait-Curious-M01",
+        "building_slot_used": -1,
+        "set_bonus": "Homebase.Worker.SetBonus.IsShieldRegenLow"
+      },
+      "quantity": 1
+    },
+    "24ffe484-2d6f-4a36-a9da-db0f13965693": {
+      "templateId": "RecycleBin:recycle_receipt",
+      "attributes": {
+        "date": "2023-05-26T14:40:03.331Z",
+        "result": {
+          "AccountResource:personnelxp": 200,
+          "AccountResource:reagent_people": 1
+        },
+        "itemId": "8afd9e1f-1afd-4553-bb88-5b19627d249e",
+        "sequence": 556,
+        "rarityGroup": "other"
+      },
+      "quantity": 1
+    },
+    "4411561f-5ab9-40b5-9289-b2c08830ab37": {
+      "templateId": "RecycleBin:recycle_receipt",
+      "attributes": {
+        "date": "2023-05-01T18:55:49.349Z",
+        "result": {
+          "AccountResource:personnelxp": 3000,
+          "AccountResource:reagent_people": 100
+        },
+        "itemId": "4797046f-38dc-4262-a85b-ca2d110732cb",
+        "sequence": 508,
+        "rarityGroup": "quality"
+      },
+      "quantity": 1
+    },
+    "6b9ce998-a4bc-484d-9d4f-46bb493852f1": {
+      "templateId": "Schematic:sid_pistol_auto_uc_ore_t01",
+      "attributes": {
+        "inventory_overflow_date": "2023-05-26T14:40:02.238Z",
+        "level": 1,
+        "alterations": [
+          "Alteration:aid_att_firerate_ranged_t01",
+          "Alteration:aid_att_damage_t02",
+          "Alteration:aid_att_damage_physical_t02",
+          "Alteration:aid_att_magazinesize_t02",
+          "Alteration:aid_conditional_stunned_dmgbonus_t03",
+          "Alteration:aid_g_onrangedfire_stackbuff_damage"
+        ]
+      },
+      "quantity": 1
+    },
+    "51c5ebe1-f442-4f0e-9022-521131f3f626": {
+      "templateId": "Worker:managerengineer_r_t01",
+      "attributes": {
+        "gender": "1",
+        "personality": "Homebase.Worker.Personality.IsCooperative",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "managerSynergy": "Homebase.Manager.IsEngineer",
+        "portrait": "WorkerPortrait:IconDef-ManagerPortrait-Engineer-M01",
+        "building_slot_used": -1
+      },
+      "quantity": 1
+    },
+    "ff7dc605-0e4a-4e31-91ba-52dd8b6b596e": {
+      "templateId": "RecycleBin:recycle_receipt",
+      "attributes": {
+        "date": "2023-05-26T14:39:58.523Z",
+        "result": {
+          "AccountResource:personnelxp": 200,
+          "AccountResource:reagent_people": 1
+        },
+        "itemId": "cb3d41cd-c385-4123-ac7f-db722d93eadb",
+        "sequence": 549,
+        "rarityGroup": "other"
+      },
+      "quantity": 1
+    },
+    "f681e5f9-b94a-4706-96ee-f6c60aa5d7cb": {
+      "templateId": "Schematic:sid_edged_sword_heavy_c_ore_t01",
+      "attributes": {
+        "inventory_overflow_date": "2023-05-26T14:40:02.234Z",
+        "level": 1,
+        "alterations": [
+          "Alteration:aid_att_firerate_melee_t01",
+          "Alteration:aid_att_maxdurability_t02",
+          "Alteration:aid_att_damage_physical_t02",
+          "Alteration:aid_att_heavyattackstaminacost_t03",
+          "Alteration:aid_conditional_afflicted_dmgbonus_t03",
+          "Alteration:aid_g_weapon_ondmg_applysnare_v2"
+        ]
+      },
+      "quantity": 1
+    },
+    "1e0a691a-d656-4588-8e0c-3431a02ece70": {
+      "templateId": "RecycleBin:recycle_receipt",
+      "attributes": {
+        "date": "2023-05-26T14:40:03.329Z",
+        "result": {
+          "AccountResource:reagent_weapons": 5,
+          "AccountResource:schematicxp": 400
+        },
+        "itemId": "6b9ce998-a4bc-484d-9d4f-46bb493852f1",
+        "sequence": 553,
+        "rarityGroup": "other"
+      },
+      "quantity": 1
+    },
+    "a0a8b708-380e-45d3-83f5-c5f28cb35659": {
+      "templateId": "Schematic:sid_shotgun_standard_c_ore_t01",
+      "attributes": {
+        "inventory_overflow_date": "2023-05-26T14:40:02.243Z",
+        "level": 1,
+        "alterations": [
+          "Alteration:aid_att_reloadspeed_ranged_t02",
+          "Alteration:aid_att_reloadspeed_ranged_t02",
+          "Alteration:aid_ele_energy_t02",
+          "Alteration:aid_att_critdamage_t03",
+          "Alteration:aid_conditional_slowed_dmgbonus_t03",
+          "Alteration:aid_g_ranged_headshot_explodeondeath_v2"
+        ]
+      },
+      "quantity": 1
+    },
+    "2e7dc839-275a-46cb-a161-6c51864b95b1": {
+      "templateId": "Schematic:sid_pistol_auto_uc_ore_t01",
+      "attributes": {
+        "inventory_overflow_date": "2023-05-26T14:40:02.239Z",
+        "level": 1,
+        "alterations": [
+          "Alteration:aid_att_firerate_ranged_t01",
+          "Alteration:aid_att_magazinesize_t01",
+          "Alteration:aid_ele_fire_t02",
+          "Alteration:aid_att_magazinesize_t03",
+          "Alteration:aid_conditional_slowed_dmgbonus_t03",
+          "Alteration:aid_g_weapon_ondmg_applysnare_v2"
+        ]
+      },
+      "quantity": 1
+    },
+    "482f23af-e0d1-4256-af73-4b8b1ab45279": {
+      "templateId": "RecycleBin:recycle_receipt",
+      "attributes": {
+        "date": "2023-05-26T14:40:03.332Z",
+        "result": {
+          "AccountResource:reagent_traps": 1,
+          "AccountResource:schematicxp": 200
+        },
+        "itemId": "c914d7dd-fdb2-42ee-8ccc-78734e100cbe",
+        "sequence": 557,
+        "rarityGroup": "other"
+      },
+      "quantity": 1
+    },
+    "de29a871-ee27-4553-818c-21e49780ad25": {
+      "templateId": "RecycleBin:recycle_receipt",
+      "attributes": {
+        "date": "2023-05-26T14:40:03.338Z",
+        "result": {
+          "AccountResource:reagent_weapons": 1,
+          "AccountResource:schematicxp": 200
+        },
+        "itemId": "f681e5f9-b94a-4706-96ee-f6c60aa5d7cb",
+        "sequence": 564,
+        "rarityGroup": "other"
+      },
+      "quantity": 1
+    },
+    "7328e63c-12fc-45cd-97bf-30c47ad3880e": {
+      "templateId": "RecycleBin:recycle_receipt",
+      "attributes": {
+        "date": "2023-05-26T14:40:03.337Z",
+        "result": {
+          "AccountResource:reagent_traps": 1,
+          "AccountResource:schematicxp": 200
+        },
+        "itemId": "07b21cb9-f243-49e3-8ec3-d8c743dfa7c2",
+        "sequence": 563,
+        "rarityGroup": "other"
+      },
+      "quantity": 1
+    },
+    "92a297e8-de3a-4d4a-86b5-a3171b68983d": {
+      "templateId": "RecycleBin:recycle_receipt",
+      "attributes": {
+        "date": "2023-05-26T14:40:03.334Z",
+        "result": {
+          "AccountResource:personnelxp": 200,
+          "AccountResource:reagent_people": 1
+        },
+        "itemId": "c5498c55-b888-4be6-b9d3-511d50c9650d",
+        "sequence": 559,
+        "rarityGroup": "other"
+      },
+      "quantity": 1
+    },
+    "c5498c55-b888-4be6-b9d3-511d50c9650d": {
+      "templateId": "Worker:workerbasic_c_t01",
+      "attributes": {
+        "inventory_overflow_date": "2023-05-26T14:40:02.238Z",
+        "gender": "2",
+        "personality": "Homebase.Worker.Personality.IsAdventurous",
+        "level": 1,
+        "squad_slot_idx": -1,
+        "portrait": "WorkerPortrait:IconDef-WorkerPortrait-Adventurous-F02",
+        "building_slot_used": -1,
+        "set_bonus": "Homebase.Worker.SetBonus.IsFortitudeLow"
+      },
+      "quantity": 1
+    },
+    "2e7d1cfc-26ad-4b93-b999-063d9b72bcc1": {
+      "templateId": "Schematic:sid_floor_spikes_wood_c_t01",
+      "attributes": {
+        "inventory_overflow_date": "2023-05-26T14:40:02.240Z",
+        "level": 1,
+        "alterations": [
+          "Alteration:aid_att_damage_physical_t01",
+          "Alteration:aid_att_damage_t01",
+          "Alteration:aid_att_critdamage_t02",
+          "Alteration:aid_att_damage_t03",
+          "Alteration:aid_att_critdamage_t03",
+          "Alteration:aid_att_buildingheal_t03"
+        ]
+      },
+      "quantity": 1
+    },
+    "590979dc-c2a9-44c2-881b-26b54fc439b2": {
+      "templateId": "RecycleBin:recycle_receipt",
+      "attributes": {
+        "date": "2023-05-26T14:40:03.328Z",
+        "result": {
+          "AccountResource:personnelxp": 400,
+          "AccountResource:reagent_people": 5
+        },
+        "itemId": "e5178b7e-c623-4235-83e3-693d0609c515",
+        "sequence": 551,
+        "rarityGroup": "other"
+      },
+      "quantity": 1
+    },
+    "91b03a7e-ac46-4259-ac79-31e1ce3a52f4": {
+      "templateId": "RecycleBin:recycle_receipt",
+      "attributes": {
+        "date": "2023-05-26T14:40:03.323Z",
+        "result": {
+          "AccountResource:reagent_weapons": 5,
+          "AccountResource:schematicxp": 400
+        },
+        "itemId": "2e7dc839-275a-46cb-a161-6c51864b95b1",
+        "sequence": 550,
+        "rarityGroup": "other"
+      },
+      "quantity": 1
+    },
+    "175a1b18-11a5-4360-b3fd-230c0e94e4d0": {
+      "templateId": "RecycleBin:recycle_receipt",
+      "attributes": {
+        "date": "2023-05-26T14:40:03.331Z",
+        "result": {
+          "AccountResource:reagent_weapons": 1,
+          "AccountResource:schematicxp": 200
+        },
+        "itemId": "99c71114-ce40-4c3f-884c-511cd7b82939",
+        "sequence": 555,
+        "rarityGroup": "other"
+      },
+      "quantity": 1
+    },
+    "d8327ce0-8cb8-498b-ae25-d1790ec0569b": {
+      "templateId": "RecycleBin:recycle_receipt",
+      "attributes": {
+        "date": "2023-05-01T18:55:49.350Z",
+        "result": {
+          "AccountResource:personnelxp": 3000,
+          "AccountResource:reagent_people": 100
+        },
+        "itemId": "ce5d157e-015b-47f7-aeee-2dadcfd5f153",
+        "sequence": 510,
+        "rarityGroup": "quality"
+      },
+      "quantity": 1
+    },
+    "710ea66f-42be-4a6c-848a-306b9cbc4418": {
+      "templateId": "RecycleBin:recycle_receipt",
+      "attributes": {
+        "date": "2023-05-26T14:40:03.330Z",
+        "result": {
+          "AccountResource:reagent_weapons": 1,
+          "AccountResource:schematicxp": 200
+        },
+        "itemId": "a0a8b708-380e-45d3-83f5-c5f28cb35659",
+        "sequence": 554,
+        "rarityGroup": "other"
+      },
+      "quantity": 1
+    },
+    "b4a7b900-4880-433b-b1fc-2fcbd6702863": {
+      "templateId": "RecycleBin:recycle_receipt",
+      "attributes": {
+        "date": "2023-05-26T14:40:03.335Z",
+        "result": {
+          "AccountResource:reagent_traps": 1,
+          "AccountResource:schematicxp": 200
+        },
+        "itemId": "ad202cde-d5bb-41e9-b956-b5b6e243fb0d",
+        "sequence": 560,
+        "rarityGroup": "other"
+      },
+      "quantity": 1
+    },
+    "ad202cde-d5bb-41e9-b956-b5b6e243fb0d": {
+      "templateId": "Schematic:sid_ceiling_electric_single_c_t01",
+      "attributes": {
+        "inventory_overflow_date": "2023-05-26T14:40:02.234Z",
+        "level": 1,
+        "alterations": [
+          "Alteration:aid_ele_energy_intrin_t01",
+          "Alteration:aid_att_damage_t01",
+          "Alteration:aid_att_reloadspeed_trap_t02",
+          "Alteration:aid_att_critchance_t02",
+          "Alteration:aid_att_damage_t03",
+          "Alteration:aid_att_buildingheal_t03"
+        ]
+      },
+      "quantity": 1
+    },
+    "99c71114-ce40-4c3f-884c-511cd7b82939": {
+      "templateId": "Schematic:sid_assault_auto_c_ore_t01",
+      "attributes": {
+        "inventory_overflow_date": "2023-05-26T14:40:02.241Z",
+        "level": 1,
+        "alterations": [
+          "Alteration:aid_att_critchance_t02",
+          "Alteration:aid_att_maxdurability_t02",
+          "Alteration:aid_ele_nature_t02",
+          "Alteration:aid_att_critchance_t02",
+          "Alteration:aid_conditional_boss_dmgbonus_t03",
+          "Alteration:aid_g_affliction_v2"
+        ]
+      },
+      "quantity": 1
+    },
+    "f8c96608-2c72-4007-9d61-71307444964e": {
+      "templateId": "Worker:workerbasic_uc_t01",
+      "attributes": {
+        "inventory_overflow_date": "2023-05-26T14:40:02.234Z",
+        "gender": "2",
+        "personality": "Homebase.Worker.Personality.IsDependable",
+        "level": 1,
+        "squad_slot_idx": -1,
+        "portrait": "WorkerPortrait:IconDef-WorkerPortrait-Dependable-F01",
+        "building_slot_used": -1,
+        "set_bonus": "Homebase.Worker.SetBonus.IsRangedDamageLow"
+      },
+      "quantity": 1
+    },
+    "3ea10183-c825-4180-9f55-4de2fdd7174e": {
+      "templateId": "RecycleBin:recycle_receipt",
+      "attributes": {
+        "date": "2023-05-26T14:40:03.334Z",
+        "result": {
+          "AccountResource:reagent_weapons": 1,
+          "AccountResource:schematicxp": 200
+        },
+        "itemId": "6ec16b59-9449-4ba1-a678-89e49011d5d4",
+        "sequence": 558,
+        "rarityGroup": "other"
+      },
+      "quantity": 1
+    },
+    "5518ca64-7aed-4e85-a4d2-3d0659d268a0": {
+      "templateId": "RecycleBin:recycle_receipt",
+      "attributes": {
+        "date": "2023-05-26T14:40:03.336Z",
+        "result": {
+          "AccountResource:reagent_people": 1,
+          "AccountResource:heroxp": 100
+        },
+        "itemId": "f0f74c4a-ce74-4d30-8fad-d9d03158527d",
+        "sequence": 562,
+        "rarityGroup": "other"
+      },
+      "quantity": 1
+    },
+    "05ca62fa-aefa-4328-9ca6-92ba886352ba": {
+      "templateId": "RecycleBin:recycle_receipt",
+      "attributes": {
+        "date": "2023-05-26T14:40:03.336Z",
+        "result": {
+          "AccountResource:reagent_traps": 1,
+          "AccountResource:schematicxp": 200
+        },
+        "itemId": "2e7d1cfc-26ad-4b93-b999-063d9b72bcc1",
+        "sequence": 561,
+        "rarityGroup": "other"
+      },
+      "quantity": 1
+    },
+    "f0f74c4a-ce74-4d30-8fad-d9d03158527d": {
+      "templateId": "Defender:did_defendersniper_basic_c_t01",
+      "attributes": {
+        "inventory_overflow_date": "2023-05-26T14:40:02.237Z",
+        "level": 1,
+        "squad_slot_idx": -1,
+        "alterations": [
+          "Alteration:aid_att_def_critdamage_ranged"
+        ]
+      },
+      "quantity": 1
+    },
+    "ce5d157e-015b-47f7-aeee-2dadcfd5f153": {
+      "templateId": "Worker:managermartialartist_r_t01",
+      "attributes": {
+        "gender": "1",
+        "personality": "Homebase.Worker.Personality.IsPragmatic",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "managerSynergy": "Homebase.Manager.IsMartialArtist",
+        "portrait": "WorkerPortrait:IconDef-ManagerPortrait-MartialArtist-M01",
+        "building_slot_used": -1
+      },
+      "quantity": 1
+    },
+    "4797046f-38dc-4262-a85b-ca2d110732cb": {
+      "templateId": "Worker:managerengineer_r_t01",
+      "attributes": {
+        "gender": "1",
+        "personality": "Homebase.Worker.Personality.IsAdventurous",
+        "level": 1,
+        "item_seen": true,
+        "squad_slot_idx": 0,
+        "managerSynergy": "Homebase.Manager.IsEngineer",
+        "portrait": "WorkerPortrait:IconDef-ManagerPortrait-Engineer-M01",
+        "building_slot_used": -1
+      },
+      "quantity": 1
+    },
+    "c2086e9f-3217-4d21-91cb-88265db0adcb": {
+      "templateId": "RecycleBin:recycle_receipt",
+      "attributes": {
+        "date": "2023-05-26T14:40:03.329Z",
+        "result": {
+          "AccountResource:personnelxp": 400,
+          "AccountResource:reagent_people": 5
+        },
+        "itemId": "f8c96608-2c72-4007-9d61-71307444964e",
+        "sequence": 552,
+        "rarityGroup": "other"
+      },
+      "quantity": 1
+    },
+    "cb3d41cd-c385-4123-ac7f-db722d93eadb": {
+      "templateId": "Worker:workerbasic_c_t01",
+      "attributes": {
+        "inventory_overflow_date": "2023-05-26T14:39:57.307Z",
+        "gender": "1",
+        "personality": "Homebase.Worker.Personality.IsCompetitive",
+        "level": 1,
+        "squad_slot_idx": -1,
+        "portrait": "WorkerPortrait:IconDef-WorkerPortrait-Competitive-M01",
+        "building_slot_used": -1,
+        "set_bonus": "Homebase.Worker.SetBonus.IsTrapDamageLow"
+      },
+      "quantity": 1
+    },
+    "6ec16b59-9449-4ba1-a678-89e49011d5d4": {
+      "templateId": "Schematic:sid_pistol_sixshooter_c_ore_t01",
+      "attributes": {
+        "inventory_overflow_date": "2023-05-26T14:40:02.236Z",
+        "level": 1,
+        "alterations": [
+          "Alteration:aid_att_critdamage_t01",
+          "Alteration:aid_att_maxdurability_t02",
+          "Alteration:aid_att_damage_physical_t02",
+          "Alteration:aid_att_critchance_t03",
+          "Alteration:aid_conditional_boss_dmgbonus_t03",
+          "Alteration:aid_g_weapon_ondmg_applysnare_v2"
+        ]
+      },
+      "quantity": 1
+    }
+  },
+  "stats": {
+    "attributes": {
+      "next_receipt_sequence": 565
+    }
+  },
+  "commandRevision": 32
+}

@@ -1,0 +1,72 @@
+{
+  "_id": "eeeb47dc74bf4174b4677bc903634943",
+  "created": "2023-04-08T15:16:36.546Z",
+  "updated": "2023-04-08T17:10:32.211Z",
+  "rvn": 3,
+  "wipeNumber": 9,
+  "accountId": "929ccb6c363e437d9a356f4d89fd66c9",
+  "profileId": "collection_book_people0",
+  "version": "refund_plasmacannon_december_2022",
+  "items": {
+    "3ce259e7-53c1-4ab3-bfb2-5a75f2f46c5c": {
+      "templateId": "CollectionBookPage:pageheroes_commando",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 1
+    },
+    "c858e26c-8e76-4a58-ac93-b3ef4051d980": {
+      "templateId": "CollectionBookPage:pagepeople_defenders",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 1
+    },
+    "cacf9ce0-e114-4a77-b3ad-61dfefb0059b": {
+      "templateId": "CollectionBookPage:pageheroes_outlander",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 1
+    },
+    "f61c056a-e042-480f-85a8-15c80cc1b9d9": {
+      "templateId": "CollectionBookPage:pageheroes_constructor",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 1
+    },
+    "708d0d0c-c9a5-4beb-b89c-4a692fa2a676": {
+      "templateId": "CollectionBookPage:pagepeople_survivors",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 1
+    },
+    "23aad9d6-0e2a-48af-bb6f-756dfb341f2c": {
+      "templateId": "CollectionBookPage:pageheroes_ninja",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 1
+    },
+    "93d5c8b0-2c34-49aa-bb96-54450e583e28": {
+      "templateId": "CollectionBookPage:pagepeople_uniqueleads",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 1
+    },
+    "d6636763-d189-4a34-b12f-1a4287345d8e": {
+      "templateId": "CollectionBookPage:pagepeople_leads",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 1
+    }
+  },
+  "stats": {
+    "attributes": {}
+  },
+  "commandRevision": 1
+}

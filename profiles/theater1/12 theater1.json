@@ -1,0 +1,88 @@
+{
+  "_id": "96c198bd9f59494ab9a34def18796977",
+  "created": "2023-04-08T15:16:36.494Z",
+  "updated": "2023-04-09T17:31:09.910Z",
+  "rvn": 12,
+  "wipeNumber": 9,
+  "accountId": "929ccb6c363e437d9a356f4d89fd66c9",
+  "profileId": "theater1",
+  "version": "fixup_missing_build_tools_mar_2023",
+  "items": {
+    "3623f2e2-d631-4b58-8a21-a8a6277d5b11": {
+      "templateId": "Weapon:edittool",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": ""
+      },
+      "quantity": 1
+    },
+    "6c7e756c-40e1-4d00-a5c8-66aa400cb7ae": {
+      "templateId": "Weapon:buildingitemdata_wall",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": ""
+      },
+      "quantity": 1
+    },
+    "a00d739f-5919-42d1-b592-14e622fc99b7": {
+      "templateId": "Weapon:buildingitemdata_roofs",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": ""
+      },
+      "quantity": 1
+    },
+    "42a4c248-7aed-4d8c-8870-f75fabdf1975": {
+      "templateId": "Weapon:buildingitemdata_stair_w",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": ""
+      },
+      "quantity": 1
+    },
+    "afe898a0-2d49-49a8-9401-b5066d385749": {
+      "templateId": "Weapon:buildingitemdata_floor",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": ""
+      },
+      "quantity": 1
+    }
+  },
+  "stats": {
+    "attributes": {
+      "player_loadout": {
+        "bPlayerIsNew": false,
+        "primaryQuickBarRecord": {
+          "slots": []
+        },
+        "secondaryQuickBarRecord": {
+          "slots": []
+        },
+        "zonesCompleted": 1
+      }
+    }
+  },
+  "profileLockExpiration": "0001-01-01T00:00:00.000Z",
+  "commandRevision": 2
+}

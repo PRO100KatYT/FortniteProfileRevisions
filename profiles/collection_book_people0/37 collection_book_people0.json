@@ -1,0 +1,289 @@
+{
+  "_id": "eeeb47dc74bf4174b4677bc903634943",
+  "created": "2023-04-08T15:16:36.546Z",
+  "updated": "2023-04-10T09:05:19.263Z",
+  "rvn": 37,
+  "wipeNumber": 9,
+  "accountId": "929ccb6c363e437d9a356f4d89fd66c9",
+  "profileId": "collection_book_people0",
+  "version": "refund_plasmacannon_december_2022",
+  "items": {
+    "2956da70-8515-4f97-8a0a-3e117e4a9d92": {
+      "templateId": "CollectionBookPage:pagespecial_halloween2017_heroes",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "65dfc397-6d6a-4ec0-837b-9cc02e775c8f": {
+      "templateId": "CollectionBookPage:pagespecial_starterpacks_samuraiscrapper",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "9887f57a-dc28-4903-8f6e-bb82b36c325d": {
+      "templateId": "CollectionBookPage:pagespecial_rad_heroes",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "3ce259e7-53c1-4ab3-bfb2-5a75f2f46c5c": {
+      "templateId": "CollectionBookPage:pageheroes_commando",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 1
+    },
+    "495ed064-c8cb-4573-9838-4eaeef9210fa": {
+      "templateId": "CollectionBookPage:pagespecial_starterpack_kevin",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "a7ddeec5-c9b0-4d90-9ac1-635fb11ad48b": {
+      "templateId": "CollectionBookPage:pagespecial_chinesenewyear2018_heroes",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "f77366ff-3e26-4c79-a676-dbfbcdf4bdcb": {
+      "templateId": "CollectionBookPage:pagespecial_halloween2017_workers",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "c49a4fb1-f48b-473e-9969-81d8d4dad197": {
+      "templateId": "CollectionBookPage:pagespecial_birthday_heroes",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "f61c056a-e042-480f-85a8-15c80cc1b9d9": {
+      "templateId": "CollectionBookPage:pageheroes_constructor",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 1
+    },
+    "73735bfe-1a0e-46d7-8bf8-b649905cb57b": {
+      "templateId": "CollectionBookPage:pagespecial_starterpacks_metalteamleader",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "0663cc59-5c6f-4955-a1c1-d61f94960671": {
+      "templateId": "CollectionBookPage:pagespecial_starterpack_lokbot",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "9775dd6c-e782-425f-93fd-bd33ff060b5e": {
+      "templateId": "CollectionBookPage:pagespecial_starterpacks_machinistmina",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "89b0a980-ffc1-4b16-8f59-7eb911cdc570": {
+      "templateId": "CollectionBookPage:pagespecial_artdeco_heroes",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "d155ce42-edf6-4ec4-9cf6-5831467af7c9": {
+      "templateId": "CollectionBookPage:pagespecial_wild_heroes",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "8f0e6b86-5763-4eb0-9389-879f8770e5fe": {
+      "templateId": "CollectionBookPage:pagespecial_heroes_spy",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "c858e26c-8e76-4a58-ac93-b3ef4051d980": {
+      "templateId": "CollectionBookPage:pagepeople_defenders",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 1
+    },
+    "2416bea6-b2d3-405d-abb2-16d556016359": {
+      "templateId": "CollectionBookPage:pagespecial_starterpacks_roboray",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "b21b2545-322a-4ce7-bd89-67dbc34bc3ed": {
+      "templateId": "CollectionBookPage:pagespecial_pirates_heroes",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "cacf9ce0-e114-4a77-b3ad-61dfefb0059b": {
+      "templateId": "CollectionBookPage:pageheroes_outlander",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 1
+    },
+    "9ccabbba-2411-433b-a57e-ea6a74891cef": {
+      "templateId": "CollectionBookPage:pagespecial_wildwest_heroes",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "4efa8551-de47-48a4-83da-fdc914fb7825": {
+      "templateId": "CollectionBookPage:pagespecial_winter2017_heroes",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "d19f6d3b-f94a-4565-addf-dd33b6ed994b": {
+      "templateId": "CollectionBookPage:pagespecial_starterpack_lars",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "23aad9d6-0e2a-48af-bb6f-756dfb341f2c": {
+      "templateId": "CollectionBookPage:pageheroes_ninja",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 1
+    },
+    "93d5c8b0-2c34-49aa-bb96-54450e583e28": {
+      "templateId": "CollectionBookPage:pagepeople_uniqueleads",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 1
+    },
+    "0c5eacb4-bf73-4d64-bcbb-61cd02055737": {
+      "templateId": "CollectionBookPage:pagespecial_scavenger_heroes",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "b6c07964-b023-4c87-aec0-799ef897bd18": {
+      "templateId": "CollectionBookPage:pagespecial_roadtrip2018_heroes",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "4e54ce9a-dd0a-4b4d-88d8-844a165f21d0": {
+      "templateId": "CollectionBookPage:pagespecial_stormzonecyber_heroes",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "ae79a36e-f99d-4d6f-bae3-c96adabba394": {
+      "templateId": "CollectionBookPage:pagespecial_springiton2018_people",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "e7656bf8-122f-479c-ab18-e90ebdf0c421": {
+      "templateId": "CollectionBookPage:pagespecial_blockbuster2018_heroes",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "92709960-08c3-4e9b-87d5-17ef903dfe1d": {
+      "templateId": "CollectionBookPage:pagespecial_steelwool_heroes",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "d6636763-d189-4a34-b12f-1a4287345d8e": {
+      "templateId": "CollectionBookPage:pagepeople_leads",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 1
+    },
+    "867c9e53-7225-4b71-a565-3aa86f0debd8": {
+      "templateId": "CollectionBookPage:pagespecila_retroscifi_heroes",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "6d4a9e33-114e-4cef-87f1-e74f4982a66f": {
+      "templateId": "CollectionBookPage:pagespecial_dinosaurs_heroes",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "7c6cc929-8126-4874-91b3-fafa3e33c8ce": {
+      "templateId": "CollectionBookPage:pagespecial_stormzone_heroes",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "accf9d8b-1a34-49af-b04f-2d2c426c836f": {
+      "templateId": "CollectionBookPage:pagespecial_homebase_heroes",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "e135780a-033f-48c6-ba99-a6dd34b8945a": {
+      "templateId": "CollectionBookPage:pagepromo_heroes_bbpromo",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "708d0d0c-c9a5-4beb-b89c-4a692fa2a676": {
+      "templateId": "CollectionBookPage:pagepeople_survivors",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 1
+    },
+    "a6a844ce-a1d8-4394-8cfc-db2efebdd865": {
+      "templateId": "CollectionBookPage:pagespecial_starterpacks_powerhouse",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 0
+    },
+    "b52bc25c-1707-487d-a169-5962f7dee9bd": {
+      "templateId": "CollectionBookPage:pagespecial_shadowops_heroes",
+      "attributes": {
+        "state": "Active"
+      },
+      "quantity": 0
+    }
+  },
+  "stats": {
+    "attributes": {}
+  },
+  "commandRevision": 4
+}

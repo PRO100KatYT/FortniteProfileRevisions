@@ -1,0 +1,59 @@
+{
+  "_id": "87469968aa9b400a981710c4fe67b0e4",
+  "created": "2023-04-08T15:16:36.539Z",
+  "updated": "2023-05-02T11:41:30.432Z",
+  "rvn": 4,
+  "wipeNumber": 9,
+  "accountId": "929ccb6c363e437d9a356f4d89fd66c9",
+  "profileId": "theater2",
+  "version": "remove_bars_from_profile_may_2023",
+  "items": {
+    "709de445-2a9a-48bd-8238-2339c2c567ca": {
+      "templateId": "Weapon:wid_edged_sword_light_c_ore_t01",
+      "attributes": {
+        "loadedAmmo": 0,
+        "durability": 125
+      },
+      "quantity": 1
+    },
+    "adda2f7a-2698-4be0-9cfd-968664dd4e95": {
+      "templateId": "Ammo:ammodatabulletsmedium",
+      "attributes": {},
+      "quantity": 40
+    },
+    "dfff1ef5-2c57-4320-8c7d-1e148c0ab0b1": {
+      "templateId": "Weapon:wid_pistol_sixshooter_c_ore_t01",
+      "attributes": {
+        "loadedAmmo": 6,
+        "baseClipSize": 6,
+        "durability": 125
+      },
+      "quantity": 1
+    }
+  },
+  "stats": {
+    "attributes": {
+      "player_loadout": {
+        "bPlayerIsNew": true,
+        "primaryQuickBarRecord": {
+          "slots": [
+            {},
+            {
+              "items": [
+                "709DE4452A9A48BD82382339C2C567CA"
+              ]
+            },
+            {
+              "items": [
+                "DFFF1EF52C5743208C7D1E148C0AB0B1"
+              ]
+            },
+            {}
+          ]
+        },
+        "zonesCompleted": 0
+      }
+    }
+  },
+  "commandRevision": 1
+}

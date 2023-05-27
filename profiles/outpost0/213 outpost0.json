@@ -1,0 +1,17 @@
+{
+  "_id": "3612821a4f0f4312bbdc57f1ce794096",
+  "created": "2023-04-08T15:16:36.522Z",
+  "updated": "2023-04-09T07:35:41.135Z",
+  "rvn": 213,
+  "wipeNumber": 9,
+  "accountId": "929ccb6c363e437d9a356f4d89fd66c9",
+  "profileId": "outpost0",
+  "version": "remove_bars_from_profile_mar_2022",
+  "items": {},
+  "stats": {
+    "attributes": {}
+  },
+  "profileLockCode": "4BD625DCD4004FB7988521119B226A85",
+  "profileLockExpiration": "2023-04-09T07:41:11.129Z",
+  "commandRevision": 0
+}

@@ -1,0 +1,489 @@
+{
+  "_id": "10c91d7ac19e465eaac873ac88fa3f54",
+  "created": "2023-04-08T15:16:36.515Z",
+  "updated": "2023-05-01T18:54:44.556Z",
+  "rvn": 51,
+  "wipeNumber": 1,
+  "accountId": "929ccb6c363e437d9a356f4d89fd66c9",
+  "profileId": "recycle_bin",
+  "version": "refund_plasmacannon_december_2022",
+  "items": {
+    "b0ee6e80-d5cd-47f5-85dd-f10a9303ebc4": {
+      "templateId": "RecycleBin:recycle_receipt",
+      "attributes": {
+        "date": "2023-04-28T11:49:44.324Z",
+        "result": {
+          "AccountResource:reagent_weapons": 25,
+          "AccountResource:schematicxp": 750
+        },
+        "itemId": "28beb5a7-8da3-4f03-a412-82d071adf952",
+        "sequence": 480,
+        "rarityGroup": "other"
+      },
+      "quantity": 1
+    },
+    "35c242d4-37c9-4277-8549-be9fe683da43": {
+      "templateId": "Schematic:sid_wall_speaker_uc_t01",
+      "attributes": {
+        "level": 1,
+        "alterations": [
+          "Alteration:aid_att_maxdurability_trap_t02",
+          "Alteration:aid_att_maxdurability_trap_t01",
+          "Alteration:aid_att_maxdurability_trap_t03",
+          "Alteration:aid_att_reloadspeed_trap_t03",
+          "Alteration:aid_att_maxdurability_trap_t03",
+          "Alteration:aid_att_buildingheal_t03"
+        ]
+      },
+      "quantity": 1
+    },
+    "66101086-0dca-40bf-8c9c-00c1da21a075": {
+      "templateId": "Schematic:sid_pistol_semiauto_uc_ore_t01",
+      "attributes": {
+        "level": 1,
+        "alterations": [
+          "Alteration:aid_att_damage_t01",
+          "Alteration:aid_att_damage_t02",
+          "Alteration:aid_ele_energy_t03",
+          "Alteration:aid_att_headshotdamage_t03",
+          "Alteration:aid_conditional_boss_dmgbonus_t03",
+          "Alteration:aid_g_ranged_headshotstreak_dmgbonus_v2"
+        ]
+      },
+      "quantity": 1
+    },
+    "a702b700-bcbc-4849-8af9-cca911b87165": {
+      "templateId": "Schematic:sid_assault_auto_c_ore_t01",
+      "attributes": {
+        "level": 1,
+        "alterations": [
+          "Alteration:aid_att_critdamage_t01",
+          "Alteration:aid_att_damage_t01",
+          "Alteration:aid_ele_energy_t02",
+          "Alteration:aid_att_critdamage_t03",
+          "Alteration:aid_conditional_afflicted_dmgbonus_t03",
+          "Alteration:aid_g_ranged_headshotstreak_dmgbonus_v2"
+        ]
+      },
+      "quantity": 1
+    },
+    "eff25ce7-cbb2-42ca-9e30-2d2bf3a8eb6c": {
+      "templateId": "RecycleBin:recycle_receipt",
+      "attributes": {
+        "date": "2023-04-28T11:49:44.321Z",
+        "result": {
+          "AccountResource:reagent_traps": 25,
+          "AccountResource:schematicxp": 750
+        },
+        "itemId": "d8cc63e9-450e-450f-92c2-c31f5a08b6c2",
+        "sequence": 477,
+        "rarityGroup": "other"
+      },
+      "quantity": 1
+    },
+    "d574cfea-aaf5-4611-a251-ec5e44d43238": {
+      "templateId": "RecycleBin:recycle_receipt",
+      "attributes": {
+        "date": "2023-04-28T11:49:44.326Z",
+        "result": {
+          "AccountResource:reagent_weapons": 25,
+          "AccountResource:schematicxp": 750
+        },
+        "itemId": "36b92b75-9971-4f74-8c40-0fe74dec0b4d",
+        "sequence": 483,
+        "rarityGroup": "other"
+      },
+      "quantity": 1
+    },
+    "d5a3dfba-8d88-4ccf-87d3-772066018a9b": {
+      "templateId": "Schematic:sid_blunt_medium_r_ore_t01",
+      "attributes": {
+        "level": 1,
+        "item_seen": true,
+        "alterations": [
+          "Alteration:aid_att_firerate_melee_t01",
+          "Alteration:aid_att_movementspeed_t01",
+          "Alteration:aid_att_damage_physical_t02",
+          "Alteration:aid_att_firerate_melee_t02",
+          "Alteration:aid_conditional_boss_dmgbonus_t03",
+          "Alteration:aid_g_affliction_v2"
+        ]
+      },
+      "quantity": 1
+    },
+    "d8cc63e9-450e-450f-92c2-c31f5a08b6c2": {
+      "templateId": "Schematic:sid_floor_spikes_wood_r_t01",
+      "attributes": {
+        "level": 1,
+        "alterations": [
+          "Alteration:aid_att_damage_physical_t02",
+          "Alteration:aid_att_damage_t01",
+          "Alteration:aid_att_critdamage_t02",
+          "Alteration:aid_att_damage_t02",
+          "Alteration:aid_att_maxdurability_trap_t03",
+          "Alteration:aid_att_maxdurability_trap_t03"
+        ]
+      },
+      "quantity": 1
+    },
+    "05438cb0-d1cb-434d-b94e-09fede66019e": {
+      "templateId": "RecycleBin:recycle_receipt",
+      "attributes": {
+        "date": "2023-04-28T11:49:44.325Z",
+        "result": {
+          "AccountResource:reagent_weapons": 25,
+          "AccountResource:schematicxp": 750
+        },
+        "itemId": "7bc246b6-9e5b-48eb-bef2-1eb83a3d41bc",
+        "sequence": 482,
+        "rarityGroup": "other"
+      },
+      "quantity": 1
+    },
+    "681fb04e-07aa-46ff-b0b3-04d65fe9fa5d": {
+      "templateId": "RecycleBin:recycle_receipt",
+      "attributes": {
+        "date": "2023-04-28T11:49:44.326Z",
+        "result": {
+          "AccountResource:reagent_weapons": 25,
+          "AccountResource:schematicxp": 750
+        },
+        "itemId": "d5a3dfba-8d88-4ccf-87d3-772066018a9b",
+        "sequence": 484,
+        "rarityGroup": "other"
+      },
+      "quantity": 1
+    },
+    "28beb5a7-8da3-4f03-a412-82d071adf952": {
+      "templateId": "Schematic:sid_assault_semiauto_r_ore_t01",
+      "attributes": {
+        "level": 1,
+        "item_seen": true,
+        "alterations": [
+          "Alteration:aid_att_reloadspeed_ranged_t02",
+          "Alteration:aid_att_magazinesize_t02",
+          "Alteration:aid_ele_water_t02",
+          "Alteration:aid_att_headshotdamage_t03",
+          "Alteration:aid_conditional_boss_dmgbonus_t03",
+          "Alteration:aid_g_standstill_stackbuff_damagevsmist"
+        ]
+      },
+      "quantity": 1
+    },
+    "8d65e98d-bae6-4da5-be41-9e81f8236ccb": {
+      "templateId": "RecycleBin:recycle_receipt",
+      "attributes": {
+        "date": "2023-04-28T11:49:44.322Z",
+        "result": {
+          "AccountResource:reagent_traps": 25,
+          "AccountResource:schematicxp": 750
+        },
+        "itemId": "c490417a-de9a-4a0b-b0cd-36a3eebe8bc8",
+        "sequence": 479,
+        "rarityGroup": "other"
+      },
+      "quantity": 1
+    },
+    "9cac1c71-9902-418d-a19d-7cc06659536d": {
+      "templateId": "RecycleBin:recycle_receipt",
+      "attributes": {
+        "date": "2023-04-28T11:49:44.322Z",
+        "result": {
+          "AccountResource:reagent_traps": 25,
+          "AccountResource:schematicxp": 750
+        },
+        "itemId": "21ab36a7-3d0f-4f0d-81d4-200cb2e47a52",
+        "sequence": 478,
+        "rarityGroup": "other"
+      },
+      "quantity": 1
+    },
+    "c490417a-de9a-4a0b-b0cd-36a3eebe8bc8": {
+      "templateId": "Schematic:sid_floor_spikes_wood_r_t01",
+      "attributes": {
+        "level": 1,
+        "item_seen": true,
+        "alterations": [
+          "Alteration:aid_att_damage_physical_t01",
+          "Alteration:aid_att_critchance_t02",
+          "Alteration:aid_att_damage_t02",
+          "Alteration:aid_att_critchance_t02",
+          "Alteration:aid_att_maxdurability_trap_t03",
+          "Alteration:aid_att_maxdurability_trap_t03"
+        ]
+      },
+      "quantity": 1
+    },
+    "1f732238-9cf8-45d0-8045-49e119dba8ab": {
+      "templateId": "RecycleBin:recycle_receipt",
+      "attributes": {
+        "date": "2023-04-28T11:49:44.321Z",
+        "result": {
+          "AccountResource:reagent_traps": 25,
+          "AccountResource:schematicxp": 750
+        },
+        "itemId": "f08f4df6-3309-4aa9-8880-e74b1718b937",
+        "sequence": 476,
+        "rarityGroup": "other"
+      },
+      "quantity": 1
+    },
+    "f08f4df6-3309-4aa9-8880-e74b1718b937": {
+      "templateId": "Schematic:sid_floor_spikes_wood_r_t01",
+      "attributes": {
+        "level": 1,
+        "item_seen": true,
+        "alterations": [
+          "Alteration:aid_att_damage_physical_t02",
+          "Alteration:aid_att_critchance_t02",
+          "Alteration:aid_att_maxdurability_trap_t02",
+          "Alteration:aid_att_damage_t03",
+          "Alteration:aid_att_maxdurability_trap_t03",
+          "Alteration:aid_att_buildingmaxhealth_t03"
+        ]
+      },
+      "quantity": 1
+    },
+    "21ab36a7-3d0f-4f0d-81d4-200cb2e47a52": {
+      "templateId": "Schematic:sid_floor_spikes_wood_r_t01",
+      "attributes": {
+        "level": 1,
+        "alterations": [
+          "Alteration:aid_att_damage_physical_t02",
+          "Alteration:aid_att_critchance_t02",
+          "Alteration:aid_att_damage_t02",
+          "Alteration:aid_att_damage_t02",
+          "Alteration:aid_att_maxdurability_trap_t02",
+          "Alteration:aid_att_maxdurability_trap_t03"
+        ]
+      },
+      "quantity": 1
+    },
+    "fa0eab86-d120-4ee8-9191-cf4b37d5d977": {
+      "templateId": "Schematic:sid_blunt_hammer_heavy_r_ore_t01",
+      "attributes": {
+        "level": 1,
+        "item_seen": true,
+        "alterations": [
+          "Alteration:aid_att_critchance_t01",
+          "Alteration:aid_att_heavyattackstaminacost_t01",
+          "Alteration:aid_ele_energy_t02",
+          "Alteration:aid_att_heavyattackstaminacost_t02",
+          "Alteration:aid_conditional_stunned_dmgbonus_t03",
+          "Alteration:aid_g_affliction_v2"
+        ]
+      },
+      "quantity": 1
+    },
+    "45693c24-231b-48b9-8ef6-029e0a00921a": {
+      "templateId": "RecycleBin:recycle_receipt",
+      "attributes": {
+        "date": "2023-04-30T05:36:30.137Z",
+        "result": {
+          "AccountResource:reagent_weapons": 5,
+          "AccountResource:schematicxp": 400
+        },
+        "itemId": "9d260788-5725-4485-875e-a51e3c1161bd",
+        "sequence": 487,
+        "rarityGroup": "other"
+      },
+      "quantity": 1
+    },
+    "69933b8a-d57e-4c5c-9d05-84b1b7eb5108": {
+      "templateId": "RecycleBin:recycle_receipt",
+      "attributes": {
+        "date": "2023-05-01T18:54:44.546Z",
+        "result": {
+          "AccountResource:reagent_traps": 5,
+          "AccountResource:schematicxp": 400
+        },
+        "itemId": "35c242d4-37c9-4277-8549-be9fe683da43",
+        "sequence": 491,
+        "rarityGroup": "other"
+      },
+      "quantity": 1
+    },
+    "08dabf6c-eef3-451f-a537-b1534ef8ef4f": {
+      "templateId": "RecycleBin:recycle_receipt",
+      "attributes": {
+        "date": "2023-04-28T11:49:44.327Z",
+        "result": {
+          "AccountResource:reagent_weapons": 25,
+          "AccountResource:schematicxp": 750
+        },
+        "itemId": "fa0eab86-d120-4ee8-9191-cf4b37d5d977",
+        "sequence": 485,
+        "rarityGroup": "other"
+      },
+      "quantity": 1
+    },
+    "9d260788-5725-4485-875e-a51e3c1161bd": {
+      "templateId": "Schematic:sid_blunt_tool_light_uc_ore_t01",
+      "attributes": {
+        "level": 1,
+        "alterations": [
+          "Alteration:aid_att_critdamage_t01",
+          "Alteration:aid_att_maxdurability_t02",
+          "Alteration:aid_att_damage_physical_t03",
+          "Alteration:aid_att_critdamage_t03",
+          "Alteration:aid_conditional_afflicted_dmgbonus_t03",
+          "Alteration:aid_g_affliction_v2"
+        ]
+      },
+      "quantity": 1
+    },
+    "61cc1a35-53aa-47c5-81fc-2a654159d249": {
+      "templateId": "RecycleBin:recycle_receipt",
+      "attributes": {
+        "date": "2023-05-01T18:54:44.544Z",
+        "result": {
+          "AccountResource:reagent_weapons": 5,
+          "AccountResource:schematicxp": 400
+        },
+        "itemId": "5634dfbb-a06d-41ed-a01e-18ebff7ec702",
+        "sequence": 489,
+        "rarityGroup": "other"
+      },
+      "quantity": 1
+    },
+    "e4965157-f782-4861-8678-2993d4d7b597": {
+      "templateId": "Schematic:sid_assault_semiauto_r_ore_t01",
+      "attributes": {
+        "level": 1,
+        "alterations": [
+          "Alteration:aid_att_reloadspeed_ranged_t02",
+          "Alteration:aid_att_magazinesize_t02",
+          "Alteration:aid_att_damage_physical_t02",
+          "Alteration:aid_att_critdamage_t03",
+          "Alteration:aid_conditional_slowed_dmgbonus_t03",
+          "Alteration:aid_g_standstill_stackbuff_damagevsmist"
+        ]
+      },
+      "quantity": 1
+    },
+    "7bc246b6-9e5b-48eb-bef2-1eb83a3d41bc": {
+      "templateId": "Schematic:sid_assault_semiauto_r_ore_t01",
+      "attributes": {
+        "level": 1,
+        "item_seen": true,
+        "alterations": [
+          "Alteration:aid_att_firerate_ranged_t01",
+          "Alteration:aid_att_stability_t01",
+          "Alteration:aid_att_damage_physical_t03",
+          "Alteration:aid_att_magazinesize_t02",
+          "Alteration:aid_conditional_boss_dmgbonus_t03",
+          "Alteration:aid_g_affliction_v2"
+        ]
+      },
+      "quantity": 1
+    },
+    "1405114e-5cdf-456d-b4c1-a404f444854c": {
+      "templateId": "RecycleBin:recycle_receipt",
+      "attributes": {
+        "date": "2023-04-30T05:36:30.138Z",
+        "result": {
+          "AccountResource:reagent_weapons": 1,
+          "AccountResource:schematicxp": 200
+        },
+        "itemId": "a702b700-bcbc-4849-8af9-cca911b87165",
+        "sequence": 488,
+        "rarityGroup": "other"
+      },
+      "quantity": 1
+    },
+    "b7ec29b7-92cb-4ffb-bba9-221ff11bcc78": {
+      "templateId": "RecycleBin:recycle_receipt",
+      "attributes": {
+        "date": "2023-04-30T05:36:30.136Z",
+        "result": {
+          "AccountResource:reagent_weapons": 5,
+          "AccountResource:schematicxp": 400
+        },
+        "itemId": "66101086-0dca-40bf-8c9c-00c1da21a075",
+        "sequence": 486,
+        "rarityGroup": "other"
+      },
+      "quantity": 1
+    },
+    "5634dfbb-a06d-41ed-a01e-18ebff7ec702": {
+      "templateId": "Schematic:sid_pistol_boltrevolver_uc_ore_t01",
+      "attributes": {
+        "level": 1,
+        "alterations": [
+          "Alteration:aid_att_damage_t02",
+          "Alteration:aid_att_magazinesize_t01",
+          "Alteration:aid_att_damage_physical_t02",
+          "Alteration:aid_att_critchance_t02",
+          "Alteration:aid_conditional_afflicted_dmgbonus_t03",
+          "Alteration:aid_g_weapon_ondmg_applysnare_v2"
+        ]
+      },
+      "quantity": 1
+    },
+    "993eaba9-cb37-4171-8c75-76c6128f51ee": {
+      "templateId": "RecycleBin:recycle_receipt",
+      "attributes": {
+        "date": "2023-05-01T18:54:44.545Z",
+        "result": {
+          "AccountResource:reagent_weapons": 5,
+          "AccountResource:schematicxp": 400
+        },
+        "itemId": "9f809af1-9173-461a-bf33-75cb4e7bcd52",
+        "sequence": 490,
+        "rarityGroup": "other"
+      },
+      "quantity": 1
+    },
+    "36b92b75-9971-4f74-8c40-0fe74dec0b4d": {
+      "templateId": "Schematic:sid_blunt_medium_r_ore_t01",
+      "attributes": {
+        "level": 1,
+        "item_seen": true,
+        "alterations": [
+          "Alteration:aid_att_firerate_melee_t01",
+          "Alteration:aid_att_movementspeed_t01",
+          "Alteration:aid_att_damage_physical_t02",
+          "Alteration:aid_att_critchance_t03",
+          "Alteration:aid_conditional_afflicted_dmgbonus_t03",
+          "Alteration:aid_g_onmeleehit_stackbuff_critrate"
+        ]
+      },
+      "quantity": 1
+    },
+    "4a37400c-0723-4d8d-9020-ed23d459db5c": {
+      "templateId": "RecycleBin:recycle_receipt",
+      "attributes": {
+        "date": "2023-04-28T11:49:44.324Z",
+        "result": {
+          "AccountResource:reagent_weapons": 25,
+          "AccountResource:schematicxp": 750
+        },
+        "itemId": "e4965157-f782-4861-8678-2993d4d7b597",
+        "sequence": 481,
+        "rarityGroup": "other"
+      },
+      "quantity": 1
+    },
+    "9f809af1-9173-461a-bf33-75cb4e7bcd52": {
+      "templateId": "Schematic:sid_edged_scythe_uc_ore_t01",
+      "attributes": {
+        "level": 1,
+        "alterations": [
+          "Alteration:aid_att_firerate_melee_t02",
+          "Alteration:aid_att_damage_t02",
+          "Alteration:aid_att_damage_physical_t02",
+          "Alteration:aid_att_critdamage_t03",
+          "Alteration:aid_conditional_afflicted_dmgbonus_t03",
+          "Alteration:aid_g_onmeleekill_regenshields"
+        ]
+      },
+      "quantity": 1
+    }
+  },
+  "stats": {
+    "attributes": {
+      "next_receipt_sequence": 492
+    }
+  },
+  "commandRevision": 25
+}

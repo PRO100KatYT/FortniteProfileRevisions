@@ -1,0 +1,15 @@
+{
+  "_id": "a9137c0a6dc048f98200de9da191d97f",
+  "created": "2023-04-08T15:16:36.539Z",
+  "updated": "2023-04-08T15:16:36.539Z",
+  "rvn": 1,
+  "wipeNumber": 9,
+  "accountId": "929ccb6c363e437d9a356f4d89fd66c9",
+  "profileId": "common_public",
+  "version": "outpost_name_wipe_march_2023",
+  "items": {},
+  "stats": {
+    "attributes": {}
+  },
+  "commandRevision": 0
+}

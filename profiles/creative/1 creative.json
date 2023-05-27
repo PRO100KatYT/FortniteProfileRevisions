@@ -1,0 +1,30 @@
+{
+  "_id": "7404508f378a43eba19079d7a90e3e7d",
+  "created": "2023-04-08T15:16:36.484Z",
+  "updated": "2023-04-08T15:16:36.484Z",
+  "rvn": 1,
+  "wipeNumber": 11,
+  "accountId": "929ccb6c363e437d9a356f4d89fd66c9",
+  "profileId": "creative",
+  "version": "add_creator_portal_permission_march_2023",
+  "items": {
+    "4e0f43d6-e112-479a-ba68-90c4e1fc87b7": {
+      "templateId": "CreativePlot:temperate_medium",
+      "attributes": {
+        "vk_project_id": "bc949e1d-87ce-400a-b392-a75beb36ba38",
+        "level": 1,
+        "islandIndex": 1
+      },
+      "quantity": 1
+    }
+  },
+  "stats": {
+    "attributes": {
+      "max_island_plots": 50,
+      "permissions": [
+        "fortnite:creative:beta:creatorportal"
+      ]
+    }
+  },
+  "commandRevision": 0
+}

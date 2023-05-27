@@ -1,0 +1,53 @@
+{
+  "_id": "0d2a3a9eb2b84edf844f964fb48c1e17",
+  "created": "2023-04-08T15:16:36.547Z",
+  "updated": "2023-04-09T15:06:48.915Z",
+  "rvn": 65,
+  "wipeNumber": 9,
+  "accountId": "929ccb6c363e437d9a356f4d89fd66c9",
+  "profileId": "metadata",
+  "version": "recover_outpost_metadata_april_2022",
+  "items": {
+    "b5ae6c9e-ae78-446b-bbd9-877e8b7a9cf7": {
+      "templateId": "Outpost:outpostcore_pve_01",
+      "attributes": {
+        "cloud_save_info": {
+          "saveCount": 28,
+          "savedRecords": [
+            {
+              "recordIndex": 0,
+              "archiveNumber": 0,
+              "recordFilename": "b5ae6c9e-ae78-446b-bbd9-877e8b7a9cf7_r0_a0.sav"
+            }
+          ]
+        },
+        "level": 5,
+        "outpost_core_info": {
+          "placedBuildings": [
+            {
+              "buildingTag": "Outpost.BuildingActor.Building.00",
+              "placedTag": "Outpost.PlacementActor.Placement.01"
+            },
+            {
+              "buildingTag": "Outpost.BuildingActor.Building.01",
+              "placedTag": "Outpost.PlacementActor.Placement.00"
+            },
+            {
+              "buildingTag": "Outpost.BuildingActor.Building.02",
+              "placedTag": "Outpost.PlacementActor.Placement.02"
+            }
+          ],
+          "accountsWithEditPermission": [
+            "b7a2f61a84b144cba6033bc2db89711e"
+          ],
+          "highestEnduranceWaveReached": 0
+        }
+      },
+      "quantity": 1
+    }
+  },
+  "stats": {
+    "attributes": {}
+  },
+  "commandRevision": 35
+}

@@ -1,0 +1,91 @@
+{
+  "_id": "52c188833e8048bfb0f602bae1a020aa",
+  "created": "2023-04-08T13:20:29.215Z",
+  "updated": "2023-04-08T13:20:29.215Z",
+  "rvn": 1,
+  "wipeNumber": 3,
+  "accountId": "929ccb6c363e437d9a356f4d89fd66c9",
+  "profileId": "collections",
+  "version": "season24_2400_collect_starting_augments_set",
+  "items": {
+    "4d890274-a710-426a-9a6a-ce162c865128": {
+      "templateId": "CollectablePlayerAugment:collection",
+      "attributes": {
+        "collected": [
+          {
+            "variantTag": "PlayerAugment.Collection.LightAmmo",
+            "seenState": "Collected",
+            "count": 1
+          },
+          {
+            "variantTag": "PlayerAugment.Collection.SniperAmmo",
+            "seenState": "Collected",
+            "count": 1
+          },
+          {
+            "variantTag": "PlayerAugment.Collection.ChugGunner",
+            "seenState": "Collected",
+            "count": 1
+          },
+          {
+            "variantTag": "PlayerAugment.Collection.BlueFish",
+            "seenState": "Collected",
+            "count": 1
+          },
+          {
+            "variantTag": "PlayerAugment.Collection.FuelEfficient",
+            "seenState": "Collected",
+            "count": 1
+          },
+          {
+            "variantTag": "PlayerAugment.Collection.TrickedOut",
+            "seenState": "Collected",
+            "count": 1
+          },
+          {
+            "variantTag": "PlayerAugment.Collection.Bloodhound",
+            "seenState": "Collected",
+            "count": 1
+          },
+          {
+            "variantTag": "PlayerAugment.Collection.ShadowStrike",
+            "seenState": "Collected",
+            "count": 1
+          },
+          {
+            "variantTag": "PlayerAugment.Collection.Acrobat",
+            "seenState": "Collected",
+            "count": 1
+          },
+          {
+            "variantTag": "PlayerAugment.Collection.GrantKeys",
+            "seenState": "Collected",
+            "count": 1
+          },
+          {
+            "variantTag": "PlayerAugment.Collection.SlapMedic",
+            "seenState": "Collected",
+            "count": 1
+          },
+          {
+            "variantTag": "PlayerAugment.Collection.SmoothSlide",
+            "seenState": "Collected",
+            "count": 1
+          },
+          {
+            "variantTag": "PlayerAugment.Collection.MediumAmp",
+            "seenState": "Collected",
+            "count": 1
+          }
+        ]
+      },
+      "quantity": 1
+    }
+  },
+  "stats": {
+    "attributes": {
+      "current_season": 24
+    }
+  },
+  "commandRevision": 0
+}
